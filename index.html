@@ -1,11 +1,74 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dasoon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div class="frame">
+        <aside class="sidebar">
+            <div class="logo">
+                <img src="images/logo.png" alt="Dasoon" width="206" height="72">
+            </div>
 
+            <nav class="app-sidebar-menu">
+                <div class="menu-group">
+                    <div class="menu-title">Document Intelligence</div>
+                    <a href="#" class="menu-item"><span class="icon"></span>Uploads</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Batch Uploads</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Error Logs</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Items</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Accounts</a>
+                </div>
+
+                <div class="menu-group">
+                    <div class="menu-title">Conversation Intelligence</div>
+                    <a href="#" class="menu-item active"><span class="icon"></span>Conversations</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Orders</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Exceptions</a>
+                </div>
+
+                <div class="menu-group">
+                    <div class="menu-title">ERP Data</div>
+                    <a href="#" class="menu-item"><span class="icon"></span>Customers</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Invoices</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Items</a>
+                </div>
+
+                <div class="menu-group">
+                    <div class="menu-title">System Settings</div>
+                    <a href="#" class="menu-item"><span class="icon"></span>Users</a>
+                    <a href="#" class="menu-item"><span class="icon"></span>Settings</a>
+                </div>
+            </nav>
+
+            <div class="footer-sidebar">
+                <div class="admin">
+                    <span class="avatar">AD</span>
+                    <div class="admin-info">
+                        <span class="admin-name">Admin</span>
+                        <span class="admin-role">Administrator</span>
+                    </div>
+                </div>
+                <a href="#" class="menu-item logout"><span class="icon"></span>Log Out</a>
+            </div>
+        </aside>
+
+        <main class="container">
+            <header class="topbar">
+                <button class="toggle" type="button" aria-label="Toggle sidebar"><span class="icon"></span></button>
+                <h1>Conversations</h1>
+            </header>
+
+            <section class="content"></section>
+
+            <footer class="page-footer">2024 © Dasoon</footer>
+        </main>
+    </div>
 </body>
 </html>
