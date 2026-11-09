@@ -9,7 +9,7 @@
       "phone": "+84509564001"
     },
     "lang": "en",
-    "inputToken": 293,
+    "inputTokens": 293,
     "outputTokens": 183,
     "totalTokens": 476,
     "date": "2026-08-25",
@@ -26,7 +26,7 @@
       "phone": "+84319878331"
     },
     "lang": "en",
-    "inputToken": 1481,
+    "inputTokens": 1481,
     "outputTokens": 435,
     "totalTokens": 1916,
     "date": "2026-09-05",
@@ -43,7 +43,7 @@
       "phone": "+84566373503"
     },
     "lang": "vi",
-    "inputToken": 1459,
+    "inputTokens": 1459,
     "outputTokens": 575,
     "totalTokens": 2034,
     "date": "2026-10-11",
@@ -60,7 +60,7 @@
       "phone": "+84738060157"
     },
     "lang": "en",
-    "inputToken": 440,
+    "inputTokens": 440,
     "outputTokens": 74,
     "totalTokens": 514,
     "date": "2026-08-17",
@@ -77,7 +77,7 @@
       "phone": "+84955480673"
     },
     "lang": "en",
-    "inputToken": 1041,
+    "inputTokens": 1041,
     "outputTokens": 915,
     "totalTokens": 1956,
     "date": "2026-06-23",
@@ -94,7 +94,7 @@
       "phone": "+84708768515"
     },
     "lang": "en",
-    "inputToken": 165,
+    "inputTokens": 165,
     "outputTokens": 41,
     "totalTokens": 206,
     "date": "2026-10-07",
@@ -111,7 +111,7 @@
       "phone": "+84866239399"
     },
     "lang": "en",
-    "inputToken": 1141,
+    "inputTokens": 1141,
     "outputTokens": 333,
     "totalTokens": 1474,
     "date": "2026-06-20",
@@ -128,7 +128,7 @@
       "phone": "+84719433089"
     },
     "lang": "vi",
-    "inputToken": 1592,
+    "inputTokens": 1592,
     "outputTokens": 182,
     "totalTokens": 1774,
     "date": "2026-07-11",
@@ -145,7 +145,7 @@
       "phone": "+84844257797"
     },
     "lang": "vi",
-    "inputToken": 863,
+    "inputTokens": 863,
     "outputTokens": 492,
     "totalTokens": 1355,
     "date": "2026-01-07",
@@ -162,7 +162,7 @@
       "phone": "+84567298484"
     },
     "lang": "en",
-    "inputToken": 229,
+    "inputTokens": 229,
     "outputTokens": 778,
     "totalTokens": 1007,
     "date": "2026-10-18",
@@ -179,7 +179,7 @@
       "phone": "+84754194832"
     },
     "lang": "en",
-    "inputToken": 1015,
+    "inputTokens": 1015,
     "outputTokens": 383,
     "totalTokens": 1398,
     "date": "2026-08-25",
@@ -196,7 +196,7 @@
       "phone": "+84304371565"
     },
     "lang": "en",
-    "inputToken": 296,
+    "inputTokens": 296,
     "outputTokens": 61,
     "totalTokens": 357,
     "date": "2026-08-21",
@@ -213,7 +213,7 @@
       "phone": "+84933295757"
     },
     "lang": "vi",
-    "inputToken": 1442,
+    "inputTokens": 1442,
     "outputTokens": 713,
     "totalTokens": 2155,
     "date": "2026-02-12",
@@ -230,7 +230,7 @@
       "phone": "+84566592364"
     },
     "lang": "en",
-    "inputToken": 1505,
+    "inputTokens": 1505,
     "outputTokens": 576,
     "totalTokens": 2081,
     "date": "2026-05-22",
@@ -247,7 +247,7 @@
       "phone": "+84815852270"
     },
     "lang": "vi",
-    "inputToken": 1591,
+    "inputTokens": 1591,
     "outputTokens": 577,
     "totalTokens": 2168,
     "date": "2026-08-01",
@@ -264,7 +264,7 @@
       "phone": "+84344108528"
     },
     "lang": "en",
-    "inputToken": 1050,
+    "inputTokens": 1050,
     "outputTokens": 612,
     "totalTokens": 1662,
     "date": "2026-10-15",
@@ -281,7 +281,7 @@
       "phone": "+84587127906"
     },
     "lang": "vi",
-    "inputToken": 1772,
+    "inputTokens": 1772,
     "outputTokens": 281,
     "totalTokens": 2053,
     "date": "2026-03-07",
@@ -298,7 +298,7 @@
       "phone": "+84561221701"
     },
     "lang": "en",
-    "inputToken": 1266,
+    "inputTokens": 1266,
     "outputTokens": 383,
     "totalTokens": 1649,
     "date": "2026-05-17",
@@ -315,7 +315,7 @@
       "phone": "+84817077304"
     },
     "lang": "vi",
-    "inputToken": 1319,
+    "inputTokens": 1319,
     "outputTokens": 306,
     "totalTokens": 1625,
     "date": "2026-05-30",
@@ -332,7 +332,7 @@
       "phone": "+84712354057"
     },
     "lang": "en",
-    "inputToken": 1474,
+    "inputTokens": 1474,
     "outputTokens": 293,
     "totalTokens": 1767,
     "date": "2026-09-23",
@@ -349,7 +349,7 @@
       "phone": "+84816774112"
     },
     "lang": "vi",
-    "inputToken": 768,
+    "inputTokens": 768,
     "outputTokens": 507,
     "totalTokens": 1275,
     "date": "2026-09-29",
@@ -366,7 +366,7 @@
       "phone": "+84823702185"
     },
     "lang": "vi",
-    "inputToken": 1146,
+    "inputTokens": 1146,
     "outputTokens": 570,
     "totalTokens": 1716,
     "date": "2026-03-07",
@@ -383,7 +383,7 @@
       "phone": "+84316719573"
     },
     "lang": "en",
-    "inputToken": 1539,
+    "inputTokens": 1539,
     "outputTokens": 557,
     "totalTokens": 2096,
     "date": "2026-05-02",
@@ -400,7 +400,7 @@
       "phone": "+84941457641"
     },
     "lang": "en",
-    "inputToken": 713,
+    "inputTokens": 713,
     "outputTokens": 509,
     "totalTokens": 1222,
     "date": "2026-03-27",
@@ -417,7 +417,7 @@
       "phone": "+84991493914"
     },
     "lang": "vi",
-    "inputToken": 1295,
+    "inputTokens": 1295,
     "outputTokens": 813,
     "totalTokens": 2108,
     "date": "2026-06-27",
@@ -434,7 +434,7 @@
       "phone": "+84326940982"
     },
     "lang": "vi",
-    "inputToken": 539,
+    "inputTokens": 539,
     "outputTokens": 860,
     "totalTokens": 1399,
     "date": "2026-01-09",
@@ -451,7 +451,7 @@
       "phone": "+84835565793"
     },
     "lang": "vi",
-    "inputToken": 790,
+    "inputTokens": 790,
     "outputTokens": 594,
     "totalTokens": 1384,
     "date": "2026-06-12",
@@ -468,7 +468,7 @@
       "phone": "+84824828054"
     },
     "lang": "en",
-    "inputToken": 737,
+    "inputTokens": 737,
     "outputTokens": 601,
     "totalTokens": 1338,
     "date": "2026-02-26",
@@ -485,7 +485,7 @@
       "phone": "+84921115524"
     },
     "lang": "en",
-    "inputToken": 1737,
+    "inputTokens": 1737,
     "outputTokens": 9,
     "totalTokens": 1746,
     "date": "2026-10-30",
@@ -502,7 +502,7 @@
       "phone": "+84365505370"
     },
     "lang": "en",
-    "inputToken": 537,
+    "inputTokens": 537,
     "outputTokens": 728,
     "totalTokens": 1265,
     "date": "2026-02-24",
@@ -519,7 +519,7 @@
       "phone": "+84709122700"
     },
     "lang": "en",
-    "inputToken": 1601,
+    "inputTokens": 1601,
     "outputTokens": 938,
     "totalTokens": 2539,
     "date": "2026-07-13",
@@ -536,7 +536,7 @@
       "phone": "+84812542477"
     },
     "lang": "en",
-    "inputToken": 881,
+    "inputTokens": 881,
     "outputTokens": 106,
     "totalTokens": 987,
     "date": "2026-02-08",
@@ -553,7 +553,7 @@
       "phone": "+84860786307"
     },
     "lang": "vi",
-    "inputToken": 1263,
+    "inputTokens": 1263,
     "outputTokens": 235,
     "totalTokens": 1498,
     "date": "2026-06-29",
@@ -570,7 +570,7 @@
       "phone": "+84782615925"
     },
     "lang": "vi",
-    "inputToken": 508,
+    "inputTokens": 508,
     "outputTokens": 588,
     "totalTokens": 1096,
     "date": "2026-08-08",
@@ -587,7 +587,7 @@
       "phone": "+84930337208"
     },
     "lang": "en",
-    "inputToken": 146,
+    "inputTokens": 146,
     "outputTokens": 553,
     "totalTokens": 699,
     "date": "2026-04-04",
@@ -604,7 +604,7 @@
       "phone": "+84946292002"
     },
     "lang": "en",
-    "inputToken": 312,
+    "inputTokens": 312,
     "outputTokens": 916,
     "totalTokens": 1228,
     "date": "2026-11-05",
@@ -621,7 +621,7 @@
       "phone": "+84530921594"
     },
     "lang": "en",
-    "inputToken": 352,
+    "inputTokens": 352,
     "outputTokens": 433,
     "totalTokens": 785,
     "date": "2026-04-13",
@@ -638,7 +638,7 @@
       "phone": "+84835309580"
     },
     "lang": "vi",
-    "inputToken": 839,
+    "inputTokens": 839,
     "outputTokens": 268,
     "totalTokens": 1107,
     "date": "2026-07-27",
@@ -655,7 +655,7 @@
       "phone": "+84971168701"
     },
     "lang": "en",
-    "inputToken": 1515,
+    "inputTokens": 1515,
     "outputTokens": 270,
     "totalTokens": 1785,
     "date": "2026-10-15",
@@ -672,7 +672,7 @@
       "phone": "+84393882058"
     },
     "lang": "en",
-    "inputToken": 825,
+    "inputTokens": 825,
     "outputTokens": 804,
     "totalTokens": 1629,
     "date": "2026-08-11",
@@ -689,7 +689,7 @@
       "phone": "+84890347708"
     },
     "lang": "vi",
-    "inputToken": 319,
+    "inputTokens": 319,
     "outputTokens": 316,
     "totalTokens": 635,
     "date": "2026-08-04",
@@ -706,7 +706,7 @@
       "phone": "+84905026386"
     },
     "lang": "en",
-    "inputToken": 1113,
+    "inputTokens": 1113,
     "outputTokens": 263,
     "totalTokens": 1376,
     "date": "2026-10-22",
@@ -723,7 +723,7 @@
       "phone": "+84983955727"
     },
     "lang": "vi",
-    "inputToken": 463,
+    "inputTokens": 463,
     "outputTokens": 443,
     "totalTokens": 906,
     "date": "2026-06-09",
@@ -740,7 +740,7 @@
       "phone": "+84950516422"
     },
     "lang": "vi",
-    "inputToken": 1505,
+    "inputTokens": 1505,
     "outputTokens": 570,
     "totalTokens": 2075,
     "date": "2026-04-13",
@@ -757,7 +757,7 @@
       "phone": "+84737274458"
     },
     "lang": "en",
-    "inputToken": 492,
+    "inputTokens": 492,
     "outputTokens": 260,
     "totalTokens": 752,
     "date": "2026-01-30",
@@ -774,7 +774,7 @@
       "phone": "+84532937845"
     },
     "lang": "en",
-    "inputToken": 644,
+    "inputTokens": 644,
     "outputTokens": 669,
     "totalTokens": 1313,
     "date": "2026-03-14",
@@ -791,7 +791,7 @@
       "phone": "+84977669054"
     },
     "lang": "vi",
-    "inputToken": 997,
+    "inputTokens": 997,
     "outputTokens": 135,
     "totalTokens": 1132,
     "date": "2026-05-14",
@@ -808,7 +808,7 @@
       "phone": "+84382070333"
     },
     "lang": "en",
-    "inputToken": 1264,
+    "inputTokens": 1264,
     "outputTokens": 710,
     "totalTokens": 1974,
     "date": "2026-02-27",
@@ -825,7 +825,7 @@
       "phone": "+84896881656"
     },
     "lang": "en",
-    "inputToken": 1745,
+    "inputTokens": 1745,
     "outputTokens": 95,
     "totalTokens": 1840,
     "date": "2026-09-14",
@@ -842,7 +842,7 @@
       "phone": "+84561020498"
     },
     "lang": "en",
-    "inputToken": 938,
+    "inputTokens": 938,
     "outputTokens": 374,
     "totalTokens": 1312,
     "date": "2026-10-12",
@@ -859,7 +859,7 @@
       "phone": "+84545717247"
     },
     "lang": "en",
-    "inputToken": 1490,
+    "inputTokens": 1490,
     "outputTokens": 506,
     "totalTokens": 1996,
     "date": "2026-05-12",
@@ -876,7 +876,7 @@
       "phone": "+84357410044"
     },
     "lang": "vi",
-    "inputToken": 1621,
+    "inputTokens": 1621,
     "outputTokens": 375,
     "totalTokens": 1996,
     "date": "2026-08-26",
@@ -893,7 +893,7 @@
       "phone": "+84859176104"
     },
     "lang": "vi",
-    "inputToken": 1243,
+    "inputTokens": 1243,
     "outputTokens": 610,
     "totalTokens": 1853,
     "date": "2026-06-07",
@@ -910,7 +910,7 @@
       "phone": "+84559045301"
     },
     "lang": "en",
-    "inputToken": 1547,
+    "inputTokens": 1547,
     "outputTokens": 72,
     "totalTokens": 1619,
     "date": "2026-01-28",
@@ -927,7 +927,7 @@
       "phone": "+84339856959"
     },
     "lang": "en",
-    "inputToken": 660,
+    "inputTokens": 660,
     "outputTokens": 163,
     "totalTokens": 823,
     "date": "2026-07-13",
@@ -944,7 +944,7 @@
       "phone": "+84322356352"
     },
     "lang": "en",
-    "inputToken": 205,
+    "inputTokens": 205,
     "outputTokens": 713,
     "totalTokens": 918,
     "date": "2026-03-03",
@@ -961,7 +961,7 @@
       "phone": "+84799583079"
     },
     "lang": "en",
-    "inputToken": 1469,
+    "inputTokens": 1469,
     "outputTokens": 226,
     "totalTokens": 1695,
     "date": "2026-02-18",
@@ -978,7 +978,7 @@
       "phone": "+84315606905"
     },
     "lang": "en",
-    "inputToken": 867,
+    "inputTokens": 867,
     "outputTokens": 308,
     "totalTokens": 1175,
     "date": "2026-06-23",
@@ -995,7 +995,7 @@
       "phone": "+84365144511"
     },
     "lang": "en",
-    "inputToken": 1024,
+    "inputTokens": 1024,
     "outputTokens": 222,
     "totalTokens": 1246,
     "date": "2026-02-27",
@@ -1012,7 +1012,7 @@
       "phone": "+84568618408"
     },
     "lang": "en",
-    "inputToken": 859,
+    "inputTokens": 859,
     "outputTokens": 822,
     "totalTokens": 1681,
     "date": "2026-06-23",
@@ -1029,7 +1029,7 @@
       "phone": "+84795452928"
     },
     "lang": "vi",
-    "inputToken": 252,
+    "inputTokens": 252,
     "outputTokens": 547,
     "totalTokens": 799,
     "date": "2026-03-27",
@@ -1046,7 +1046,7 @@
       "phone": "+84774348989"
     },
     "lang": "en",
-    "inputToken": 1312,
+    "inputTokens": 1312,
     "outputTokens": 22,
     "totalTokens": 1334,
     "date": "2026-03-01",
@@ -1063,7 +1063,7 @@
       "phone": "+84875456263"
     },
     "lang": "en",
-    "inputToken": 624,
+    "inputTokens": 624,
     "outputTokens": 265,
     "totalTokens": 889,
     "date": "2026-02-07",
@@ -1080,7 +1080,7 @@
       "phone": "+84565655634"
     },
     "lang": "en",
-    "inputToken": 514,
+    "inputTokens": 514,
     "outputTokens": 155,
     "totalTokens": 669,
     "date": "2026-10-09",
@@ -1097,7 +1097,7 @@
       "phone": "+84333287272"
     },
     "lang": "vi",
-    "inputToken": 1220,
+    "inputTokens": 1220,
     "outputTokens": 681,
     "totalTokens": 1901,
     "date": "2026-09-01",
@@ -1114,7 +1114,7 @@
       "phone": "+84393768022"
     },
     "lang": "en",
-    "inputToken": 681,
+    "inputTokens": 681,
     "outputTokens": 437,
     "totalTokens": 1118,
     "date": "2026-04-03",
@@ -1131,7 +1131,7 @@
       "phone": "+84349680507"
     },
     "lang": "vi",
-    "inputToken": 298,
+    "inputTokens": 298,
     "outputTokens": 905,
     "totalTokens": 1203,
     "date": "2026-04-23",
@@ -1148,7 +1148,7 @@
       "phone": "+84909572057"
     },
     "lang": "en",
-    "inputToken": 530,
+    "inputTokens": 530,
     "outputTokens": 406,
     "totalTokens": 936,
     "date": "2026-03-01",
@@ -1165,7 +1165,7 @@
       "phone": "+84936737592"
     },
     "lang": "en",
-    "inputToken": 340,
+    "inputTokens": 340,
     "outputTokens": 581,
     "totalTokens": 921,
     "date": "2026-05-02",
@@ -1182,7 +1182,7 @@
       "phone": "+84300851308"
     },
     "lang": "en",
-    "inputToken": 712,
+    "inputTokens": 712,
     "outputTokens": 913,
     "totalTokens": 1625,
     "date": "2026-08-21",
@@ -1199,7 +1199,7 @@
       "phone": "+84522155932"
     },
     "lang": "vi",
-    "inputToken": 1596,
+    "inputTokens": 1596,
     "outputTokens": 496,
     "totalTokens": 2092,
     "date": "2026-10-26",
@@ -1216,7 +1216,7 @@
       "phone": "+84363179164"
     },
     "lang": "en",
-    "inputToken": 39,
+    "inputTokens": 39,
     "outputTokens": 888,
     "totalTokens": 927,
     "date": "2026-05-14",
@@ -1233,7 +1233,7 @@
       "phone": "+84795437131"
     },
     "lang": "vi",
-    "inputToken": 570,
+    "inputTokens": 570,
     "outputTokens": 417,
     "totalTokens": 987,
     "date": "2026-02-06",
@@ -1250,7 +1250,7 @@
       "phone": "+84501847758"
     },
     "lang": "vi",
-    "inputToken": 137,
+    "inputTokens": 137,
     "outputTokens": 517,
     "totalTokens": 654,
     "date": "2026-05-23",
@@ -1267,7 +1267,7 @@
       "phone": "+84793859819"
     },
     "lang": "vi",
-    "inputToken": 936,
+    "inputTokens": 936,
     "outputTokens": 293,
     "totalTokens": 1229,
     "date": "2026-07-15",
@@ -1284,7 +1284,7 @@
       "phone": "+84860421605"
     },
     "lang": "vi",
-    "inputToken": 1022,
+    "inputTokens": 1022,
     "outputTokens": 226,
     "totalTokens": 1248,
     "date": "2026-02-24",
@@ -1301,7 +1301,7 @@
       "phone": "+84310836331"
     },
     "lang": "en",
-    "inputToken": 961,
+    "inputTokens": 961,
     "outputTokens": 44,
     "totalTokens": 1005,
     "date": "2026-10-15",
@@ -1318,7 +1318,7 @@
       "phone": "+84930188188"
     },
     "lang": "en",
-    "inputToken": 1154,
+    "inputTokens": 1154,
     "outputTokens": 722,
     "totalTokens": 1876,
     "date": "2026-05-05",
@@ -1335,7 +1335,7 @@
       "phone": "+84746543602"
     },
     "lang": "en",
-    "inputToken": 1134,
+    "inputTokens": 1134,
     "outputTokens": 614,
     "totalTokens": 1748,
     "date": "2026-01-12",
@@ -1352,7 +1352,7 @@
       "phone": "+84581886753"
     },
     "lang": "en",
-    "inputToken": 338,
+    "inputTokens": 338,
     "outputTokens": 27,
     "totalTokens": 365,
     "date": "2026-01-19",
@@ -1369,7 +1369,7 @@
       "phone": "+84899760650"
     },
     "lang": "en",
-    "inputToken": 1130,
+    "inputTokens": 1130,
     "outputTokens": 941,
     "totalTokens": 2071,
     "date": "2026-09-04",
@@ -1386,7 +1386,7 @@
       "phone": "+84397661699"
     },
     "lang": "vi",
-    "inputToken": 1578,
+    "inputTokens": 1578,
     "outputTokens": 340,
     "totalTokens": 1918,
     "date": "2026-08-29",
@@ -1403,7 +1403,7 @@
       "phone": "+84927581454"
     },
     "lang": "vi",
-    "inputToken": 1237,
+    "inputTokens": 1237,
     "outputTokens": 295,
     "totalTokens": 1532,
     "date": "2026-01-15",
@@ -1420,7 +1420,7 @@
       "phone": "+84396103892"
     },
     "lang": "en",
-    "inputToken": 806,
+    "inputTokens": 806,
     "outputTokens": 633,
     "totalTokens": 1439,
     "date": "2026-08-07",
@@ -1437,7 +1437,7 @@
       "phone": "+84385008875"
     },
     "lang": "en",
-    "inputToken": 964,
+    "inputTokens": 964,
     "outputTokens": 839,
     "totalTokens": 1803,
     "date": "2026-02-11",
@@ -1454,7 +1454,7 @@
       "phone": "+84390020302"
     },
     "lang": "vi",
-    "inputToken": 619,
+    "inputTokens": 619,
     "outputTokens": 437,
     "totalTokens": 1056,
     "date": "2026-09-07",
@@ -1471,7 +1471,7 @@
       "phone": "+84968704032"
     },
     "lang": "en",
-    "inputToken": 154,
+    "inputTokens": 154,
     "outputTokens": 661,
     "totalTokens": 815,
     "date": "2026-08-11",
@@ -1488,7 +1488,7 @@
       "phone": "+84803125236"
     },
     "lang": "en",
-    "inputToken": 791,
+    "inputTokens": 791,
     "outputTokens": 895,
     "totalTokens": 1686,
     "date": "2026-02-04",
@@ -1505,7 +1505,7 @@
       "phone": "+84968996965"
     },
     "lang": "vi",
-    "inputToken": 1268,
+    "inputTokens": 1268,
     "outputTokens": 346,
     "totalTokens": 1614,
     "date": "2026-08-15",
@@ -1522,7 +1522,7 @@
       "phone": "+84840230799"
     },
     "lang": "vi",
-    "inputToken": 1615,
+    "inputTokens": 1615,
     "outputTokens": 475,
     "totalTokens": 2090,
     "date": "2026-10-24",
@@ -1539,7 +1539,7 @@
       "phone": "+84891959196"
     },
     "lang": "en",
-    "inputToken": 474,
+    "inputTokens": 474,
     "outputTokens": 279,
     "totalTokens": 753,
     "date": "2026-10-01",
@@ -1556,7 +1556,7 @@
       "phone": "+84362400570"
     },
     "lang": "vi",
-    "inputToken": 912,
+    "inputTokens": 912,
     "outputTokens": 447,
     "totalTokens": 1359,
     "date": "2026-05-26",
@@ -1573,7 +1573,7 @@
       "phone": "+84921566430"
     },
     "lang": "vi",
-    "inputToken": 30,
+    "inputTokens": 30,
     "outputTokens": 195,
     "totalTokens": 225,
     "date": "2026-05-05",
@@ -1590,7 +1590,7 @@
       "phone": "+84588893843"
     },
     "lang": "en",
-    "inputToken": 859,
+    "inputTokens": 859,
     "outputTokens": 802,
     "totalTokens": 1661,
     "date": "2026-09-27",
@@ -1607,7 +1607,7 @@
       "phone": "+84702056206"
     },
     "lang": "vi",
-    "inputToken": 1151,
+    "inputTokens": 1151,
     "outputTokens": 582,
     "totalTokens": 1733,
     "date": "2026-02-10",
@@ -1624,7 +1624,7 @@
       "phone": "+84790398956"
     },
     "lang": "vi",
-    "inputToken": 183,
+    "inputTokens": 183,
     "outputTokens": 847,
     "totalTokens": 1030,
     "date": "2026-08-22",
@@ -1641,7 +1641,7 @@
       "phone": "+84535505911"
     },
     "lang": "en",
-    "inputToken": 583,
+    "inputTokens": 583,
     "outputTokens": 825,
     "totalTokens": 1408,
     "date": "2026-10-22",
@@ -1658,7 +1658,7 @@
       "phone": "+84896565523"
     },
     "lang": "en",
-    "inputToken": 639,
+    "inputTokens": 639,
     "outputTokens": 603,
     "totalTokens": 1242,
     "date": "2026-03-19",
@@ -1675,7 +1675,7 @@
       "phone": "+84849873983"
     },
     "lang": "vi",
-    "inputToken": 1486,
+    "inputTokens": 1486,
     "outputTokens": 15,
     "totalTokens": 1501,
     "date": "2026-03-12",
@@ -1692,7 +1692,7 @@
       "phone": "+84895243556"
     },
     "lang": "en",
-    "inputToken": 757,
+    "inputTokens": 757,
     "outputTokens": 226,
     "totalTokens": 983,
     "date": "2026-04-02",
@@ -1709,7 +1709,7 @@
       "phone": "+84375450670"
     },
     "lang": "en",
-    "inputToken": 1434,
+    "inputTokens": 1434,
     "outputTokens": 492,
     "totalTokens": 1926,
     "date": "2026-03-24",
@@ -1726,7 +1726,7 @@
       "phone": "+84733393250"
     },
     "lang": "en",
-    "inputToken": 934,
+    "inputTokens": 934,
     "outputTokens": 802,
     "totalTokens": 1736,
     "date": "2026-01-12",
@@ -1743,7 +1743,7 @@
       "phone": "+84536824093"
     },
     "lang": "vi",
-    "inputToken": 514,
+    "inputTokens": 514,
     "outputTokens": 167,
     "totalTokens": 681,
     "date": "2026-07-20",
@@ -1760,7 +1760,7 @@
       "phone": "+84870989456"
     },
     "lang": "en",
-    "inputToken": 1324,
+    "inputTokens": 1324,
     "outputTokens": 248,
     "totalTokens": 1572,
     "date": "2026-08-30",
@@ -1777,7 +1777,7 @@
       "phone": "+84989846617"
     },
     "lang": "en",
-    "inputToken": 1736,
+    "inputTokens": 1736,
     "outputTokens": 9,
     "totalTokens": 1745,
     "date": "2026-03-31",
@@ -1794,7 +1794,7 @@
       "phone": "+84583044840"
     },
     "lang": "en",
-    "inputToken": 319,
+    "inputTokens": 319,
     "outputTokens": 826,
     "totalTokens": 1145,
     "date": "2026-07-06",
@@ -1811,7 +1811,7 @@
       "phone": "+84984694579"
     },
     "lang": "en",
-    "inputToken": 755,
+    "inputTokens": 755,
     "outputTokens": 681,
     "totalTokens": 1436,
     "date": "2026-01-03",
@@ -1828,7 +1828,7 @@
       "phone": "+84748464193"
     },
     "lang": "en",
-    "inputToken": 1115,
+    "inputTokens": 1115,
     "outputTokens": 724,
     "totalTokens": 1839,
     "date": "2026-03-24",
@@ -1845,7 +1845,7 @@
       "phone": "+84851095438"
     },
     "lang": "en",
-    "inputToken": 958,
+    "inputTokens": 958,
     "outputTokens": 499,
     "totalTokens": 1457,
     "date": "2026-03-13",
@@ -1862,7 +1862,7 @@
       "phone": "+84965568807"
     },
     "lang": "vi",
-    "inputToken": 720,
+    "inputTokens": 720,
     "outputTokens": 252,
     "totalTokens": 972,
     "date": "2026-03-01",
@@ -1879,7 +1879,7 @@
       "phone": "+84360434940"
     },
     "lang": "vi",
-    "inputToken": 15,
+    "inputTokens": 15,
     "outputTokens": 109,
     "totalTokens": 124,
     "date": "2026-10-30",
@@ -1896,7 +1896,7 @@
       "phone": "+84552681140"
     },
     "lang": "en",
-    "inputToken": 1759,
+    "inputTokens": 1759,
     "outputTokens": 132,
     "totalTokens": 1891,
     "date": "2026-02-12",
@@ -1913,7 +1913,7 @@
       "phone": "+84796215238"
     },
     "lang": "en",
-    "inputToken": 606,
+    "inputTokens": 606,
     "outputTokens": 202,
     "totalTokens": 808,
     "date": "2026-06-08",
@@ -1930,7 +1930,7 @@
       "phone": "+84553329557"
     },
     "lang": "en",
-    "inputToken": 1648,
+    "inputTokens": 1648,
     "outputTokens": 195,
     "totalTokens": 1843,
     "date": "2026-04-06",
@@ -1947,7 +1947,7 @@
       "phone": "+84339279663"
     },
     "lang": "vi",
-    "inputToken": 1236,
+    "inputTokens": 1236,
     "outputTokens": 909,
     "totalTokens": 2145,
     "date": "2026-03-14",
@@ -1964,7 +1964,7 @@
       "phone": "+84782976563"
     },
     "lang": "vi",
-    "inputToken": 1351,
+    "inputTokens": 1351,
     "outputTokens": 518,
     "totalTokens": 1869,
     "date": "2026-09-29",
@@ -1981,7 +1981,7 @@
       "phone": "+84996754769"
     },
     "lang": "en",
-    "inputToken": 270,
+    "inputTokens": 270,
     "outputTokens": 736,
     "totalTokens": 1006,
     "date": "2026-09-06",
@@ -1998,7 +1998,7 @@
       "phone": "+84577342177"
     },
     "lang": "vi",
-    "inputToken": 884,
+    "inputTokens": 884,
     "outputTokens": 88,
     "totalTokens": 972,
     "date": "2026-07-08",
@@ -2015,7 +2015,7 @@
       "phone": "+84952716125"
     },
     "lang": "en",
-    "inputToken": 568,
+    "inputTokens": 568,
     "outputTokens": 489,
     "totalTokens": 1057,
     "date": "2026-04-25",
@@ -2032,7 +2032,7 @@
       "phone": "+84715628783"
     },
     "lang": "en",
-    "inputToken": 1335,
+    "inputTokens": 1335,
     "outputTokens": 597,
     "totalTokens": 1932,
     "date": "2026-10-05",
@@ -2049,7 +2049,7 @@
       "phone": "+84525086956"
     },
     "lang": "en",
-    "inputToken": 1345,
+    "inputTokens": 1345,
     "outputTokens": 458,
     "totalTokens": 1803,
     "date": "2026-04-14",
@@ -2066,7 +2066,7 @@
       "phone": "+84714275609"
     },
     "lang": "vi",
-    "inputToken": 1282,
+    "inputTokens": 1282,
     "outputTokens": 360,
     "totalTokens": 1642,
     "date": "2026-10-12",
@@ -2083,7 +2083,7 @@
       "phone": "+84943538384"
     },
     "lang": "vi",
-    "inputToken": 843,
+    "inputTokens": 843,
     "outputTokens": 633,
     "totalTokens": 1476,
     "date": "2026-10-19",
@@ -2100,7 +2100,7 @@
       "phone": "+84587106851"
     },
     "lang": "en",
-    "inputToken": 1732,
+    "inputTokens": 1732,
     "outputTokens": 139,
     "totalTokens": 1871,
     "date": "2026-10-19",
@@ -2117,7 +2117,7 @@
       "phone": "+84563854958"
     },
     "lang": "vi",
-    "inputToken": 774,
+    "inputTokens": 774,
     "outputTokens": 846,
     "totalTokens": 1620,
     "date": "2026-10-14",
@@ -2134,7 +2134,7 @@
       "phone": "+84378507847"
     },
     "lang": null,
-    "inputToken": 345,
+    "inputTokens": 345,
     "outputTokens": 481,
     "totalTokens": 826,
     "date": "2026-09-27",
@@ -2151,7 +2151,7 @@
       "phone": "+84349917485"
     },
     "lang": "vi",
-    "inputToken": 396,
+    "inputTokens": 396,
     "outputTokens": 703,
     "totalTokens": 1099,
     "date": "2026-05-26",
@@ -2168,7 +2168,7 @@
       "phone": "+84836024855"
     },
     "lang": "vi",
-    "inputToken": 862,
+    "inputTokens": 862,
     "outputTokens": 712,
     "totalTokens": 1574,
     "date": "2026-10-19",
@@ -2185,7 +2185,7 @@
       "phone": null
     },
     "lang": "en",
-    "inputToken": 768,
+    "inputTokens": 768,
     "outputTokens": 658,
     "totalTokens": 1426,
     "date": "2026-02-24",
@@ -2202,7 +2202,7 @@
       "phone": "+84872656915"
     },
     "lang": "en",
-    "inputToken": 222,
+    "inputTokens": 222,
     "outputTokens": 639,
     "totalTokens": 861,
     "date": "2026-06-03",
@@ -2219,7 +2219,7 @@
       "phone": "+84523871047"
     },
     "lang": "vi",
-    "inputToken": 1330,
+    "inputTokens": 1330,
     "outputTokens": 502,
     "totalTokens": 1832,
     "date": "2026-01-20",
@@ -2236,7 +2236,7 @@
       "phone": "+84581927079"
     },
     "lang": "vi",
-    "inputToken": 257,
+    "inputTokens": 257,
     "outputTokens": 687,
     "totalTokens": 944,
     "date": "2026-10-13",
@@ -2253,7 +2253,7 @@
       "phone": "+84565497414"
     },
     "lang": "vi",
-    "inputToken": 294,
+    "inputTokens": 294,
     "outputTokens": 213,
     "totalTokens": 507,
     "date": "2026-02-01",
@@ -2270,7 +2270,7 @@
       "phone": "+84998491127"
     },
     "lang": "en",
-    "inputToken": 384,
+    "inputTokens": 384,
     "outputTokens": 837,
     "totalTokens": 1221,
     "date": "2026-02-12",
@@ -2287,7 +2287,7 @@
       "phone": "+84841927796"
     },
     "lang": "vi",
-    "inputToken": 1469,
+    "inputTokens": 1469,
     "outputTokens": 155,
     "totalTokens": 1624,
     "date": "2026-01-06",
@@ -2304,7 +2304,7 @@
       "phone": "+84757213017"
     },
     "lang": null,
-    "inputToken": 76,
+    "inputTokens": 76,
     "outputTokens": 789,
     "totalTokens": 865,
     "date": "2026-06-19",
@@ -2321,7 +2321,7 @@
       "phone": "+84812440574"
     },
     "lang": "vi",
-    "inputToken": 633,
+    "inputTokens": 633,
     "outputTokens": 377,
     "totalTokens": 1010,
     "date": "2026-03-11",
@@ -2338,7 +2338,7 @@
       "phone": "+84563764642"
     },
     "lang": "en",
-    "inputToken": 106,
+    "inputTokens": 106,
     "outputTokens": 839,
     "totalTokens": 945,
     "date": "2026-07-08",
@@ -2355,7 +2355,7 @@
       "phone": "+84513648235"
     },
     "lang": "vi",
-    "inputToken": 1248,
+    "inputTokens": 1248,
     "outputTokens": 424,
     "totalTokens": 1672,
     "date": "2026-03-12",
@@ -2372,7 +2372,7 @@
       "phone": "+84898440930"
     },
     "lang": "en",
-    "inputToken": 776,
+    "inputTokens": 776,
     "outputTokens": 802,
     "totalTokens": 1578,
     "date": "2026-09-24",
@@ -2389,7 +2389,7 @@
       "phone": "+84560984004"
     },
     "lang": "en",
-    "inputToken": 103,
+    "inputTokens": 103,
     "outputTokens": 345,
     "totalTokens": 448,
     "date": "2026-05-31",
@@ -2406,7 +2406,7 @@
       "phone": "+84354630241"
     },
     "lang": "vi",
-    "inputToken": 1309,
+    "inputTokens": 1309,
     "outputTokens": 680,
     "totalTokens": 1989,
     "date": "2026-08-17",
@@ -2423,7 +2423,7 @@
       "phone": "+84817289054"
     },
     "lang": "en",
-    "inputToken": 389,
+    "inputTokens": 389,
     "outputTokens": 599,
     "totalTokens": 988,
     "date": "2026-01-19",
@@ -2440,7 +2440,7 @@
       "phone": "+84579279186"
     },
     "lang": "vi",
-    "inputToken": 1264,
+    "inputTokens": 1264,
     "outputTokens": 752,
     "totalTokens": 2016,
     "date": "2026-05-19",
@@ -2457,7 +2457,7 @@
       "phone": "+84892893323"
     },
     "lang": "vi",
-    "inputToken": 271,
+    "inputTokens": 271,
     "outputTokens": 156,
     "totalTokens": 427,
     "date": "2026-02-08",
@@ -2474,7 +2474,7 @@
       "phone": "+84922525268"
     },
     "lang": "vi",
-    "inputToken": 935,
+    "inputTokens": 935,
     "outputTokens": 586,
     "totalTokens": 1521,
     "date": "2026-08-07",
@@ -2491,7 +2491,7 @@
       "phone": "+84860718972"
     },
     "lang": "vi",
-    "inputToken": 58,
+    "inputTokens": 58,
     "outputTokens": 934,
     "totalTokens": 992,
     "date": "2026-10-31",
@@ -2508,7 +2508,7 @@
       "phone": "+84305323547"
     },
     "lang": "vi",
-    "inputToken": 522,
+    "inputTokens": 522,
     "outputTokens": 896,
     "totalTokens": 1418,
     "date": "2026-07-08",
@@ -2525,7 +2525,7 @@
       "phone": "+84879442141"
     },
     "lang": "vi",
-    "inputToken": 574,
+    "inputTokens": 574,
     "outputTokens": 388,
     "totalTokens": 962,
     "date": "2026-07-17",
@@ -2542,7 +2542,7 @@
       "phone": "+84823212965"
     },
     "lang": "vi",
-    "inputToken": 298,
+    "inputTokens": 298,
     "outputTokens": 584,
     "totalTokens": 882,
     "date": "2026-04-23",
@@ -2559,7 +2559,7 @@
       "phone": "+84830106845"
     },
     "lang": "en",
-    "inputToken": 807,
+    "inputTokens": 807,
     "outputTokens": 143,
     "totalTokens": 950,
     "date": "2026-08-20",
@@ -2576,7 +2576,7 @@
       "phone": "+84829352381"
     },
     "lang": "en",
-    "inputToken": 1326,
+    "inputTokens": 1326,
     "outputTokens": 681,
     "totalTokens": 2007,
     "date": "2026-02-11",
@@ -2593,7 +2593,7 @@
       "phone": "+84950872229"
     },
     "lang": "vi",
-    "inputToken": 734,
+    "inputTokens": 734,
     "outputTokens": 610,
     "totalTokens": 1344,
     "date": "2026-06-08",
@@ -2610,7 +2610,7 @@
       "phone": "+84307224930"
     },
     "lang": "en",
-    "inputToken": 1683,
+    "inputTokens": 1683,
     "outputTokens": 643,
     "totalTokens": 2326,
     "date": "2026-01-19",
@@ -2627,7 +2627,7 @@
       "phone": "+84542665757"
     },
     "lang": "en",
-    "inputToken": 1157,
+    "inputTokens": 1157,
     "outputTokens": 733,
     "totalTokens": 1890,
     "date": "2026-08-15",
@@ -2644,7 +2644,7 @@
       "phone": "+84336714816"
     },
     "lang": "vi",
-    "inputToken": 568,
+    "inputTokens": 568,
     "outputTokens": 681,
     "totalTokens": 1249,
     "date": "2026-01-16",
@@ -2661,7 +2661,7 @@
       "phone": "+84985028625"
     },
     "lang": "en",
-    "inputToken": 1206,
+    "inputTokens": 1206,
     "outputTokens": 263,
     "totalTokens": 1469,
     "date": "2026-06-26",
@@ -2678,7 +2678,7 @@
       "phone": "+84591972929"
     },
     "lang": "en",
-    "inputToken": 1023,
+    "inputTokens": 1023,
     "outputTokens": 311,
     "totalTokens": 1334,
     "date": "2026-11-01",
@@ -2695,7 +2695,7 @@
       "phone": "+84942238779"
     },
     "lang": "vi",
-    "inputToken": 1273,
+    "inputTokens": 1273,
     "outputTokens": 597,
     "totalTokens": 1870,
     "date": "2026-05-23",
@@ -2712,7 +2712,7 @@
       "phone": "+84368829007"
     },
     "lang": "vi",
-    "inputToken": 489,
+    "inputTokens": 489,
     "outputTokens": 193,
     "totalTokens": 682,
     "date": "2026-04-16",
@@ -2729,7 +2729,7 @@
       "phone": "+84803440383"
     },
     "lang": "en",
-    "inputToken": 990,
+    "inputTokens": 990,
     "outputTokens": 858,
     "totalTokens": 1848,
     "date": "2026-10-05",
@@ -2746,7 +2746,7 @@
       "phone": "+84764187357"
     },
     "lang": "vi",
-    "inputToken": 1447,
+    "inputTokens": 1447,
     "outputTokens": 827,
     "totalTokens": 2274,
     "date": "2026-02-15",
@@ -2763,7 +2763,7 @@
       "phone": "+84894903865"
     },
     "lang": "vi",
-    "inputToken": 1232,
+    "inputTokens": 1232,
     "outputTokens": 760,
     "totalTokens": 1992,
     "date": "2026-04-09",
@@ -2780,7 +2780,7 @@
       "phone": "+84586794514"
     },
     "lang": "vi",
-    "inputToken": 802,
+    "inputTokens": 802,
     "outputTokens": 208,
     "totalTokens": 1010,
     "date": "2026-08-12",
@@ -2797,7 +2797,7 @@
       "phone": "+84302205975"
     },
     "lang": "vi",
-    "inputToken": 1446,
+    "inputTokens": 1446,
     "outputTokens": 756,
     "totalTokens": 2202,
     "date": "2026-06-03",
@@ -2814,7 +2814,7 @@
       "phone": "+84840508553"
     },
     "lang": "vi",
-    "inputToken": 1453,
+    "inputTokens": 1453,
     "outputTokens": 713,
     "totalTokens": 2166,
     "date": "2026-06-05",
@@ -2831,7 +2831,7 @@
       "phone": "+84884287477"
     },
     "lang": "en",
-    "inputToken": 1299,
+    "inputTokens": 1299,
     "outputTokens": 950,
     "totalTokens": 2249,
     "date": "2026-08-28",
@@ -2848,7 +2848,7 @@
       "phone": "+84505292999"
     },
     "lang": "en",
-    "inputToken": 1779,
+    "inputTokens": 1779,
     "outputTokens": 785,
     "totalTokens": 2564,
     "date": "2026-06-11",
@@ -2865,7 +2865,7 @@
       "phone": "+84931271665"
     },
     "lang": "vi",
-    "inputToken": 726,
+    "inputTokens": 726,
     "outputTokens": 170,
     "totalTokens": 896,
     "date": "2026-10-17",
@@ -2882,7 +2882,7 @@
       "phone": "+84867687674"
     },
     "lang": "vi",
-    "inputToken": 822,
+    "inputTokens": 822,
     "outputTokens": 844,
     "totalTokens": 1666,
     "date": "2026-01-17",
@@ -2899,7 +2899,7 @@
       "phone": "+84885150057"
     },
     "lang": "vi",
-    "inputToken": 1044,
+    "inputTokens": 1044,
     "outputTokens": 735,
     "totalTokens": 1779,
     "date": "2026-10-17",
@@ -2916,7 +2916,7 @@
       "phone": "+84824830762"
     },
     "lang": "vi",
-    "inputToken": 526,
+    "inputTokens": 526,
     "outputTokens": 748,
     "totalTokens": 1274,
     "date": "2026-08-04",
@@ -2933,7 +2933,7 @@
       "phone": "+84998190819"
     },
     "lang": "vi",
-    "inputToken": 696,
+    "inputTokens": 696,
     "outputTokens": 536,
     "totalTokens": 1232,
     "date": "2026-05-09",
@@ -2950,7 +2950,7 @@
       "phone": "+84329032377"
     },
     "lang": "en",
-    "inputToken": 854,
+    "inputTokens": 854,
     "outputTokens": 23,
     "totalTokens": 877,
     "date": "2026-10-29",
@@ -2967,7 +2967,7 @@
       "phone": "+84360271907"
     },
     "lang": "vi",
-    "inputToken": 1700,
+    "inputTokens": 1700,
     "outputTokens": 575,
     "totalTokens": 2275,
     "date": "2026-02-24",
@@ -2984,7 +2984,7 @@
       "phone": "+84725183134"
     },
     "lang": "en",
-    "inputToken": 1618,
+    "inputTokens": 1618,
     "outputTokens": 361,
     "totalTokens": 1979,
     "date": "2026-04-30",
@@ -3001,7 +3001,7 @@
       "phone": "+84962461402"
     },
     "lang": "en",
-    "inputToken": 1356,
+    "inputTokens": 1356,
     "outputTokens": 562,
     "totalTokens": 1918,
     "date": "2026-01-07",
@@ -3018,7 +3018,7 @@
       "phone": "+84798091380"
     },
     "lang": "en",
-    "inputToken": 1390,
+    "inputTokens": 1390,
     "outputTokens": 318,
     "totalTokens": 1708,
     "date": "2026-05-30",
@@ -3035,7 +3035,7 @@
       "phone": "+84857966048"
     },
     "lang": "en",
-    "inputToken": 1370,
+    "inputTokens": 1370,
     "outputTokens": 191,
     "totalTokens": 1561,
     "date": "2026-08-23",
@@ -3052,7 +3052,7 @@
       "phone": "+84948551268"
     },
     "lang": "en",
-    "inputToken": 476,
+    "inputTokens": 476,
     "outputTokens": 721,
     "totalTokens": 1197,
     "date": "2026-02-19",
@@ -3069,7 +3069,7 @@
       "phone": "+84948637957"
     },
     "lang": "en",
-    "inputToken": 1324,
+    "inputTokens": 1324,
     "outputTokens": 97,
     "totalTokens": 1421,
     "date": "2026-05-12",
@@ -3086,7 +3086,7 @@
       "phone": "+84872613962"
     },
     "lang": "en",
-    "inputToken": 242,
+    "inputTokens": 242,
     "outputTokens": 24,
     "totalTokens": 266,
     "date": "2026-10-25",
@@ -3103,7 +3103,7 @@
       "phone": "+84725459309"
     },
     "lang": "vi",
-    "inputToken": 620,
+    "inputTokens": 620,
     "outputTokens": 712,
     "totalTokens": 1332,
     "date": "2026-06-20",
@@ -3120,7 +3120,7 @@
       "phone": "+84340804105"
     },
     "lang": "en",
-    "inputToken": 558,
+    "inputTokens": 558,
     "outputTokens": 877,
     "totalTokens": 1435,
     "date": "2026-06-16",
@@ -3137,7 +3137,7 @@
       "phone": "+84771827267"
     },
     "lang": "en",
-    "inputToken": 1053,
+    "inputTokens": 1053,
     "outputTokens": 233,
     "totalTokens": 1286,
     "date": "2026-04-02",
@@ -3154,7 +3154,7 @@
       "phone": "+84539984814"
     },
     "lang": "en",
-    "inputToken": 101,
+    "inputTokens": 101,
     "outputTokens": 547,
     "totalTokens": 648,
     "date": "2026-08-22",
@@ -3171,7 +3171,7 @@
       "phone": "+84931098823"
     },
     "lang": "en",
-    "inputToken": 643,
+    "inputTokens": 643,
     "outputTokens": 426,
     "totalTokens": 1069,
     "date": "2026-10-15",
@@ -3188,7 +3188,7 @@
       "phone": "+84951602602"
     },
     "lang": "en",
-    "inputToken": 628,
+    "inputTokens": 628,
     "outputTokens": 397,
     "totalTokens": 1025,
     "date": "2026-08-28",
@@ -3205,7 +3205,7 @@
       "phone": "+84505904496"
     },
     "lang": "en",
-    "inputToken": 736,
+    "inputTokens": 736,
     "outputTokens": 432,
     "totalTokens": 1168,
     "date": "2026-05-03",
@@ -3222,7 +3222,7 @@
       "phone": "+84330253289"
     },
     "lang": "en",
-    "inputToken": 1281,
+    "inputTokens": 1281,
     "outputTokens": 664,
     "totalTokens": 1945,
     "date": "2026-02-06",
@@ -3239,7 +3239,7 @@
       "phone": "+84571084468"
     },
     "lang": "en",
-    "inputToken": 1410,
+    "inputTokens": 1410,
     "outputTokens": 802,
     "totalTokens": 2212,
     "date": "2026-04-18",
@@ -3256,7 +3256,7 @@
       "phone": "+84768642856"
     },
     "lang": "en",
-    "inputToken": 928,
+    "inputTokens": 928,
     "outputTokens": 941,
     "totalTokens": 1869,
     "date": "2026-06-09",
@@ -3273,7 +3273,7 @@
       "phone": "+84544068505"
     },
     "lang": "en",
-    "inputToken": 1264,
+    "inputTokens": 1264,
     "outputTokens": 192,
     "totalTokens": 1456,
     "date": "2026-03-13",
@@ -3290,7 +3290,7 @@
       "phone": "+84781817308"
     },
     "lang": "vi",
-    "inputToken": 743,
+    "inputTokens": 743,
     "outputTokens": 82,
     "totalTokens": 825,
     "date": "2026-01-18",
@@ -3307,7 +3307,7 @@
       "phone": "+84929035422"
     },
     "lang": "en",
-    "inputToken": 159,
+    "inputTokens": 159,
     "outputTokens": 906,
     "totalTokens": 1065,
     "date": "2026-05-15",
@@ -3324,7 +3324,7 @@
       "phone": "+84910927842"
     },
     "lang": "en",
-    "inputToken": 787,
+    "inputTokens": 787,
     "outputTokens": 602,
     "totalTokens": 1389,
     "date": "2026-05-25",
@@ -3341,7 +3341,7 @@
       "phone": "+84320733323"
     },
     "lang": "vi",
-    "inputToken": 582,
+    "inputTokens": 582,
     "outputTokens": 385,
     "totalTokens": 967,
     "date": "2026-08-15",
@@ -3358,7 +3358,7 @@
       "phone": "+84786465998"
     },
     "lang": "vi",
-    "inputToken": 1165,
+    "inputTokens": 1165,
     "outputTokens": 479,
     "totalTokens": 1644,
     "date": "2026-05-15",
@@ -3375,7 +3375,7 @@
       "phone": "+84323392253"
     },
     "lang": "vi",
-    "inputToken": 1499,
+    "inputTokens": 1499,
     "outputTokens": 573,
     "totalTokens": 2072,
     "date": "2026-05-10",
@@ -3392,7 +3392,7 @@
       "phone": "+84906562167"
     },
     "lang": "vi",
-    "inputToken": 42,
+    "inputTokens": 42,
     "outputTokens": 893,
     "totalTokens": 935,
     "date": "2026-09-10",
@@ -3409,7 +3409,7 @@
       "phone": "+84589223639"
     },
     "lang": "en",
-    "inputToken": 342,
+    "inputTokens": 342,
     "outputTokens": 753,
     "totalTokens": 1095,
     "date": "2026-04-23",
@@ -3426,7 +3426,7 @@
       "phone": "+84342575124"
     },
     "lang": "en",
-    "inputToken": 1089,
+    "inputTokens": 1089,
     "outputTokens": 857,
     "totalTokens": 1946,
     "date": "2026-03-01",
@@ -3443,7 +3443,7 @@
       "phone": "+84961714817"
     },
     "lang": "en",
-    "inputToken": 551,
+    "inputTokens": 551,
     "outputTokens": 688,
     "totalTokens": 1239,
     "date": "2026-10-17",
@@ -3460,7 +3460,7 @@
       "phone": "+84708329771"
     },
     "lang": "vi",
-    "inputToken": 1610,
+    "inputTokens": 1610,
     "outputTokens": 28,
     "totalTokens": 1638,
     "date": "2026-10-04",
@@ -3477,7 +3477,7 @@
       "phone": "+84868302269"
     },
     "lang": "en",
-    "inputToken": 495,
+    "inputTokens": 495,
     "outputTokens": 614,
     "totalTokens": 1109,
     "date": "2026-07-21",
@@ -3494,7 +3494,7 @@
       "phone": "+84841949977"
     },
     "lang": "en",
-    "inputToken": 830,
+    "inputTokens": 830,
     "outputTokens": 561,
     "totalTokens": 1391,
     "date": "2026-09-16",
@@ -3511,7 +3511,7 @@
       "phone": "+84950385241"
     },
     "lang": "vi",
-    "inputToken": 185,
+    "inputTokens": 185,
     "outputTokens": 593,
     "totalTokens": 778,
     "date": "2026-10-16",
@@ -3528,7 +3528,7 @@
       "phone": "+84566781250"
     },
     "lang": "vi",
-    "inputToken": 916,
+    "inputTokens": 916,
     "outputTokens": 240,
     "totalTokens": 1156,
     "date": "2026-08-19",
@@ -3545,7 +3545,7 @@
       "phone": "+84357886342"
     },
     "lang": "vi",
-    "inputToken": 690,
+    "inputTokens": 690,
     "outputTokens": 304,
     "totalTokens": 994,
     "date": "2026-05-17",
@@ -3562,7 +3562,7 @@
       "phone": "+84725131661"
     },
     "lang": "vi",
-    "inputToken": 1144,
+    "inputTokens": 1144,
     "outputTokens": 211,
     "totalTokens": 1355,
     "date": "2026-08-06",
@@ -3579,7 +3579,7 @@
       "phone": "+84513596798"
     },
     "lang": "vi",
-    "inputToken": 459,
+    "inputTokens": 459,
     "outputTokens": 186,
     "totalTokens": 645,
     "date": "2026-10-11",
@@ -3596,7 +3596,7 @@
       "phone": "+84706098640"
     },
     "lang": "vi",
-    "inputToken": 36,
+    "inputTokens": 36,
     "outputTokens": 617,
     "totalTokens": 653,
     "date": "2026-10-16",
@@ -3613,7 +3613,7 @@
       "phone": "+84316702707"
     },
     "lang": "vi",
-    "inputToken": 676,
+    "inputTokens": 676,
     "outputTokens": 286,
     "totalTokens": 962,
     "date": "2026-08-12",
@@ -3630,7 +3630,7 @@
       "phone": "+84324574396"
     },
     "lang": "en",
-    "inputToken": 643,
+    "inputTokens": 643,
     "outputTokens": 868,
     "totalTokens": 1511,
     "date": "2026-05-28",
@@ -3647,7 +3647,7 @@
       "phone": "+84374570060"
     },
     "lang": "en",
-    "inputToken": 1279,
+    "inputTokens": 1279,
     "outputTokens": 379,
     "totalTokens": 1658,
     "date": "2026-01-28",
@@ -3664,7 +3664,7 @@
       "phone": "+84398983900"
     },
     "lang": "vi",
-    "inputToken": 693,
+    "inputTokens": 693,
     "outputTokens": 659,
     "totalTokens": 1352,
     "date": "2026-03-03",
@@ -3681,7 +3681,7 @@
       "phone": "+84887322060"
     },
     "lang": "en",
-    "inputToken": 1485,
+    "inputTokens": 1485,
     "outputTokens": 268,
     "totalTokens": 1753,
     "date": "2026-04-30",
@@ -3698,7 +3698,7 @@
       "phone": "+84750190633"
     },
     "lang": "en",
-    "inputToken": 673,
+    "inputTokens": 673,
     "outputTokens": 625,
     "totalTokens": 1298,
     "date": "2026-08-09",
@@ -3715,7 +3715,7 @@
       "phone": "+84569879916"
     },
     "lang": "vi",
-    "inputToken": 1236,
+    "inputTokens": 1236,
     "outputTokens": 130,
     "totalTokens": 1366,
     "date": "2026-02-07",
@@ -3732,7 +3732,7 @@
       "phone": "+84878366584"
     },
     "lang": "vi",
-    "inputToken": 1660,
+    "inputTokens": 1660,
     "outputTokens": 83,
     "totalTokens": 1743,
     "date": "2026-05-23",
@@ -3749,7 +3749,7 @@
       "phone": "+84530388580"
     },
     "lang": "en",
-    "inputToken": 1286,
+    "inputTokens": 1286,
     "outputTokens": 843,
     "totalTokens": 2129,
     "date": "2026-07-26",
@@ -3766,7 +3766,7 @@
       "phone": "+84932700853"
     },
     "lang": "en",
-    "inputToken": 1758,
+    "inputTokens": 1758,
     "outputTokens": 407,
     "totalTokens": 2165,
     "date": "2026-03-10",
@@ -3783,7 +3783,7 @@
       "phone": "+84805552004"
     },
     "lang": "en",
-    "inputToken": 1351,
+    "inputTokens": 1351,
     "outputTokens": 527,
     "totalTokens": 1878,
     "date": "2026-07-22",
@@ -3800,7 +3800,7 @@
       "phone": "+84384490155"
     },
     "lang": "vi",
-    "inputToken": 663,
+    "inputTokens": 663,
     "outputTokens": 266,
     "totalTokens": 929,
     "date": "2026-07-09",
@@ -3817,7 +3817,7 @@
       "phone": "+84999769671"
     },
     "lang": "en",
-    "inputToken": 959,
+    "inputTokens": 959,
     "outputTokens": 629,
     "totalTokens": 1588,
     "date": "2026-03-10",
@@ -3834,7 +3834,7 @@
       "phone": "+84395563464"
     },
     "lang": "vi",
-    "inputToken": 1383,
+    "inputTokens": 1383,
     "outputTokens": 558,
     "totalTokens": 1941,
     "date": "2026-11-04",
@@ -3851,7 +3851,7 @@
       "phone": "+84365099201"
     },
     "lang": "vi",
-    "inputToken": 444,
+    "inputTokens": 444,
     "outputTokens": 708,
     "totalTokens": 1152,
     "date": "2026-09-28",
@@ -3868,7 +3868,7 @@
       "phone": "+84939212659"
     },
     "lang": "en",
-    "inputToken": 109,
+    "inputTokens": 109,
     "outputTokens": 156,
     "totalTokens": 265,
     "date": "2026-07-16",
@@ -3885,7 +3885,7 @@
       "phone": "+84810110533"
     },
     "lang": "vi",
-    "inputToken": 250,
+    "inputTokens": 250,
     "outputTokens": 374,
     "totalTokens": 624,
     "date": "2026-08-22",
@@ -3902,7 +3902,7 @@
       "phone": "+84898836785"
     },
     "lang": "en",
-    "inputToken": 1050,
+    "inputTokens": 1050,
     "outputTokens": 221,
     "totalTokens": 1271,
     "date": "2026-07-22",
@@ -3919,7 +3919,7 @@
       "phone": "+84373155383"
     },
     "lang": "en",
-    "inputToken": 1234,
+    "inputTokens": 1234,
     "outputTokens": 664,
     "totalTokens": 1898,
     "date": "2026-03-13",
@@ -3936,7 +3936,7 @@
       "phone": "+84770998995"
     },
     "lang": "en",
-    "inputToken": 697,
+    "inputTokens": 697,
     "outputTokens": 600,
     "totalTokens": 1297,
     "date": "2026-06-21",
@@ -3953,7 +3953,7 @@
       "phone": "+84876863895"
     },
     "lang": "en",
-    "inputToken": 1090,
+    "inputTokens": 1090,
     "outputTokens": 614,
     "totalTokens": 1704,
     "date": "2026-03-27",
@@ -3970,7 +3970,7 @@
       "phone": "+84357589833"
     },
     "lang": "en",
-    "inputToken": 341,
+    "inputTokens": 341,
     "outputTokens": 865,
     "totalTokens": 1206,
     "date": "2026-08-31",
@@ -3987,7 +3987,7 @@
       "phone": "+84880412626"
     },
     "lang": "vi",
-    "inputToken": 1707,
+    "inputTokens": 1707,
     "outputTokens": 642,
     "totalTokens": 2349,
     "date": "2026-09-11",
@@ -4004,7 +4004,7 @@
       "phone": "+84521915425"
     },
     "lang": "en",
-    "inputToken": 1230,
+    "inputTokens": 1230,
     "outputTokens": 466,
     "totalTokens": 1696,
     "date": "2026-03-10",
@@ -4021,7 +4021,7 @@
       "phone": "+84555953650"
     },
     "lang": "en",
-    "inputToken": 581,
+    "inputTokens": 581,
     "outputTokens": 255,
     "totalTokens": 836,
     "date": "2026-10-17",
@@ -4038,7 +4038,7 @@
       "phone": "+84555602055"
     },
     "lang": "en",
-    "inputToken": 909,
+    "inputTokens": 909,
     "outputTokens": 760,
     "totalTokens": 1669,
     "date": "2026-01-02",
@@ -4055,7 +4055,7 @@
       "phone": "+84342538886"
     },
     "lang": "vi",
-    "inputToken": 1098,
+    "inputTokens": 1098,
     "outputTokens": 386,
     "totalTokens": 1484,
     "date": "2026-10-08",
@@ -4072,7 +4072,7 @@
       "phone": "+84582242765"
     },
     "lang": "vi",
-    "inputToken": 616,
+    "inputTokens": 616,
     "outputTokens": 644,
     "totalTokens": 1260,
     "date": "2026-01-13",
@@ -4089,7 +4089,7 @@
       "phone": "+84383220354"
     },
     "lang": "vi",
-    "inputToken": 412,
+    "inputTokens": 412,
     "outputTokens": 858,
     "totalTokens": 1270,
     "date": "2026-06-03",
@@ -4106,7 +4106,7 @@
       "phone": "+84824612523"
     },
     "lang": "en",
-    "inputToken": 157,
+    "inputTokens": 157,
     "outputTokens": 927,
     "totalTokens": 1084,
     "date": "2026-10-06",
@@ -4123,7 +4123,7 @@
       "phone": "+84798324801"
     },
     "lang": "en",
-    "inputToken": 1389,
+    "inputTokens": 1389,
     "outputTokens": 808,
     "totalTokens": 2197,
     "date": "2026-09-03",
@@ -4140,7 +4140,7 @@
       "phone": "+84949944049"
     },
     "lang": "en",
-    "inputToken": 1740,
+    "inputTokens": 1740,
     "outputTokens": 302,
     "totalTokens": 2042,
     "date": "2026-06-14",
@@ -4157,7 +4157,7 @@
       "phone": "+84378521116"
     },
     "lang": "en",
-    "inputToken": 384,
+    "inputTokens": 384,
     "outputTokens": 879,
     "totalTokens": 1263,
     "date": "2026-07-18",
@@ -4174,7 +4174,7 @@
       "phone": "+84887077281"
     },
     "lang": "vi",
-    "inputToken": 212,
+    "inputTokens": 212,
     "outputTokens": 16,
     "totalTokens": 228,
     "date": "2026-06-02",
@@ -4191,7 +4191,7 @@
       "phone": "+84761285262"
     },
     "lang": "vi",
-    "inputToken": 1600,
+    "inputTokens": 1600,
     "outputTokens": 259,
     "totalTokens": 1859,
     "date": "2026-03-16",
@@ -4208,7 +4208,7 @@
       "phone": "+84961018216"
     },
     "lang": "vi",
-    "inputToken": 637,
+    "inputTokens": 637,
     "outputTokens": 908,
     "totalTokens": 1545,
     "date": "2026-08-19",
@@ -4225,7 +4225,7 @@
       "phone": "+84873244052"
     },
     "lang": "en",
-    "inputToken": 1327,
+    "inputTokens": 1327,
     "outputTokens": 436,
     "totalTokens": 1763,
     "date": "2026-08-14",
@@ -4242,7 +4242,7 @@
       "phone": "+84715522411"
     },
     "lang": "vi",
-    "inputToken": 1591,
+    "inputTokens": 1591,
     "outputTokens": 36,
     "totalTokens": 1627,
     "date": "2026-05-29",
