@@ -212,17 +212,24 @@ input {
 
 .toggle {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  justify-content: center;
   padding: 6px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--white);
   cursor: pointer;
+  transition: all 0.2s ease;
 }
 
-.toggle .icon {
+.toggle:hover {
+  background: var(--border);
+}
+
+.toggle-icon {
   width: 18px;
   height: 18px;
+  display: block;
 }
 
 .topbar h1 {
