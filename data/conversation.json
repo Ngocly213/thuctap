@@ -1,0 +1,4252 @@
+[
+  {
+    "channel": "whatsapp",
+    "conversationName": "Anh Hoang",
+    "erpInvoiceNo": "IN26-00001",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Hoang",
+      "phone": "+84509564001"
+    },
+    "lang": "en",
+    "inputToken": 293,
+    "outputTokens": 183,
+    "totalTokens": 476,
+    "date": "2026-08-25",
+    "time": "04:28:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Tuan Truong",
+    "erpInvoiceNo": "IN26-00002",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Truong",
+      "phone": "+84319878331"
+    },
+    "lang": "en",
+    "inputToken": 1481,
+    "outputTokens": 435,
+    "totalTokens": 1916,
+    "date": "2026-09-05",
+    "time": "11:24:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Dang",
+    "erpInvoiceNo": "IN26-00003",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Dang",
+      "phone": "+84566373503"
+    },
+    "lang": "vi",
+    "inputToken": 1459,
+    "outputTokens": 575,
+    "totalTokens": 2034,
+    "date": "2026-10-11",
+    "time": "18:08:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Huy Ly",
+    "erpInvoiceNo": "IN26-00004",
+    "customerInfo": {
+      "firstName": "Huy",
+      "lastName": "Ly",
+      "phone": "+84738060157"
+    },
+    "lang": "en",
+    "inputToken": 440,
+    "outputTokens": 74,
+    "totalTokens": 514,
+    "date": "2026-08-17",
+    "time": "12:20:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Do",
+    "erpInvoiceNo": "IN26-00005",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Do",
+      "phone": "+84955480673"
+    },
+    "lang": "en",
+    "inputToken": 1041,
+    "outputTokens": 915,
+    "totalTokens": 1956,
+    "date": "2026-06-23",
+    "time": "23:58:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Khanh Ly",
+    "erpInvoiceNo": "IN26-00006",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Ly",
+      "phone": "+84708768515"
+    },
+    "lang": "en",
+    "inputToken": 165,
+    "outputTokens": 41,
+    "totalTokens": 206,
+    "date": "2026-10-07",
+    "time": "04:35:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Bao Ly",
+    "erpInvoiceNo": "IN26-00007",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Ly",
+      "phone": "+84866239399"
+    },
+    "lang": "en",
+    "inputToken": 1141,
+    "outputTokens": 333,
+    "totalTokens": 1474,
+    "date": "2026-06-20",
+    "time": "10:11:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phong Hoang",
+    "erpInvoiceNo": "IN26-00008",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Hoang",
+      "phone": "+84719433089"
+    },
+    "lang": "vi",
+    "inputToken": 1592,
+    "outputTokens": 182,
+    "totalTokens": 1774,
+    "date": "2026-07-11",
+    "time": "14:50:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Khanh Do",
+    "erpInvoiceNo": "IN26-00009",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Do",
+      "phone": "+84844257797"
+    },
+    "lang": "vi",
+    "inputToken": 863,
+    "outputTokens": 492,
+    "totalTokens": 1355,
+    "date": "2026-01-07",
+    "time": "01:30:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Phan",
+    "erpInvoiceNo": "IN26-00010",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Phan",
+      "phone": "+84567298484"
+    },
+    "lang": "en",
+    "inputToken": 229,
+    "outputTokens": 778,
+    "totalTokens": 1007,
+    "date": "2026-10-18",
+    "time": "07:29:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Dang",
+    "erpInvoiceNo": "IN26-00011",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Dang",
+      "phone": "+84754194832"
+    },
+    "lang": "en",
+    "inputToken": 1015,
+    "outputTokens": 383,
+    "totalTokens": 1398,
+    "date": "2026-08-25",
+    "time": "20:12:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Nhi Dang",
+    "erpInvoiceNo": "IN26-00012",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Dang",
+      "phone": "+84304371565"
+    },
+    "lang": "en",
+    "inputToken": 296,
+    "outputTokens": 61,
+    "totalTokens": 357,
+    "date": "2026-08-21",
+    "time": "07:55:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Quang Huynh",
+    "erpInvoiceNo": "IN26-00013",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Huynh",
+      "phone": "+84933295757"
+    },
+    "lang": "vi",
+    "inputToken": 1442,
+    "outputTokens": 713,
+    "totalTokens": 2155,
+    "date": "2026-02-12",
+    "time": "19:21:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Phuong Dinh",
+    "erpInvoiceNo": "IN26-00014",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Dinh",
+      "phone": "+84566592364"
+    },
+    "lang": "en",
+    "inputToken": 1505,
+    "outputTokens": 576,
+    "totalTokens": 2081,
+    "date": "2026-05-22",
+    "time": "17:11:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Ly",
+    "erpInvoiceNo": "IN26-00015",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Ly",
+      "phone": "+84815852270"
+    },
+    "lang": "vi",
+    "inputToken": 1591,
+    "outputTokens": 577,
+    "totalTokens": 2168,
+    "date": "2026-08-01",
+    "time": "09:27:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thuy Ho",
+    "erpInvoiceNo": "IN26-00016",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Ho",
+      "phone": "+84344108528"
+    },
+    "lang": "en",
+    "inputToken": 1050,
+    "outputTokens": 612,
+    "totalTokens": 1662,
+    "date": "2026-10-15",
+    "time": "17:46:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Khanh Bui",
+    "erpInvoiceNo": "IN26-00017",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Bui",
+      "phone": "+84587127906"
+    },
+    "lang": "vi",
+    "inputToken": 1772,
+    "outputTokens": 281,
+    "totalTokens": 2053,
+    "date": "2026-03-07",
+    "time": "21:12:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Ngo",
+    "erpInvoiceNo": "IN26-00018",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Ngo",
+      "phone": "+84561221701"
+    },
+    "lang": "en",
+    "inputToken": 1266,
+    "outputTokens": 383,
+    "totalTokens": 1649,
+    "date": "2026-05-17",
+    "time": "07:14:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Linh Ly",
+    "erpInvoiceNo": "IN26-00019",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Ly",
+      "phone": "+84817077304"
+    },
+    "lang": "vi",
+    "inputToken": 1319,
+    "outputTokens": 306,
+    "totalTokens": 1625,
+    "date": "2026-05-30",
+    "time": "07:37:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Bao Dang",
+    "erpInvoiceNo": "IN26-00020",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Dang",
+      "phone": "+84712354057"
+    },
+    "lang": "en",
+    "inputToken": 1474,
+    "outputTokens": 293,
+    "totalTokens": 1767,
+    "date": "2026-09-23",
+    "time": "03:41:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Do",
+    "erpInvoiceNo": "IN26-00021",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Do",
+      "phone": "+84816774112"
+    },
+    "lang": "vi",
+    "inputToken": 768,
+    "outputTokens": 507,
+    "totalTokens": 1275,
+    "date": "2026-09-29",
+    "time": "17:31:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phuong Truong",
+    "erpInvoiceNo": "IN26-00022",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Truong",
+      "phone": "+84823702185"
+    },
+    "lang": "vi",
+    "inputToken": 1146,
+    "outputTokens": 570,
+    "totalTokens": 1716,
+    "date": "2026-03-07",
+    "time": "02:50:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Duc Nguyen",
+    "erpInvoiceNo": "IN26-00023",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Nguyen",
+      "phone": "+84316719573"
+    },
+    "lang": "en",
+    "inputToken": 1539,
+    "outputTokens": 557,
+    "totalTokens": 2096,
+    "date": "2026-05-02",
+    "time": "05:04:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Kiet Ho",
+    "erpInvoiceNo": "IN26-00024",
+    "customerInfo": {
+      "firstName": "Kiet",
+      "lastName": "Ho",
+      "phone": "+84941457641"
+    },
+    "lang": "en",
+    "inputToken": 713,
+    "outputTokens": 509,
+    "totalTokens": 1222,
+    "date": "2026-03-27",
+    "time": "12:13:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Tuan Ngo",
+    "erpInvoiceNo": "IN26-00025",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Ngo",
+      "phone": "+84991493914"
+    },
+    "lang": "vi",
+    "inputToken": 1295,
+    "outputTokens": 813,
+    "totalTokens": 2108,
+    "date": "2026-06-27",
+    "time": "01:03:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Le",
+    "erpInvoiceNo": "IN26-00026",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Le",
+      "phone": "+84326940982"
+    },
+    "lang": "vi",
+    "inputToken": 539,
+    "outputTokens": 860,
+    "totalTokens": 1399,
+    "date": "2026-01-09",
+    "time": "04:16:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Khanh Vo",
+    "erpInvoiceNo": "IN26-00027",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Vo",
+      "phone": "+84835565793"
+    },
+    "lang": "vi",
+    "inputToken": 790,
+    "outputTokens": 594,
+    "totalTokens": 1384,
+    "date": "2026-06-12",
+    "time": "14:51:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Ho",
+    "erpInvoiceNo": "IN26-00028",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Ho",
+      "phone": "+84824828054"
+    },
+    "lang": "en",
+    "inputToken": 737,
+    "outputTokens": 601,
+    "totalTokens": 1338,
+    "date": "2026-02-26",
+    "time": "05:11:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Son Tran",
+    "erpInvoiceNo": "IN26-00029",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Tran",
+      "phone": "+84921115524"
+    },
+    "lang": "en",
+    "inputToken": 1737,
+    "outputTokens": 9,
+    "totalTokens": 1746,
+    "date": "2026-10-30",
+    "time": "17:17:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Ho",
+    "erpInvoiceNo": "IN26-00030",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Ho",
+      "phone": "+84365505370"
+    },
+    "lang": "en",
+    "inputToken": 537,
+    "outputTokens": 728,
+    "totalTokens": 1265,
+    "date": "2026-02-24",
+    "time": "00:50:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Mai Dinh",
+    "erpInvoiceNo": "IN26-00031",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Dinh",
+      "phone": "+84709122700"
+    },
+    "lang": "en",
+    "inputToken": 1601,
+    "outputTokens": 938,
+    "totalTokens": 2539,
+    "date": "2026-07-13",
+    "time": "05:52:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Tran",
+    "erpInvoiceNo": "IN26-00032",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Tran",
+      "phone": "+84812542477"
+    },
+    "lang": "en",
+    "inputToken": 881,
+    "outputTokens": 106,
+    "totalTokens": 987,
+    "date": "2026-02-08",
+    "time": "17:15:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nam Do",
+    "erpInvoiceNo": "IN26-00033",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Do",
+      "phone": "+84860786307"
+    },
+    "lang": "vi",
+    "inputToken": 1263,
+    "outputTokens": 235,
+    "totalTokens": 1498,
+    "date": "2026-06-29",
+    "time": "06:37:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Hoang",
+    "erpInvoiceNo": "IN26-00034",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Hoang",
+      "phone": "+84782615925"
+    },
+    "lang": "vi",
+    "inputToken": 508,
+    "outputTokens": 588,
+    "totalTokens": 1096,
+    "date": "2026-08-08",
+    "time": "17:17:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Bao Nguyen",
+    "erpInvoiceNo": "IN26-00035",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Nguyen",
+      "phone": "+84930337208"
+    },
+    "lang": "en",
+    "inputToken": 146,
+    "outputTokens": 553,
+    "totalTokens": 699,
+    "date": "2026-04-04",
+    "time": "22:08:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Quang Ngo",
+    "erpInvoiceNo": "IN26-00036",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Ngo",
+      "phone": "+84946292002"
+    },
+    "lang": "en",
+    "inputToken": 312,
+    "outputTokens": 916,
+    "totalTokens": 1228,
+    "date": "2026-11-05",
+    "time": "17:19:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Son Nguyen",
+    "erpInvoiceNo": "IN26-00037",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Nguyen",
+      "phone": "+84530921594"
+    },
+    "lang": "en",
+    "inputToken": 352,
+    "outputTokens": 433,
+    "totalTokens": 785,
+    "date": "2026-04-13",
+    "time": "14:07:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Son Le",
+    "erpInvoiceNo": "IN26-00038",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Le",
+      "phone": "+84835309580"
+    },
+    "lang": "vi",
+    "inputToken": 839,
+    "outputTokens": 268,
+    "totalTokens": 1107,
+    "date": "2026-07-27",
+    "time": "10:44:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Trang Phan",
+    "erpInvoiceNo": "IN26-00039",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Phan",
+      "phone": "+84971168701"
+    },
+    "lang": "en",
+    "inputToken": 1515,
+    "outputTokens": 270,
+    "totalTokens": 1785,
+    "date": "2026-10-15",
+    "time": "14:27:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Quang Dinh",
+    "erpInvoiceNo": "IN26-00040",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Dinh",
+      "phone": "+84393882058"
+    },
+    "lang": "en",
+    "inputToken": 825,
+    "outputTokens": 804,
+    "totalTokens": 1629,
+    "date": "2026-08-11",
+    "time": "20:45:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Ngoc Truong",
+    "erpInvoiceNo": "IN26-00041",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Truong",
+      "phone": "+84890347708"
+    },
+    "lang": "vi",
+    "inputToken": 319,
+    "outputTokens": 316,
+    "totalTokens": 635,
+    "date": "2026-08-04",
+    "time": "15:07:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Vu",
+    "erpInvoiceNo": "IN26-00042",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Vu",
+      "phone": "+84905026386"
+    },
+    "lang": "en",
+    "inputToken": 1113,
+    "outputTokens": 263,
+    "totalTokens": 1376,
+    "date": "2026-10-22",
+    "time": "05:22:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Hoa Phan",
+    "erpInvoiceNo": "IN26-00043",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Phan",
+      "phone": "+84983955727"
+    },
+    "lang": "vi",
+    "inputToken": 463,
+    "outputTokens": 443,
+    "totalTokens": 906,
+    "date": "2026-06-09",
+    "time": "23:13:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Le",
+    "erpInvoiceNo": "IN26-00044",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Le",
+      "phone": "+84950516422"
+    },
+    "lang": "vi",
+    "inputToken": 1505,
+    "outputTokens": 570,
+    "totalTokens": 2075,
+    "date": "2026-04-13",
+    "time": "22:47:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Dang",
+    "erpInvoiceNo": "IN26-00045",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Dang",
+      "phone": "+84737274458"
+    },
+    "lang": "en",
+    "inputToken": 492,
+    "outputTokens": 260,
+    "totalTokens": 752,
+    "date": "2026-01-30",
+    "time": "12:18:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Minh Vu",
+    "erpInvoiceNo": "IN26-00046",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Vu",
+      "phone": "+84532937845"
+    },
+    "lang": "en",
+    "inputToken": 644,
+    "outputTokens": 669,
+    "totalTokens": 1313,
+    "date": "2026-03-14",
+    "time": "01:21:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Huy Hoang",
+    "erpInvoiceNo": "IN26-00047",
+    "customerInfo": {
+      "firstName": "Huy",
+      "lastName": "Hoang",
+      "phone": "+84977669054"
+    },
+    "lang": "vi",
+    "inputToken": 997,
+    "outputTokens": 135,
+    "totalTokens": 1132,
+    "date": "2026-05-14",
+    "time": "19:27:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Ngoc Dinh",
+    "erpInvoiceNo": "IN26-00048",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Dinh",
+      "phone": "+84382070333"
+    },
+    "lang": "en",
+    "inputToken": 1264,
+    "outputTokens": 710,
+    "totalTokens": 1974,
+    "date": "2026-02-27",
+    "time": "13:18:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nam Vu",
+    "erpInvoiceNo": "IN26-00049",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Vu",
+      "phone": "+84896881656"
+    },
+    "lang": "en",
+    "inputToken": 1745,
+    "outputTokens": 95,
+    "totalTokens": 1840,
+    "date": "2026-09-14",
+    "time": "03:42:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Truong",
+    "erpInvoiceNo": "IN26-00050",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Truong",
+      "phone": "+84561020498"
+    },
+    "lang": "en",
+    "inputToken": 938,
+    "outputTokens": 374,
+    "totalTokens": 1312,
+    "date": "2026-10-12",
+    "time": "14:05:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Duc Phan",
+    "erpInvoiceNo": "IN26-00051",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Phan",
+      "phone": "+84545717247"
+    },
+    "lang": "en",
+    "inputToken": 1490,
+    "outputTokens": 506,
+    "totalTokens": 1996,
+    "date": "2026-05-12",
+    "time": "07:47:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Trang Nguyen",
+    "erpInvoiceNo": "IN26-00052",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Nguyen",
+      "phone": "+84357410044"
+    },
+    "lang": "vi",
+    "inputToken": 1621,
+    "outputTokens": 375,
+    "totalTokens": 1996,
+    "date": "2026-08-26",
+    "time": "04:18:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Kiet Bui",
+    "erpInvoiceNo": "IN26-00053",
+    "customerInfo": {
+      "firstName": "Kiet",
+      "lastName": "Bui",
+      "phone": "+84859176104"
+    },
+    "lang": "vi",
+    "inputToken": 1243,
+    "outputTokens": 610,
+    "totalTokens": 1853,
+    "date": "2026-06-07",
+    "time": "19:12:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Duc Duong",
+    "erpInvoiceNo": "IN26-00054",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Duong",
+      "phone": "+84559045301"
+    },
+    "lang": "en",
+    "inputToken": 1547,
+    "outputTokens": 72,
+    "totalTokens": 1619,
+    "date": "2026-01-28",
+    "time": "12:20:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Son Ho",
+    "erpInvoiceNo": "IN26-00055",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Ho",
+      "phone": "+84339856959"
+    },
+    "lang": "en",
+    "inputToken": 660,
+    "outputTokens": 163,
+    "totalTokens": 823,
+    "date": "2026-07-13",
+    "time": "20:14:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Quang Pham",
+    "erpInvoiceNo": "IN26-00056",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Pham",
+      "phone": "+84322356352"
+    },
+    "lang": "en",
+    "inputToken": 205,
+    "outputTokens": 713,
+    "totalTokens": 918,
+    "date": "2026-03-03",
+    "time": "11:34:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thuy Ngo",
+    "erpInvoiceNo": "IN26-00057",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Ngo",
+      "phone": "+84799583079"
+    },
+    "lang": "en",
+    "inputToken": 1469,
+    "outputTokens": 226,
+    "totalTokens": 1695,
+    "date": "2026-02-18",
+    "time": "23:30:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Linh Ho",
+    "erpInvoiceNo": "IN26-00058",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Ho",
+      "phone": "+84315606905"
+    },
+    "lang": "en",
+    "inputToken": 867,
+    "outputTokens": 308,
+    "totalTokens": 1175,
+    "date": "2026-06-23",
+    "time": "05:26:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Tuan Ho",
+    "erpInvoiceNo": "IN26-00059",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Ho",
+      "phone": "+84365144511"
+    },
+    "lang": "en",
+    "inputToken": 1024,
+    "outputTokens": 222,
+    "totalTokens": 1246,
+    "date": "2026-02-27",
+    "time": "13:06:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "My Ngo",
+    "erpInvoiceNo": "IN26-00060",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Ngo",
+      "phone": "+84568618408"
+    },
+    "lang": "en",
+    "inputToken": 859,
+    "outputTokens": 822,
+    "totalTokens": 1681,
+    "date": "2026-06-23",
+    "time": "03:46:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Tuan Truong",
+    "erpInvoiceNo": "IN26-00061",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Truong",
+      "phone": "+84795452928"
+    },
+    "lang": "vi",
+    "inputToken": 252,
+    "outputTokens": 547,
+    "totalTokens": 799,
+    "date": "2026-03-27",
+    "time": "07:20:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Tuan Phan",
+    "erpInvoiceNo": "IN26-00062",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Phan",
+      "phone": "+84774348989"
+    },
+    "lang": "en",
+    "inputToken": 1312,
+    "outputTokens": 22,
+    "totalTokens": 1334,
+    "date": "2026-03-01",
+    "time": "18:44:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Tuan Ly",
+    "erpInvoiceNo": "IN26-00063",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Ly",
+      "phone": "+84875456263"
+    },
+    "lang": "en",
+    "inputToken": 624,
+    "outputTokens": 265,
+    "totalTokens": 889,
+    "date": "2026-02-07",
+    "time": "22:02:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Tuan Hoang",
+    "erpInvoiceNo": "IN26-00064",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Hoang",
+      "phone": "+84565655634"
+    },
+    "lang": "en",
+    "inputToken": 514,
+    "outputTokens": 155,
+    "totalTokens": 669,
+    "date": "2026-10-09",
+    "time": "13:02:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Kiet Truong",
+    "erpInvoiceNo": "IN26-00065",
+    "customerInfo": {
+      "firstName": "Kiet",
+      "lastName": "Truong",
+      "phone": "+84333287272"
+    },
+    "lang": "vi",
+    "inputToken": 1220,
+    "outputTokens": 681,
+    "totalTokens": 1901,
+    "date": "2026-09-01",
+    "time": "09:11:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nhi Duong",
+    "erpInvoiceNo": "IN26-00066",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Duong",
+      "phone": "+84393768022"
+    },
+    "lang": "en",
+    "inputToken": 681,
+    "outputTokens": 437,
+    "totalTokens": 1118,
+    "date": "2026-04-03",
+    "time": "14:21:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Linh Pham",
+    "erpInvoiceNo": "IN26-00067",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Pham",
+      "phone": "+84349680507"
+    },
+    "lang": "vi",
+    "inputToken": 298,
+    "outputTokens": 905,
+    "totalTokens": 1203,
+    "date": "2026-04-23",
+    "time": "13:00:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Nam Pham",
+    "erpInvoiceNo": "IN26-00068",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Pham",
+      "phone": "+84909572057"
+    },
+    "lang": "en",
+    "inputToken": 530,
+    "outputTokens": 406,
+    "totalTokens": 936,
+    "date": "2026-03-01",
+    "time": "20:23:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nam Vo",
+    "erpInvoiceNo": "IN26-00069",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Vo",
+      "phone": "+84936737592"
+    },
+    "lang": "en",
+    "inputToken": 340,
+    "outputTokens": 581,
+    "totalTokens": 921,
+    "date": "2026-05-02",
+    "time": "20:22:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Bao Ho",
+    "erpInvoiceNo": "IN26-00070",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Ho",
+      "phone": "+84300851308"
+    },
+    "lang": "en",
+    "inputToken": 712,
+    "outputTokens": 913,
+    "totalTokens": 1625,
+    "date": "2026-08-21",
+    "time": "03:03:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Ngo",
+    "erpInvoiceNo": "IN26-00071",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Ngo",
+      "phone": "+84522155932"
+    },
+    "lang": "vi",
+    "inputToken": 1596,
+    "outputTokens": 496,
+    "totalTokens": 2092,
+    "date": "2026-10-26",
+    "time": "00:52:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Khanh Phan",
+    "erpInvoiceNo": "IN26-00072",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Phan",
+      "phone": "+84363179164"
+    },
+    "lang": "en",
+    "inputToken": 39,
+    "outputTokens": 888,
+    "totalTokens": 927,
+    "date": "2026-05-14",
+    "time": "07:48:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Hoang",
+    "erpInvoiceNo": "IN26-00073",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Hoang",
+      "phone": "+84795437131"
+    },
+    "lang": "vi",
+    "inputToken": 570,
+    "outputTokens": 417,
+    "totalTokens": 987,
+    "date": "2026-02-06",
+    "time": "21:16:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Hoa Do",
+    "erpInvoiceNo": "IN26-00074",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Do",
+      "phone": "+84501847758"
+    },
+    "lang": "vi",
+    "inputToken": 137,
+    "outputTokens": 517,
+    "totalTokens": 654,
+    "date": "2026-05-23",
+    "time": "06:27:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ngoc Ly",
+    "erpInvoiceNo": "IN26-00075",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Ly",
+      "phone": "+84793859819"
+    },
+    "lang": "vi",
+    "inputToken": 936,
+    "outputTokens": 293,
+    "totalTokens": 1229,
+    "date": "2026-07-15",
+    "time": "15:16:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phong Vo",
+    "erpInvoiceNo": "IN26-00076",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Vo",
+      "phone": "+84860421605"
+    },
+    "lang": "vi",
+    "inputToken": 1022,
+    "outputTokens": 226,
+    "totalTokens": 1248,
+    "date": "2026-02-24",
+    "time": "02:29:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ha Vu",
+    "erpInvoiceNo": "IN26-00077",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Vu",
+      "phone": "+84310836331"
+    },
+    "lang": "en",
+    "inputToken": 961,
+    "outputTokens": 44,
+    "totalTokens": 1005,
+    "date": "2026-10-15",
+    "time": "01:34:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Trang Le",
+    "erpInvoiceNo": "IN26-00078",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Le",
+      "phone": "+84930188188"
+    },
+    "lang": "en",
+    "inputToken": 1154,
+    "outputTokens": 722,
+    "totalTokens": 1876,
+    "date": "2026-05-05",
+    "time": "22:15:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thuy Vu",
+    "erpInvoiceNo": "IN26-00079",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Vu",
+      "phone": "+84746543602"
+    },
+    "lang": "en",
+    "inputToken": 1134,
+    "outputTokens": 614,
+    "totalTokens": 1748,
+    "date": "2026-01-12",
+    "time": "12:20:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Bao Hoang",
+    "erpInvoiceNo": "IN26-00080",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Hoang",
+      "phone": "+84581886753"
+    },
+    "lang": "en",
+    "inputToken": 338,
+    "outputTokens": 27,
+    "totalTokens": 365,
+    "date": "2026-01-19",
+    "time": "21:52:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "My Dinh",
+    "erpInvoiceNo": "IN26-00081",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Dinh",
+      "phone": "+84899760650"
+    },
+    "lang": "en",
+    "inputToken": 1130,
+    "outputTokens": 941,
+    "totalTokens": 2071,
+    "date": "2026-09-04",
+    "time": "15:46:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Phan",
+    "erpInvoiceNo": "IN26-00082",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Phan",
+      "phone": "+84397661699"
+    },
+    "lang": "vi",
+    "inputToken": 1578,
+    "outputTokens": 340,
+    "totalTokens": 1918,
+    "date": "2026-08-29",
+    "time": "02:08:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Son Ly",
+    "erpInvoiceNo": "IN26-00083",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Ly",
+      "phone": "+84927581454"
+    },
+    "lang": "vi",
+    "inputToken": 1237,
+    "outputTokens": 295,
+    "totalTokens": 1532,
+    "date": "2026-01-15",
+    "time": "04:07:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thuy Tran",
+    "erpInvoiceNo": "IN26-00084",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Tran",
+      "phone": "+84396103892"
+    },
+    "lang": "en",
+    "inputToken": 806,
+    "outputTokens": 633,
+    "totalTokens": 1439,
+    "date": "2026-08-07",
+    "time": "16:40:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Anh Pham",
+    "erpInvoiceNo": "IN26-00085",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Pham",
+      "phone": "+84385008875"
+    },
+    "lang": "en",
+    "inputToken": 964,
+    "outputTokens": 839,
+    "totalTokens": 1803,
+    "date": "2026-02-11",
+    "time": "22:37:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thuy Bui",
+    "erpInvoiceNo": "IN26-00086",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Bui",
+      "phone": "+84390020302"
+    },
+    "lang": "vi",
+    "inputToken": 619,
+    "outputTokens": 437,
+    "totalTokens": 1056,
+    "date": "2026-09-07",
+    "time": "07:39:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Tuan Phan",
+    "erpInvoiceNo": "IN26-00087",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Phan",
+      "phone": "+84968704032"
+    },
+    "lang": "en",
+    "inputToken": 154,
+    "outputTokens": 661,
+    "totalTokens": 815,
+    "date": "2026-08-11",
+    "time": "09:36:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Tran",
+    "erpInvoiceNo": "IN26-00088",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Tran",
+      "phone": "+84803125236"
+    },
+    "lang": "en",
+    "inputToken": 791,
+    "outputTokens": 895,
+    "totalTokens": 1686,
+    "date": "2026-02-04",
+    "time": "04:29:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Long Tran",
+    "erpInvoiceNo": "IN26-00089",
+    "customerInfo": {
+      "firstName": "Long",
+      "lastName": "Tran",
+      "phone": "+84968996965"
+    },
+    "lang": "vi",
+    "inputToken": 1268,
+    "outputTokens": 346,
+    "totalTokens": 1614,
+    "date": "2026-08-15",
+    "time": "11:21:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Bao Vo",
+    "erpInvoiceNo": "IN26-00090",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Vo",
+      "phone": "+84840230799"
+    },
+    "lang": "vi",
+    "inputToken": 1615,
+    "outputTokens": 475,
+    "totalTokens": 2090,
+    "date": "2026-10-24",
+    "time": "00:37:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thuy Dinh",
+    "erpInvoiceNo": "IN26-00091",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Dinh",
+      "phone": "+84891959196"
+    },
+    "lang": "en",
+    "inputToken": 474,
+    "outputTokens": 279,
+    "totalTokens": 753,
+    "date": "2026-10-01",
+    "time": "23:19:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phong Hoang",
+    "erpInvoiceNo": "IN26-00092",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Hoang",
+      "phone": "+84362400570"
+    },
+    "lang": "vi",
+    "inputToken": 912,
+    "outputTokens": 447,
+    "totalTokens": 1359,
+    "date": "2026-05-26",
+    "time": "22:26:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Phan",
+    "erpInvoiceNo": "IN26-00093",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Phan",
+      "phone": "+84921566430"
+    },
+    "lang": "vi",
+    "inputToken": 30,
+    "outputTokens": 195,
+    "totalTokens": 225,
+    "date": "2026-05-05",
+    "time": "07:03:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Son Dinh",
+    "erpInvoiceNo": "IN26-00094",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Dinh",
+      "phone": "+84588893843"
+    },
+    "lang": "en",
+    "inputToken": 859,
+    "outputTokens": 802,
+    "totalTokens": 1661,
+    "date": "2026-09-27",
+    "time": "20:08:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Dang",
+    "erpInvoiceNo": "IN26-00095",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Dang",
+      "phone": "+84702056206"
+    },
+    "lang": "vi",
+    "inputToken": 1151,
+    "outputTokens": 582,
+    "totalTokens": 1733,
+    "date": "2026-02-10",
+    "time": "16:22:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Truong",
+    "erpInvoiceNo": "IN26-00096",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Truong",
+      "phone": "+84790398956"
+    },
+    "lang": "vi",
+    "inputToken": 183,
+    "outputTokens": 847,
+    "totalTokens": 1030,
+    "date": "2026-08-22",
+    "time": "05:05:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Anh Le",
+    "erpInvoiceNo": "IN26-00097",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Le",
+      "phone": "+84535505911"
+    },
+    "lang": "en",
+    "inputToken": 583,
+    "outputTokens": 825,
+    "totalTokens": 1408,
+    "date": "2026-10-22",
+    "time": "03:25:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thao Le",
+    "erpInvoiceNo": "IN26-00098",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Le",
+      "phone": "+84896565523"
+    },
+    "lang": "en",
+    "inputToken": 639,
+    "outputTokens": 603,
+    "totalTokens": 1242,
+    "date": "2026-03-19",
+    "time": "18:45:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Tran",
+    "erpInvoiceNo": "IN26-00099",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Tran",
+      "phone": "+84849873983"
+    },
+    "lang": "vi",
+    "inputToken": 1486,
+    "outputTokens": 15,
+    "totalTokens": 1501,
+    "date": "2026-03-12",
+    "time": "22:55:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Ly",
+    "erpInvoiceNo": "IN26-00100",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Ly",
+      "phone": "+84895243556"
+    },
+    "lang": "en",
+    "inputToken": 757,
+    "outputTokens": 226,
+    "totalTokens": 983,
+    "date": "2026-04-02",
+    "time": "23:33:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Mai Pham",
+    "erpInvoiceNo": "IN26-00101",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Pham",
+      "phone": "+84375450670"
+    },
+    "lang": "en",
+    "inputToken": 1434,
+    "outputTokens": 492,
+    "totalTokens": 1926,
+    "date": "2026-03-24",
+    "time": "04:16:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Quang Do",
+    "erpInvoiceNo": "IN26-00102",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Do",
+      "phone": "+84733393250"
+    },
+    "lang": "en",
+    "inputToken": 934,
+    "outputTokens": 802,
+    "totalTokens": 1736,
+    "date": "2026-01-12",
+    "time": "12:34:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Khanh Phan",
+    "erpInvoiceNo": "IN26-00103",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Phan",
+      "phone": "+84536824093"
+    },
+    "lang": "vi",
+    "inputToken": 514,
+    "outputTokens": 167,
+    "totalTokens": 681,
+    "date": "2026-07-20",
+    "time": "08:15:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Dang",
+    "erpInvoiceNo": "IN26-00104",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Dang",
+      "phone": "+84870989456"
+    },
+    "lang": "en",
+    "inputToken": 1324,
+    "outputTokens": 248,
+    "totalTokens": 1572,
+    "date": "2026-08-30",
+    "time": "20:37:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Vy Bui",
+    "erpInvoiceNo": "IN26-00105",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Bui",
+      "phone": "+84989846617"
+    },
+    "lang": "en",
+    "inputToken": 1736,
+    "outputTokens": 9,
+    "totalTokens": 1745,
+    "date": "2026-03-31",
+    "time": "19:41:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Anh Truong",
+    "erpInvoiceNo": "IN26-00106",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Truong",
+      "phone": "+84583044840"
+    },
+    "lang": "en",
+    "inputToken": 319,
+    "outputTokens": 826,
+    "totalTokens": 1145,
+    "date": "2026-07-06",
+    "time": "10:36:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Son Phan",
+    "erpInvoiceNo": "IN26-00107",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Phan",
+      "phone": "+84984694579"
+    },
+    "lang": "en",
+    "inputToken": 755,
+    "outputTokens": 681,
+    "totalTokens": 1436,
+    "date": "2026-01-03",
+    "time": "18:36:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Quang Tran",
+    "erpInvoiceNo": "IN26-00108",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Tran",
+      "phone": "+84748464193"
+    },
+    "lang": "en",
+    "inputToken": 1115,
+    "outputTokens": 724,
+    "totalTokens": 1839,
+    "date": "2026-03-24",
+    "time": "05:01:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Mai Ho",
+    "erpInvoiceNo": "IN26-00109",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Ho",
+      "phone": "+84851095438"
+    },
+    "lang": "en",
+    "inputToken": 958,
+    "outputTokens": 499,
+    "totalTokens": 1457,
+    "date": "2026-03-13",
+    "time": "04:00:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Phan",
+    "erpInvoiceNo": "IN26-00110",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Phan",
+      "phone": "+84965568807"
+    },
+    "lang": "vi",
+    "inputToken": 720,
+    "outputTokens": 252,
+    "totalTokens": 972,
+    "date": "2026-03-01",
+    "time": "22:10:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Son Tran",
+    "erpInvoiceNo": "IN26-00111",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Tran",
+      "phone": "+84360434940"
+    },
+    "lang": "vi",
+    "inputToken": 15,
+    "outputTokens": 109,
+    "totalTokens": 124,
+    "date": "2026-10-30",
+    "time": "21:46:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Tuan Le",
+    "erpInvoiceNo": "IN26-00112",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Le",
+      "phone": "+84552681140"
+    },
+    "lang": "en",
+    "inputToken": 1759,
+    "outputTokens": 132,
+    "totalTokens": 1891,
+    "date": "2026-02-12",
+    "time": "17:49:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Do",
+    "erpInvoiceNo": "IN26-00113",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Do",
+      "phone": "+84796215238"
+    },
+    "lang": "en",
+    "inputToken": 606,
+    "outputTokens": 202,
+    "totalTokens": 808,
+    "date": "2026-06-08",
+    "time": "16:12:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Tuan Dinh",
+    "erpInvoiceNo": "IN26-00114",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Dinh",
+      "phone": "+84553329557"
+    },
+    "lang": "en",
+    "inputToken": 1648,
+    "outputTokens": 195,
+    "totalTokens": 1843,
+    "date": "2026-04-06",
+    "time": "08:56:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Dang",
+    "erpInvoiceNo": "IN26-00115",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Dang",
+      "phone": "+84339279663"
+    },
+    "lang": "vi",
+    "inputToken": 1236,
+    "outputTokens": 909,
+    "totalTokens": 2145,
+    "date": "2026-03-14",
+    "time": "18:18:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Huy Huynh",
+    "erpInvoiceNo": "IN26-00116",
+    "customerInfo": {
+      "firstName": "Huy",
+      "lastName": "Huynh",
+      "phone": "+84782976563"
+    },
+    "lang": "vi",
+    "inputToken": 1351,
+    "outputTokens": 518,
+    "totalTokens": 1869,
+    "date": "2026-09-29",
+    "time": "17:19:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phuong Hoang",
+    "erpInvoiceNo": "IN26-00117",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Hoang",
+      "phone": "+84996754769"
+    },
+    "lang": "en",
+    "inputToken": 270,
+    "outputTokens": 736,
+    "totalTokens": 1006,
+    "date": "2026-09-06",
+    "time": "00:01:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Ngoc Dinh",
+    "erpInvoiceNo": "IN26-00118",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Dinh",
+      "phone": "+84577342177"
+    },
+    "lang": "vi",
+    "inputToken": 884,
+    "outputTokens": 88,
+    "totalTokens": 972,
+    "date": "2026-07-08",
+    "time": "03:56:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phuong Pham",
+    "erpInvoiceNo": "IN26-00119",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Pham",
+      "phone": "+84952716125"
+    },
+    "lang": "en",
+    "inputToken": 568,
+    "outputTokens": 489,
+    "totalTokens": 1057,
+    "date": "2026-04-25",
+    "time": "00:52:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phuong Ho",
+    "erpInvoiceNo": "IN26-00120",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Ho",
+      "phone": "+84715628783"
+    },
+    "lang": "en",
+    "inputToken": 1335,
+    "outputTokens": 597,
+    "totalTokens": 1932,
+    "date": "2026-10-05",
+    "time": "12:09:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nhi Vu",
+    "erpInvoiceNo": "IN26-00121",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Vu",
+      "phone": "+84525086956"
+    },
+    "lang": "en",
+    "inputToken": 1345,
+    "outputTokens": 458,
+    "totalTokens": 1803,
+    "date": "2026-04-14",
+    "time": "12:33:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Linh Hoang",
+    "erpInvoiceNo": "IN26-00122",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Hoang",
+      "phone": "+84714275609"
+    },
+    "lang": "vi",
+    "inputToken": 1282,
+    "outputTokens": 360,
+    "totalTokens": 1642,
+    "date": "2026-10-12",
+    "time": "11:51:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Mai Nguyen",
+    "erpInvoiceNo": "IN26-00123",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Nguyen",
+      "phone": "+84943538384"
+    },
+    "lang": "vi",
+    "inputToken": 843,
+    "outputTokens": 633,
+    "totalTokens": 1476,
+    "date": "2026-10-19",
+    "time": "19:15:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nhi Nguyen",
+    "erpInvoiceNo": "IN26-00124",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Nguyen",
+      "phone": "+84587106851"
+    },
+    "lang": "en",
+    "inputToken": 1732,
+    "outputTokens": 139,
+    "totalTokens": 1871,
+    "date": "2026-10-19",
+    "time": "12:24:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Tran",
+    "erpInvoiceNo": "IN26-00125",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Tran",
+      "phone": "+84563854958"
+    },
+    "lang": "vi",
+    "inputToken": 774,
+    "outputTokens": 846,
+    "totalTokens": 1620,
+    "date": "2026-10-14",
+    "time": "18:15:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phong Tran",
+    "erpInvoiceNo": "IN26-00126",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Tran",
+      "phone": "+84378507847"
+    },
+    "lang": null,
+    "inputToken": 345,
+    "outputTokens": 481,
+    "totalTokens": 826,
+    "date": "2026-09-27",
+    "time": "08:26:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thuy Huynh",
+    "erpInvoiceNo": "IN26-00127",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Huynh",
+      "phone": "+84349917485"
+    },
+    "lang": "vi",
+    "inputToken": 396,
+    "outputTokens": 703,
+    "totalTokens": 1099,
+    "date": "2026-05-26",
+    "time": "13:34:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Trang Nguyen",
+    "erpInvoiceNo": "IN26-00128",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Nguyen",
+      "phone": "+84836024855"
+    },
+    "lang": "vi",
+    "inputToken": 862,
+    "outputTokens": 712,
+    "totalTokens": 1574,
+    "date": "2026-10-19",
+    "time": "23:47:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Phan",
+    "erpInvoiceNo": "IN26-00129",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Phan",
+      "phone": null
+    },
+    "lang": "en",
+    "inputToken": 768,
+    "outputTokens": 658,
+    "totalTokens": 1426,
+    "date": "2026-02-24",
+    "time": "23:01:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "My Huynh",
+    "erpInvoiceNo": "IN26-00130",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Huynh",
+      "phone": "+84872656915"
+    },
+    "lang": "en",
+    "inputToken": 222,
+    "outputTokens": 639,
+    "totalTokens": 861,
+    "date": "2026-06-03",
+    "time": "20:32:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Khanh Vu",
+    "erpInvoiceNo": "IN26-00131",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Vu",
+      "phone": "+84523871047"
+    },
+    "lang": "vi",
+    "inputToken": 1330,
+    "outputTokens": 502,
+    "totalTokens": 1832,
+    "date": "2026-01-20",
+    "time": "00:23:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Long Nguyen",
+    "erpInvoiceNo": "IN26-00132",
+    "customerInfo": {
+      "firstName": "Long",
+      "lastName": "Nguyen",
+      "phone": "+84581927079"
+    },
+    "lang": "vi",
+    "inputToken": 257,
+    "outputTokens": 687,
+    "totalTokens": 944,
+    "date": "2026-10-13",
+    "time": "03:57:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Ly",
+    "erpInvoiceNo": "IN26-00133",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Ly",
+      "phone": "+84565497414"
+    },
+    "lang": "vi",
+    "inputToken": 294,
+    "outputTokens": 213,
+    "totalTokens": 507,
+    "date": "2026-02-01",
+    "time": "04:53:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Anh Truong",
+    "erpInvoiceNo": "IN26-00134",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Truong",
+      "phone": "+84998491127"
+    },
+    "lang": "en",
+    "inputToken": 384,
+    "outputTokens": 837,
+    "totalTokens": 1221,
+    "date": "2026-02-12",
+    "time": "16:43:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Nguyen",
+    "erpInvoiceNo": "IN26-00135",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Nguyen",
+      "phone": "+84841927796"
+    },
+    "lang": "vi",
+    "inputToken": 1469,
+    "outputTokens": 155,
+    "totalTokens": 1624,
+    "date": "2026-01-06",
+    "time": "17:32:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Anh Dinh",
+    "erpInvoiceNo": "IN26-00136",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Dinh",
+      "phone": "+84757213017"
+    },
+    "lang": null,
+    "inputToken": 76,
+    "outputTokens": 789,
+    "totalTokens": 865,
+    "date": "2026-06-19",
+    "time": "04:44:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phuong Le",
+    "erpInvoiceNo": "IN26-00137",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": null,
+      "phone": "+84812440574"
+    },
+    "lang": "vi",
+    "inputToken": 633,
+    "outputTokens": 377,
+    "totalTokens": 1010,
+    "date": "2026-03-11",
+    "time": "17:51:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Hoa Bui",
+    "erpInvoiceNo": "IN26-00138",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Bui",
+      "phone": "+84563764642"
+    },
+    "lang": "en",
+    "inputToken": 106,
+    "outputTokens": 839,
+    "totalTokens": 945,
+    "date": "2026-07-08",
+    "time": "19:01:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Anh Do",
+    "erpInvoiceNo": "IN26-00139",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Do",
+      "phone": "+84513648235"
+    },
+    "lang": "vi",
+    "inputToken": 1248,
+    "outputTokens": 424,
+    "totalTokens": 1672,
+    "date": "2026-03-12",
+    "time": "02:29:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Mai Ngo",
+    "erpInvoiceNo": "IN26-00140",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Ngo",
+      "phone": "+84898440930"
+    },
+    "lang": "en",
+    "inputToken": 776,
+    "outputTokens": 802,
+    "totalTokens": 1578,
+    "date": "2026-09-24",
+    "time": "14:48:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Long Truong",
+    "erpInvoiceNo": "IN26-00141",
+    "customerInfo": {
+      "firstName": "Long",
+      "lastName": "Truong",
+      "phone": "+84560984004"
+    },
+    "lang": "en",
+    "inputToken": 103,
+    "outputTokens": 345,
+    "totalTokens": 448,
+    "date": "2026-05-31",
+    "time": "09:31:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Trang Huynh",
+    "erpInvoiceNo": "IN26-00142",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Huynh",
+      "phone": "+84354630241"
+    },
+    "lang": "vi",
+    "inputToken": 1309,
+    "outputTokens": 680,
+    "totalTokens": 1989,
+    "date": "2026-08-17",
+    "time": "12:11:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Tuan Vo",
+    "erpInvoiceNo": "IN26-00143",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Vo",
+      "phone": "+84817289054"
+    },
+    "lang": "en",
+    "inputToken": 389,
+    "outputTokens": 599,
+    "totalTokens": 988,
+    "date": "2026-01-19",
+    "time": "23:00:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Tran",
+    "erpInvoiceNo": "IN26-00144",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Tran",
+      "phone": "+84579279186"
+    },
+    "lang": "vi",
+    "inputToken": 1264,
+    "outputTokens": 752,
+    "totalTokens": 2016,
+    "date": "2026-05-19",
+    "time": "11:42:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phuong Ho",
+    "erpInvoiceNo": "IN26-00145",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Ho",
+      "phone": "+84892893323"
+    },
+    "lang": "vi",
+    "inputToken": 271,
+    "outputTokens": 156,
+    "totalTokens": 427,
+    "date": "2026-02-08",
+    "time": "10:10:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Duong",
+    "erpInvoiceNo": "IN26-00146",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Duong",
+      "phone": "+84922525268"
+    },
+    "lang": "vi",
+    "inputToken": 935,
+    "outputTokens": 586,
+    "totalTokens": 1521,
+    "date": "2026-08-07",
+    "time": "15:55:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Minh Pham",
+    "erpInvoiceNo": "IN26-00147",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Pham",
+      "phone": "+84860718972"
+    },
+    "lang": "vi",
+    "inputToken": 58,
+    "outputTokens": 934,
+    "totalTokens": 992,
+    "date": "2026-10-31",
+    "time": "18:11:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Long Bui",
+    "erpInvoiceNo": "IN26-00148",
+    "customerInfo": {
+      "firstName": "Long",
+      "lastName": "Bui",
+      "phone": "+84305323547"
+    },
+    "lang": "vi",
+    "inputToken": 522,
+    "outputTokens": 896,
+    "totalTokens": 1418,
+    "date": "2026-07-08",
+    "time": "23:34:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Linh Dinh",
+    "erpInvoiceNo": "IN26-00149",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Dinh",
+      "phone": "+84879442141"
+    },
+    "lang": "vi",
+    "inputToken": 574,
+    "outputTokens": 388,
+    "totalTokens": 962,
+    "date": "2026-07-17",
+    "time": "20:01:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Duong",
+    "erpInvoiceNo": "IN26-00150",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Duong",
+      "phone": "+84823212965"
+    },
+    "lang": "vi",
+    "inputToken": 298,
+    "outputTokens": 584,
+    "totalTokens": 882,
+    "date": "2026-04-23",
+    "time": "04:41:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Minh Ly",
+    "erpInvoiceNo": "IN26-00151",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Ly",
+      "phone": "+84830106845"
+    },
+    "lang": "en",
+    "inputToken": 807,
+    "outputTokens": 143,
+    "totalTokens": 950,
+    "date": "2026-08-20",
+    "time": "22:56:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Ngo",
+    "erpInvoiceNo": "IN26-00152",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Ngo",
+      "phone": "+84829352381"
+    },
+    "lang": "en",
+    "inputToken": 1326,
+    "outputTokens": 681,
+    "totalTokens": 2007,
+    "date": "2026-02-11",
+    "time": "05:01:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Trang Do",
+    "erpInvoiceNo": "IN26-00153",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Do",
+      "phone": "+84950872229"
+    },
+    "lang": "vi",
+    "inputToken": 734,
+    "outputTokens": 610,
+    "totalTokens": 1344,
+    "date": "2026-06-08",
+    "time": "22:38:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Anh Ho",
+    "erpInvoiceNo": "IN26-00154",
+    "customerInfo": {
+      "firstName": "Anh",
+      "lastName": "Ho",
+      "phone": "+84307224930"
+    },
+    "lang": "en",
+    "inputToken": 1683,
+    "outputTokens": 643,
+    "totalTokens": 2326,
+    "date": "2026-01-19",
+    "time": "01:12:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nam Huynh",
+    "erpInvoiceNo": "IN26-00155",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Huynh",
+      "phone": "+84542665757"
+    },
+    "lang": "en",
+    "inputToken": 1157,
+    "outputTokens": 733,
+    "totalTokens": 1890,
+    "date": "2026-08-15",
+    "time": "04:35:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Bui",
+    "erpInvoiceNo": "IN26-00156",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Bui",
+      "phone": "+84336714816"
+    },
+    "lang": "vi",
+    "inputToken": 568,
+    "outputTokens": 681,
+    "totalTokens": 1249,
+    "date": "2026-01-16",
+    "time": "14:12:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thuy Ly",
+    "erpInvoiceNo": "IN26-00157",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Ly",
+      "phone": "+84985028625"
+    },
+    "lang": "en",
+    "inputToken": 1206,
+    "outputTokens": 263,
+    "totalTokens": 1469,
+    "date": "2026-06-26",
+    "time": "09:58:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Vy Pham",
+    "erpInvoiceNo": "IN26-00158",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Pham",
+      "phone": "+84591972929"
+    },
+    "lang": "en",
+    "inputToken": 1023,
+    "outputTokens": 311,
+    "totalTokens": 1334,
+    "date": "2026-11-01",
+    "time": "18:26:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Minh Do",
+    "erpInvoiceNo": "IN26-00159",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Do",
+      "phone": "+84942238779"
+    },
+    "lang": "vi",
+    "inputToken": 1273,
+    "outputTokens": 597,
+    "totalTokens": 1870,
+    "date": "2026-05-23",
+    "time": "19:23:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nhi Bui",
+    "erpInvoiceNo": "IN26-00160",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": null,
+      "phone": "+84368829007"
+    },
+    "lang": "vi",
+    "inputToken": 489,
+    "outputTokens": 193,
+    "totalTokens": 682,
+    "date": "2026-04-16",
+    "time": "07:07:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Phong Tran",
+    "erpInvoiceNo": "IN26-00161",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Tran",
+      "phone": "+84803440383"
+    },
+    "lang": "en",
+    "inputToken": 990,
+    "outputTokens": 858,
+    "totalTokens": 1848,
+    "date": "2026-10-05",
+    "time": "23:59:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phuong Ly",
+    "erpInvoiceNo": "IN26-00162",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Ly",
+      "phone": "+84764187357"
+    },
+    "lang": "vi",
+    "inputToken": 1447,
+    "outputTokens": 827,
+    "totalTokens": 2274,
+    "date": "2026-02-15",
+    "time": "11:59:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Dang",
+    "erpInvoiceNo": "IN26-00163",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Dang",
+      "phone": "+84894903865"
+    },
+    "lang": "vi",
+    "inputToken": 1232,
+    "outputTokens": 760,
+    "totalTokens": 1992,
+    "date": "2026-04-09",
+    "time": "13:20:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phong Huynh",
+    "erpInvoiceNo": "IN26-00164",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Huynh",
+      "phone": "+84586794514"
+    },
+    "lang": "vi",
+    "inputToken": 802,
+    "outputTokens": 208,
+    "totalTokens": 1010,
+    "date": "2026-08-12",
+    "time": "02:31:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Le",
+    "erpInvoiceNo": "IN26-00165",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Le",
+      "phone": "+84302205975"
+    },
+    "lang": "vi",
+    "inputToken": 1446,
+    "outputTokens": 756,
+    "totalTokens": 2202,
+    "date": "2026-06-03",
+    "time": "18:48:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Nguyen",
+    "erpInvoiceNo": "IN26-00166",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Nguyen",
+      "phone": "+84840508553"
+    },
+    "lang": "vi",
+    "inputToken": 1453,
+    "outputTokens": 713,
+    "totalTokens": 2166,
+    "date": "2026-06-05",
+    "time": "12:18:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phong Dinh",
+    "erpInvoiceNo": "IN26-00167",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Dinh",
+      "phone": "+84884287477"
+    },
+    "lang": "en",
+    "inputToken": 1299,
+    "outputTokens": 950,
+    "totalTokens": 2249,
+    "date": "2026-08-28",
+    "time": "11:14:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Vo",
+    "erpInvoiceNo": "IN26-00168",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Vo",
+      "phone": "+84505292999"
+    },
+    "lang": "en",
+    "inputToken": 1779,
+    "outputTokens": 785,
+    "totalTokens": 2564,
+    "date": "2026-06-11",
+    "time": "08:43:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Truong",
+    "erpInvoiceNo": "IN26-00169",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Truong",
+      "phone": "+84931271665"
+    },
+    "lang": "vi",
+    "inputToken": 726,
+    "outputTokens": 170,
+    "totalTokens": 896,
+    "date": "2026-10-17",
+    "time": "08:38:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Son Pham",
+    "erpInvoiceNo": "IN26-00170",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Pham",
+      "phone": "+84867687674"
+    },
+    "lang": "vi",
+    "inputToken": 822,
+    "outputTokens": 844,
+    "totalTokens": 1666,
+    "date": "2026-01-17",
+    "time": "09:19:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Duc Nguyen",
+    "erpInvoiceNo": "IN26-00171",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Nguyen",
+      "phone": "+84885150057"
+    },
+    "lang": "vi",
+    "inputToken": 1044,
+    "outputTokens": 735,
+    "totalTokens": 1779,
+    "date": "2026-10-17",
+    "time": "10:35:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ha Vo",
+    "erpInvoiceNo": "IN26-00172",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Vo",
+      "phone": "+84824830762"
+    },
+    "lang": "vi",
+    "inputToken": 526,
+    "outputTokens": 748,
+    "totalTokens": 1274,
+    "date": "2026-08-04",
+    "time": "13:53:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Trang Hoang",
+    "erpInvoiceNo": "IN26-00173",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Hoang",
+      "phone": "+84998190819"
+    },
+    "lang": "vi",
+    "inputToken": 696,
+    "outputTokens": 536,
+    "totalTokens": 1232,
+    "date": "2026-05-09",
+    "time": "09:52:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nam Pham",
+    "erpInvoiceNo": "IN26-00174",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Pham",
+      "phone": "+84329032377"
+    },
+    "lang": "en",
+    "inputToken": 854,
+    "outputTokens": 23,
+    "totalTokens": 877,
+    "date": "2026-10-29",
+    "time": "05:20:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Nhi Nguyen",
+    "erpInvoiceNo": "IN26-00175",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Nguyen",
+      "phone": "+84360271907"
+    },
+    "lang": "vi",
+    "inputToken": 1700,
+    "outputTokens": 575,
+    "totalTokens": 2275,
+    "date": "2026-02-24",
+    "time": "09:07:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Duc Hoang",
+    "erpInvoiceNo": "IN26-00176",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Hoang",
+      "phone": "+84725183134"
+    },
+    "lang": "en",
+    "inputToken": 1618,
+    "outputTokens": 361,
+    "totalTokens": 1979,
+    "date": "2026-04-30",
+    "time": "07:57:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Quang Do",
+    "erpInvoiceNo": "IN26-00177",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Do",
+      "phone": "+84962461402"
+    },
+    "lang": "en",
+    "inputToken": 1356,
+    "outputTokens": 562,
+    "totalTokens": 1918,
+    "date": "2026-01-07",
+    "time": "14:42:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Huy Tran",
+    "erpInvoiceNo": "IN26-00178",
+    "customerInfo": {
+      "firstName": "Huy",
+      "lastName": "Tran",
+      "phone": "+84798091380"
+    },
+    "lang": "en",
+    "inputToken": 1390,
+    "outputTokens": 318,
+    "totalTokens": 1708,
+    "date": "2026-05-30",
+    "time": "16:18:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Nguyen",
+    "erpInvoiceNo": "IN26-00179",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Nguyen",
+      "phone": "+84857966048"
+    },
+    "lang": "en",
+    "inputToken": 1370,
+    "outputTokens": 191,
+    "totalTokens": 1561,
+    "date": "2026-08-23",
+    "time": "15:58:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Truong",
+    "erpInvoiceNo": "IN26-00180",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Truong",
+      "phone": "+84948551268"
+    },
+    "lang": "en",
+    "inputToken": 476,
+    "outputTokens": 721,
+    "totalTokens": 1197,
+    "date": "2026-02-19",
+    "time": "01:29:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Phuong Vu",
+    "erpInvoiceNo": "IN26-00181",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Vu",
+      "phone": "+84948637957"
+    },
+    "lang": "en",
+    "inputToken": 1324,
+    "outputTokens": 97,
+    "totalTokens": 1421,
+    "date": "2026-05-12",
+    "time": "14:25:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Tran",
+    "erpInvoiceNo": "IN26-00182",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Tran",
+      "phone": "+84872613962"
+    },
+    "lang": "en",
+    "inputToken": 242,
+    "outputTokens": 24,
+    "totalTokens": 266,
+    "date": "2026-10-25",
+    "time": "05:51:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Long Truong",
+    "erpInvoiceNo": "IN26-00183",
+    "customerInfo": {
+      "firstName": "Long",
+      "lastName": "Truong",
+      "phone": "+84725459309"
+    },
+    "lang": "vi",
+    "inputToken": 620,
+    "outputTokens": 712,
+    "totalTokens": 1332,
+    "date": "2026-06-20",
+    "time": "13:06:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Hoa Pham",
+    "erpInvoiceNo": "IN26-00184",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Pham",
+      "phone": "+84340804105"
+    },
+    "lang": "en",
+    "inputToken": 558,
+    "outputTokens": 877,
+    "totalTokens": 1435,
+    "date": "2026-06-16",
+    "time": "13:36:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thuy Tran",
+    "erpInvoiceNo": "IN26-00185",
+    "customerInfo": {
+      "firstName": "Thuy",
+      "lastName": "Tran",
+      "phone": "+84771827267"
+    },
+    "lang": "en",
+    "inputToken": 1053,
+    "outputTokens": 233,
+    "totalTokens": 1286,
+    "date": "2026-04-02",
+    "time": "16:39:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Phong Nguyen",
+    "erpInvoiceNo": "IN26-00186",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Nguyen",
+      "phone": "+84539984814"
+    },
+    "lang": "en",
+    "inputToken": 101,
+    "outputTokens": 547,
+    "totalTokens": 648,
+    "date": "2026-08-22",
+    "time": "07:10:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Truong",
+    "erpInvoiceNo": "IN26-00187",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Truong",
+      "phone": "+84931098823"
+    },
+    "lang": "en",
+    "inputToken": 643,
+    "outputTokens": 426,
+    "totalTokens": 1069,
+    "date": "2026-10-15",
+    "time": "05:31:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phuong Pham",
+    "erpInvoiceNo": "IN26-00188",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Pham",
+      "phone": "+84951602602"
+    },
+    "lang": "en",
+    "inputToken": 628,
+    "outputTokens": 397,
+    "totalTokens": 1025,
+    "date": "2026-08-28",
+    "time": "20:02:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Son Dinh",
+    "erpInvoiceNo": "IN26-00189",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Dinh",
+      "phone": "+84505904496"
+    },
+    "lang": "en",
+    "inputToken": 736,
+    "outputTokens": 432,
+    "totalTokens": 1168,
+    "date": "2026-05-03",
+    "time": "17:35:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Khanh Bui",
+    "erpInvoiceNo": "IN26-00190",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Bui",
+      "phone": "+84330253289"
+    },
+    "lang": "en",
+    "inputToken": 1281,
+    "outputTokens": 664,
+    "totalTokens": 1945,
+    "date": "2026-02-06",
+    "time": "18:12:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Phuong Ngo",
+    "erpInvoiceNo": "IN26-00191",
+    "customerInfo": {
+      "firstName": "Phuong",
+      "lastName": "Ngo",
+      "phone": "+84571084468"
+    },
+    "lang": "en",
+    "inputToken": 1410,
+    "outputTokens": 802,
+    "totalTokens": 2212,
+    "date": "2026-04-18",
+    "time": "14:38:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Mai Nguyen",
+    "erpInvoiceNo": "IN26-00192",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Nguyen",
+      "phone": "+84768642856"
+    },
+    "lang": "en",
+    "inputToken": 928,
+    "outputTokens": 941,
+    "totalTokens": 1869,
+    "date": "2026-06-09",
+    "time": "19:12:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Son Vo",
+    "erpInvoiceNo": "IN26-00193",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Vo",
+      "phone": "+84544068505"
+    },
+    "lang": "en",
+    "inputToken": 1264,
+    "outputTokens": 192,
+    "totalTokens": 1456,
+    "date": "2026-03-13",
+    "time": "04:21:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Bao Bui",
+    "erpInvoiceNo": "IN26-00194",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Bui",
+      "phone": "+84781817308"
+    },
+    "lang": "vi",
+    "inputToken": 743,
+    "outputTokens": 82,
+    "totalTokens": 825,
+    "date": "2026-01-18",
+    "time": "14:28:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ha Nguyen",
+    "erpInvoiceNo": "IN26-00195",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Nguyen",
+      "phone": "+84929035422"
+    },
+    "lang": "en",
+    "inputToken": 159,
+    "outputTokens": 906,
+    "totalTokens": 1065,
+    "date": "2026-05-15",
+    "time": "12:10:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Linh Nguyen",
+    "erpInvoiceNo": "IN26-00196",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Nguyen",
+      "phone": "+84910927842"
+    },
+    "lang": "en",
+    "inputToken": 787,
+    "outputTokens": 602,
+    "totalTokens": 1389,
+    "date": "2026-05-25",
+    "time": "12:11:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Bao Ngo",
+    "erpInvoiceNo": "IN26-00197",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Ngo",
+      "phone": "+84320733323"
+    },
+    "lang": "vi",
+    "inputToken": 582,
+    "outputTokens": 385,
+    "totalTokens": 967,
+    "date": "2026-08-15",
+    "time": "12:53:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Bui",
+    "erpInvoiceNo": "IN26-00198",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Bui",
+      "phone": "+84786465998"
+    },
+    "lang": "vi",
+    "inputToken": 1165,
+    "outputTokens": 479,
+    "totalTokens": 1644,
+    "date": "2026-05-15",
+    "time": "09:12:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Ngo",
+    "erpInvoiceNo": "IN26-00199",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Ngo",
+      "phone": "+84323392253"
+    },
+    "lang": "vi",
+    "inputToken": 1499,
+    "outputTokens": 573,
+    "totalTokens": 2072,
+    "date": "2026-05-10",
+    "time": "07:12:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Dinh",
+    "erpInvoiceNo": "IN26-00200",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Dinh",
+      "phone": "+84906562167"
+    },
+    "lang": "vi",
+    "inputToken": 42,
+    "outputTokens": 893,
+    "totalTokens": 935,
+    "date": "2026-09-10",
+    "time": "18:29:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Vo",
+    "erpInvoiceNo": "IN26-00201",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Vo",
+      "phone": "+84589223639"
+    },
+    "lang": "en",
+    "inputToken": 342,
+    "outputTokens": 753,
+    "totalTokens": 1095,
+    "date": "2026-04-23",
+    "time": "20:19:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Mai Dinh",
+    "erpInvoiceNo": "IN26-00202",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Dinh",
+      "phone": "+84342575124"
+    },
+    "lang": "en",
+    "inputToken": 1089,
+    "outputTokens": 857,
+    "totalTokens": 1946,
+    "date": "2026-03-01",
+    "time": "02:47:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Vy Dang",
+    "erpInvoiceNo": "IN26-00203",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Dang",
+      "phone": "+84961714817"
+    },
+    "lang": "en",
+    "inputToken": 551,
+    "outputTokens": 688,
+    "totalTokens": 1239,
+    "date": "2026-10-17",
+    "time": "16:06:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Linh Ngo",
+    "erpInvoiceNo": "IN26-00204",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Ngo",
+      "phone": "+84708329771"
+    },
+    "lang": "vi",
+    "inputToken": 1610,
+    "outputTokens": 28,
+    "totalTokens": 1638,
+    "date": "2026-10-04",
+    "time": "14:59:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Bao Hoang",
+    "erpInvoiceNo": "IN26-00205",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Hoang",
+      "phone": "+84868302269"
+    },
+    "lang": "en",
+    "inputToken": 495,
+    "outputTokens": 614,
+    "totalTokens": 1109,
+    "date": "2026-07-21",
+    "time": "21:11:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Duc Nguyen",
+    "erpInvoiceNo": "IN26-00206",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Nguyen",
+      "phone": "+84841949977"
+    },
+    "lang": "en",
+    "inputToken": 830,
+    "outputTokens": 561,
+    "totalTokens": 1391,
+    "date": "2026-09-16",
+    "time": "20:39:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Quang Ho",
+    "erpInvoiceNo": "IN26-00207",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Ho",
+      "phone": "+84950385241"
+    },
+    "lang": "vi",
+    "inputToken": 185,
+    "outputTokens": 593,
+    "totalTokens": 778,
+    "date": "2026-10-16",
+    "time": "03:29:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Khanh Ho",
+    "erpInvoiceNo": "IN26-00208",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Ho",
+      "phone": "+84566781250"
+    },
+    "lang": "vi",
+    "inputToken": 916,
+    "outputTokens": 240,
+    "totalTokens": 1156,
+    "date": "2026-08-19",
+    "time": "18:32:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Ho",
+    "erpInvoiceNo": "IN26-00209",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Ho",
+      "phone": "+84357886342"
+    },
+    "lang": "vi",
+    "inputToken": 690,
+    "outputTokens": 304,
+    "totalTokens": 994,
+    "date": "2026-05-17",
+    "time": "02:24:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Minh Le",
+    "erpInvoiceNo": "IN26-00210",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Le",
+      "phone": "+84725131661"
+    },
+    "lang": "vi",
+    "inputToken": 1144,
+    "outputTokens": 211,
+    "totalTokens": 1355,
+    "date": "2026-08-06",
+    "time": "23:48:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Ha Phan",
+    "erpInvoiceNo": "IN26-00211",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Phan",
+      "phone": "+84513596798"
+    },
+    "lang": "vi",
+    "inputToken": 459,
+    "outputTokens": 186,
+    "totalTokens": 645,
+    "date": "2026-10-11",
+    "time": "05:59:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Son Pham",
+    "erpInvoiceNo": "IN26-00212",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Pham",
+      "phone": "+84706098640"
+    },
+    "lang": "vi",
+    "inputToken": 36,
+    "outputTokens": 617,
+    "totalTokens": 653,
+    "date": "2026-10-16",
+    "time": "21:45:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Bao Ngo",
+    "erpInvoiceNo": "IN26-00213",
+    "customerInfo": {
+      "firstName": "Bao",
+      "lastName": "Ngo",
+      "phone": "+84316702707"
+    },
+    "lang": "vi",
+    "inputToken": 676,
+    "outputTokens": 286,
+    "totalTokens": 962,
+    "date": "2026-08-12",
+    "time": "00:33:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Thao Phan",
+    "erpInvoiceNo": "IN26-00214",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Phan",
+      "phone": "+84324574396"
+    },
+    "lang": "en",
+    "inputToken": 643,
+    "outputTokens": 868,
+    "totalTokens": 1511,
+    "date": "2026-05-28",
+    "time": "16:02:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Ha Phan",
+    "erpInvoiceNo": "IN26-00215",
+    "customerInfo": {
+      "firstName": "Ha",
+      "lastName": "Phan",
+      "phone": "+84374570060"
+    },
+    "lang": "en",
+    "inputToken": 1279,
+    "outputTokens": 379,
+    "totalTokens": 1658,
+    "date": "2026-01-28",
+    "time": "08:45:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Trang Vu",
+    "erpInvoiceNo": "IN26-00216",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Vu",
+      "phone": "+84398983900"
+    },
+    "lang": "vi",
+    "inputToken": 693,
+    "outputTokens": 659,
+    "totalTokens": 1352,
+    "date": "2026-03-03",
+    "time": "17:16:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Huynh",
+    "erpInvoiceNo": "IN26-00217",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Huynh",
+      "phone": "+84887322060"
+    },
+    "lang": "en",
+    "inputToken": 1485,
+    "outputTokens": 268,
+    "totalTokens": 1753,
+    "date": "2026-04-30",
+    "time": "20:30:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Kiet Dang",
+    "erpInvoiceNo": "IN26-00218",
+    "customerInfo": {
+      "firstName": "Kiet",
+      "lastName": "Dang",
+      "phone": "+84750190633"
+    },
+    "lang": "en",
+    "inputToken": 673,
+    "outputTokens": 625,
+    "totalTokens": 1298,
+    "date": "2026-08-09",
+    "time": "11:47:00",
+    "status": "Active"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Vy Nguyen",
+    "erpInvoiceNo": "IN26-00219",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Nguyen",
+      "phone": "+84569879916"
+    },
+    "lang": "vi",
+    "inputToken": 1236,
+    "outputTokens": 130,
+    "totalTokens": 1366,
+    "date": "2026-02-07",
+    "time": "06:31:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Truong",
+    "erpInvoiceNo": "IN26-00220",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Truong",
+      "phone": "+84878366584"
+    },
+    "lang": "vi",
+    "inputToken": 1660,
+    "outputTokens": 83,
+    "totalTokens": 1743,
+    "date": "2026-05-23",
+    "time": "00:15:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Truong",
+    "erpInvoiceNo": "IN26-00221",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Truong",
+      "phone": "+84530388580"
+    },
+    "lang": "en",
+    "inputToken": 1286,
+    "outputTokens": 843,
+    "totalTokens": 2129,
+    "date": "2026-07-26",
+    "time": "14:26:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Nhi Ngo",
+    "erpInvoiceNo": "IN26-00222",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Ngo",
+      "phone": "+84932700853"
+    },
+    "lang": "en",
+    "inputToken": 1758,
+    "outputTokens": 407,
+    "totalTokens": 2165,
+    "date": "2026-03-10",
+    "time": "18:31:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "My Ngo",
+    "erpInvoiceNo": "IN26-00223",
+    "customerInfo": {
+      "firstName": "My",
+      "lastName": "Ngo",
+      "phone": "+84805552004"
+    },
+    "lang": "en",
+    "inputToken": 1351,
+    "outputTokens": 527,
+    "totalTokens": 1878,
+    "date": "2026-07-22",
+    "time": "19:22:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Huynh",
+    "erpInvoiceNo": "IN26-00224",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Huynh",
+      "phone": "+84384490155"
+    },
+    "lang": "vi",
+    "inputToken": 663,
+    "outputTokens": 266,
+    "totalTokens": 929,
+    "date": "2026-07-09",
+    "time": "03:40:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Quang Pham",
+    "erpInvoiceNo": "IN26-00225",
+    "customerInfo": {
+      "firstName": "Quang",
+      "lastName": "Pham",
+      "phone": "+84999769671"
+    },
+    "lang": "en",
+    "inputToken": 959,
+    "outputTokens": 629,
+    "totalTokens": 1588,
+    "date": "2026-03-10",
+    "time": "11:30:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nhi Hoang",
+    "erpInvoiceNo": "IN26-00226",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Hoang",
+      "phone": "+84395563464"
+    },
+    "lang": "vi",
+    "inputToken": 1383,
+    "outputTokens": 558,
+    "totalTokens": 1941,
+    "date": "2026-11-04",
+    "time": "03:35:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Trang Vo",
+    "erpInvoiceNo": "IN26-00227",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Vo",
+      "phone": "+84365099201"
+    },
+    "lang": "vi",
+    "inputToken": 444,
+    "outputTokens": 708,
+    "totalTokens": 1152,
+    "date": "2026-09-28",
+    "time": "16:53:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Tuan Tran",
+    "erpInvoiceNo": "IN26-00228",
+    "customerInfo": {
+      "firstName": null,
+      "lastName": "Tran",
+      "phone": "+84939212659"
+    },
+    "lang": "en",
+    "inputToken": 109,
+    "outputTokens": 156,
+    "totalTokens": 265,
+    "date": "2026-07-16",
+    "time": "14:54:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Thao Phan",
+    "erpInvoiceNo": "IN26-00229",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Phan",
+      "phone": "+84810110533"
+    },
+    "lang": "vi",
+    "inputToken": 250,
+    "outputTokens": 374,
+    "totalTokens": 624,
+    "date": "2026-08-22",
+    "time": "03:55:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Nhi Do",
+    "erpInvoiceNo": "IN26-00230",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Do",
+      "phone": "+84898836785"
+    },
+    "lang": "en",
+    "inputToken": 1050,
+    "outputTokens": 221,
+    "totalTokens": 1271,
+    "date": "2026-07-22",
+    "time": "07:40:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Mai Dang",
+    "erpInvoiceNo": "IN26-00231",
+    "customerInfo": {
+      "firstName": "Mai",
+      "lastName": "Dang",
+      "phone": "+84373155383"
+    },
+    "lang": "en",
+    "inputToken": 1234,
+    "outputTokens": 664,
+    "totalTokens": 1898,
+    "date": "2026-03-13",
+    "time": "15:19:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Vy Ho",
+    "erpInvoiceNo": "IN26-00232",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Ho",
+      "phone": "+84770998995"
+    },
+    "lang": "en",
+    "inputToken": 697,
+    "outputTokens": 600,
+    "totalTokens": 1297,
+    "date": "2026-06-21",
+    "time": "10:33:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Duc Hoang",
+    "erpInvoiceNo": "IN26-00233",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Hoang",
+      "phone": "+84876863895"
+    },
+    "lang": "en",
+    "inputToken": 1090,
+    "outputTokens": 614,
+    "totalTokens": 1704,
+    "date": "2026-03-27",
+    "time": "13:02:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": null,
+    "erpInvoiceNo": "IN26-00234",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Le",
+      "phone": "+84357589833"
+    },
+    "lang": "en",
+    "inputToken": 341,
+    "outputTokens": 865,
+    "totalTokens": 1206,
+    "date": "2026-08-31",
+    "time": "15:17:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Son Ho",
+    "erpInvoiceNo": "IN26-00235",
+    "customerInfo": {
+      "firstName": "Son",
+      "lastName": "Ho",
+      "phone": "+84880412626"
+    },
+    "lang": "vi",
+    "inputToken": 1707,
+    "outputTokens": 642,
+    "totalTokens": 2349,
+    "date": "2026-09-11",
+    "time": "11:32:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Vy Bui",
+    "erpInvoiceNo": "IN26-00236",
+    "customerInfo": {
+      "firstName": "Vy",
+      "lastName": "Bui",
+      "phone": "+84521915425"
+    },
+    "lang": "en",
+    "inputToken": 1230,
+    "outputTokens": 466,
+    "totalTokens": 1696,
+    "date": "2026-03-10",
+    "time": "10:52:00",
+    "status": "Failed"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Nhi Dang",
+    "erpInvoiceNo": "IN26-00237",
+    "customerInfo": {
+      "firstName": "Nhi",
+      "lastName": "Dang",
+      "phone": "+84555953650"
+    },
+    "lang": "en",
+    "inputToken": 581,
+    "outputTokens": 255,
+    "totalTokens": 836,
+    "date": "2026-10-17",
+    "time": "13:39:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Khanh Hoang",
+    "erpInvoiceNo": "IN26-00238",
+    "customerInfo": {
+      "firstName": "Khanh",
+      "lastName": "Hoang",
+      "phone": "+84555602055"
+    },
+    "lang": "en",
+    "inputToken": 909,
+    "outputTokens": 760,
+    "totalTokens": 1669,
+    "date": "2026-01-02",
+    "time": "09:36:00",
+    "status": "Resolved"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Ngoc Le",
+    "erpInvoiceNo": "IN26-00239",
+    "customerInfo": {
+      "firstName": "Ngoc",
+      "lastName": "Le",
+      "phone": "+84342538886"
+    },
+    "lang": "vi",
+    "inputToken": 1098,
+    "outputTokens": 386,
+    "totalTokens": 1484,
+    "date": "2026-10-08",
+    "time": "07:00:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Hoa Pham",
+    "erpInvoiceNo": "IN26-00240",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Pham",
+      "phone": "+84582242765"
+    },
+    "lang": "vi",
+    "inputToken": 616,
+    "outputTokens": 644,
+    "totalTokens": 1260,
+    "date": "2026-01-13",
+    "time": "10:45:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Minh Hoang",
+    "erpInvoiceNo": "IN26-00241",
+    "customerInfo": {
+      "firstName": "Minh",
+      "lastName": "Hoang",
+      "phone": "+84383220354"
+    },
+    "lang": "vi",
+    "inputToken": 412,
+    "outputTokens": 858,
+    "totalTokens": 1270,
+    "date": "2026-06-03",
+    "time": "11:21:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phong Do",
+    "erpInvoiceNo": "IN26-00242",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Do",
+      "phone": "+84824612523"
+    },
+    "lang": "en",
+    "inputToken": 157,
+    "outputTokens": 927,
+    "totalTokens": 1084,
+    "date": "2026-10-06",
+    "time": "22:57:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "whatsapp",
+    "conversationName": "Duc Nguyen",
+    "erpInvoiceNo": "IN26-00243",
+    "customerInfo": {
+      "firstName": "Duc",
+      "lastName": "Nguyen",
+      "phone": "+84798324801"
+    },
+    "lang": "en",
+    "inputToken": 1389,
+    "outputTokens": 808,
+    "totalTokens": 2197,
+    "date": "2026-09-03",
+    "time": "15:47:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Trang Vu",
+    "erpInvoiceNo": "IN26-00244",
+    "customerInfo": {
+      "firstName": "Trang",
+      "lastName": "Vu",
+      "phone": "+84949944049"
+    },
+    "lang": "en",
+    "inputToken": 1740,
+    "outputTokens": 302,
+    "totalTokens": 2042,
+    "date": "2026-06-14",
+    "time": "07:32:00",
+    "status": "Pending"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Tuan Duong",
+    "erpInvoiceNo": "IN26-00245",
+    "customerInfo": {
+      "firstName": "Tuan",
+      "lastName": "Duong",
+      "phone": "+84378521116"
+    },
+    "lang": "en",
+    "inputToken": 384,
+    "outputTokens": 879,
+    "totalTokens": 1263,
+    "date": "2026-07-18",
+    "time": "02:57:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Linh Duong",
+    "erpInvoiceNo": "IN26-00246",
+    "customerInfo": {
+      "firstName": "Linh",
+      "lastName": "Duong",
+      "phone": "+84887077281"
+    },
+    "lang": "vi",
+    "inputToken": 212,
+    "outputTokens": 16,
+    "totalTokens": 228,
+    "date": "2026-06-02",
+    "time": "00:39:00",
+    "status": "Active"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Nam Truong",
+    "erpInvoiceNo": "IN26-00247",
+    "customerInfo": {
+      "firstName": "Nam",
+      "lastName": "Truong",
+      "phone": "+84761285262"
+    },
+    "lang": "vi",
+    "inputToken": 1600,
+    "outputTokens": 259,
+    "totalTokens": 1859,
+    "date": "2026-03-16",
+    "time": "20:45:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "zalo",
+    "conversationName": "Phong Ho",
+    "erpInvoiceNo": "IN26-00248",
+    "customerInfo": {
+      "firstName": "Phong",
+      "lastName": "Ho",
+      "phone": "+84961018216"
+    },
+    "lang": "vi",
+    "inputToken": 637,
+    "outputTokens": 908,
+    "totalTokens": 1545,
+    "date": "2026-08-19",
+    "time": "16:52:00",
+    "status": "Needs Review"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Thao Do",
+    "erpInvoiceNo": "IN26-00249",
+    "customerInfo": {
+      "firstName": "Thao",
+      "lastName": "Do",
+      "phone": "+84873244052"
+    },
+    "lang": "en",
+    "inputToken": 1327,
+    "outputTokens": 436,
+    "totalTokens": 1763,
+    "date": "2026-08-14",
+    "time": "12:48:00",
+    "status": "Active"
+  },
+  {
+    "channel": "message",
+    "conversationName": "Hoa Ngo",
+    "erpInvoiceNo": "IN26-00250",
+    "customerInfo": {
+      "firstName": "Hoa",
+      "lastName": "Ngo",
+      "phone": "+84715522411"
+    },
+    "lang": "vi",
+    "inputToken": 1591,
+    "outputTokens": 36,
+    "totalTokens": 1627,
+    "date": "2026-05-29",
+    "time": "11:22:00",
+    "status": "Resolved"
+  }
+]
