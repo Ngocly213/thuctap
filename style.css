@@ -212,24 +212,18 @@ input {
 
 .toggle {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
   padding: 6px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--white);
   cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.toggle:hover {
-  background: var(--border);
 }
 
 .toggle-icon {
+  display: block;
   width: 18px;
   height: 18px;
-  display: block;
 }
 
 .topbar h1 {
@@ -405,7 +399,7 @@ input {
 
 .data-table th,
 .data-table td {
-  padding: 12px 16px;
+  padding: 12px;
 }
 
 .data-table th {
@@ -753,4 +747,92 @@ input {
   padding: 0 4px;
   font-size: 14px;
   color: #9ca3af;
+}
+
+@media (max-width: 1600px) {
+  .content {
+    padding: 16px;
+  }
+
+  .card {
+    padding: 12px;
+  }
+
+  .data-table th,
+  .data-table td {
+    padding: 12px 8px;
+  }
+
+  .data-table th {
+    font-size: 11px;
+    letter-spacing: 0;
+  }
+
+  .data-table td {
+    font-size: 12px;
+  }
+
+  .data-table .col-no {
+    width: 36px;
+    min-width: 36px;
+  }
+
+  .data-table .col-channel,
+  .data-table .col-conversation {
+    padding: 12px 8px;
+  }
+
+  .data-table .col-channel {
+    width: 40px;
+    min-width: 40px;
+  }
+
+  .data-table .col-conversation {
+    width: 140px;
+    min-width: 140px;
+  }
+
+  .data-table .col-invoice {
+    width: 90px;
+    min-width: 90px;
+  }
+
+  .data-table .col-customer {
+    width: 200px;
+    min-width: 200px;
+    max-width: 200px;
+  }
+
+  .data-table .col-lang {
+    width: 52px;
+    min-width: 52px;
+  }
+
+  .data-table .col-input-token,
+  .data-table .col-output-token,
+  .data-table .col-total-token,
+  .data-table .col-date {
+    width: 92px;
+    min-width: 92px;
+  }
+
+  .data-table .col-time {
+    width: 56px;
+    min-width: 56px;
+  }
+
+  .data-table .col-status {
+    width: 100px;
+    min-width: 100px;
+  }
+
+  .data-table .col-action {
+    width: 40px;
+    min-width: 40px;
+  }
+
+  .status-badge {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
 }
