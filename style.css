@@ -323,9 +323,10 @@ input {
   display: flex;
   align-items: center;
   gap: 8px;
-  width: 315px;
+  flex: 0 1 351px;
+  min-width: 200px;
   height: 44px;
-  padding: 0 16px;
+  padding: 0 12px 0 16px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--white);
@@ -334,10 +335,12 @@ input {
 
 .search-box input {
   width: 100%;
+  min-width: 0;
   border: none;
   outline: none;
   background: transparent;
   font-size: 13px;
+  text-overflow: ellipsis;
   color: var(--text);
 }
 
