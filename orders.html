@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <link rel="icon" type="image/png" href="images/logo.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Orders - Dasoon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <aside class="sidebar">
+        <div class="logo">
+          <img src="images/logo.png" alt="Dasoon" width="206" height="72" />
+        </div>
+
+        <nav class="app-sidebar-menu">
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Document Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/file-up.svg" alt="" class="menu-icon" />Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/questionnaire-tablet.svg" alt="" class="menu-icon" />Batch Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/tablet-delete.svg" alt="" class="menu-icon" />Error Logs
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/Frame.svg" alt="" class="menu-icon" />Items
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/wallet.svg" alt="" class="menu-icon" />Accounts
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Conversation Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="index.html" class="menu-item">
+              <img src="images/whatsapp.svg" alt="" class="menu-icon" />Conversations
+            </a>
+            <a href="orders.html" class="menu-item active">
+              <img src="images/handcart.svg" alt="" class="menu-icon" />Orders
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/message-question.svg" alt="" class="menu-icon" />Exceptions
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>ERP Data</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/users.svg" alt="" class="menu-icon" />Customers
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/cheque.svg" alt="" class="menu-icon" />Invoices
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/lots-shopping.svg" alt="" class="menu-icon" />Items
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>System Settings</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/user.svg" alt="" class="menu-icon" />Users
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/setting-2.svg" alt="" class="menu-icon" />Settings
+            </a>
+          </div>
+        </nav>
+
+        <div class="footer-sidebar">
+          <div class="admin">
+            <span class="avatar">AD</span>
+            <div class="admin-info">
+              <span class="admin-name">Admin</span>
+              <span class="admin-role">Administrator</span>
+            </div>
+          </div>
+          <a href="#" class="menu-item logout"><span class="icon"></span>Log Out</a>
+        </div>
+      </aside>
+
+      <main class="container">
+        <header class="topbar">
+          <button class="toggle" type="button" aria-label="Toggle sidebar">
+            <img src="images/icon-toggle.svg" alt="Toggle Menu" class="toggle-icon" />
+          </button>
+            <h1>Orders</h1>
+        </header>
+
+        <section class="content">
+          <div class="orders-layout">
+            <aside class="orders-side">
+              <div class="panel">ORDER OVERVIEW</div>
+              <div class="panel">AI PERFORMANCE</div>
+            </aside>
+
+            <div class="card orders-main">Bảng Orders ở đây</div>
+          </div>
+        </section>
+
+        <footer class="page-footer">2024 © Dasoon</footer>
+      </main>
+    </div>
+  </body>
+</html>
