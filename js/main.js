@@ -24,7 +24,7 @@ const REQUIRED_FIELDS = [
   "customerInfo.lastName",
   "customerInfo.phone",
   "lang",
-  "inputToken",
+  "inputTokens",
   "outputTokens",
   "totalTokens",
   "date",
@@ -130,7 +130,7 @@ function renderRow(record, index) {
       <td class="col-lang">
         <div class="lang-badge">${text(record.lang)}</div>
       </td>
-      <td class="col-input-token">${formatNumber(record.inputToken)}</td>
+      <td class="col-input-token">${formatNumber(record.inputTokens)}</td>
       <td class="col-output-token">${formatNumber(record.outputTokens)}</td>
       <td class="col-total-token">${formatNumber(record.totalTokens)}</td>
       <td class="col-date">${formatDate(record.date)}</td>
