@@ -120,11 +120,156 @@
         <section class="content">
           <div class="orders-layout">
             <aside class="orders-side">
-              <div class="panel">ORDER OVERVIEW</div>
-              <div class="panel">AI PERFORMANCE</div>
+              
+              <div class="panel">
+                <div class="panel-header">
+                  <div class="panel-title">
+                    <span class="title-icon">🛒</span>
+                    <span>ORDER OVERVIEW</span>
+                  </div>
+                  <button class="date-filter">Date Range ▾</button>
+                </div>
+
+                <div class="kpi-row">
+                  <div class="kpi-box">
+                    <div class="kpi-value">1,456</div>
+                    <div class="kpi-label">Total Orders</div>
+                  </div>
+                  <div class="kpi-box">
+                    <div class="kpi-value">456</div>
+                    <div class="kpi-label">Needs Review &gt;</div>
+                  </div>
+                </div>
+
+                <div class="date-range-badge">1 Sep, 2024 to 01 Sep, 2026</div>
+
+                <ul class="status-list">
+                  <li>
+                    <span class="status-name"><i class="dot green"></i>Completed</span>
+                    <span class="badge green">892</span>
+                  </li>
+                  <li>
+                    <span class="status-name"><i class="dot yellow"></i>Pending</span>
+                    <span class="badge yellow">328</span>
+                  </li>
+                  <li>
+                    <span class="status-name"><i class="dot red"></i>Cancelled</span>
+                    <span class="badge red">156</span>
+                  </li>
+                  <li>
+                    <span class="status-name"><i class="dot gray"></i>Refunded</span>
+                    <span class="badge gray">80</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header">
+                  <div class="panel-title">
+                    <span class="title-icon">✨</span>
+                    <span>AI PERFORMANCE</span>
+                  </div>
+                  <button class="date-filter">Date Range ▾</button>
+                </div>
+
+                <div class="date-range-badge">1 Sep, 2024 to 01 Sep, 2026</div>
+
+                <div class="progress-section">
+                  <div class="progress-labels">
+                    <span class="text-green">AI Distribution (78%)</span>
+                    <span class="text-gray">Human (22%)</span>
+                  </div>
+                  <div class="progress-bar">
+                    <div class="progress-fill" style="width: 78%;"></div>
+                  </div>
+                </div>
+
+                <div class="ai-grid">
+                  <div class="ai-stat-box">
+                    <div class="stat-val">1,028</div>
+                    <div class="stat-lbl">Total AI Orders</div>
+                  </div>
+                  <div class="ai-stat-box">
+                    <div class="stat-val">0.92s</div>
+                    <div class="stat-lbl">Avg. Response Time</div>
+                  </div>
+                  <div class="ai-stat-box">
+                    <div class="stat-val">97.3%</div>
+                    <div class="stat-lbl">AI Accuracy Rate</div>
+                  </div>
+                  <div class="ai-stat-box">
+                    <div class="stat-val">78 / 22%</div>
+                    <div class="stat-lbl">AI vs Human Ratio</div>
+                  </div>
+                </div>
+              </div>
+
             </aside>
 
-            <div class="card orders-main">Bảng Orders ở đây</div>
+            <div class="card orders-main">
+              <div class="table-toolbar">
+                <div class="search-box">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#9CA3AF" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+                  <input type="text" placeholder="Search with order id" />
+                </div>
+              </div>
+
+              <div class="table-wrapper">
+                <table class="orders-table">
+                  <thead>
+                    <tr>
+                      <th width="60">No</th>
+                      <th>Order ID</th>
+                      <th>Customer</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>1</td>
+                      <td class="order-id">ORD-2025-000123</td>
+                      <td>
+                        <div class="customer-cell">
+                          <img src="https://i.pravatar.cc/40?img=1" alt="Avatar" class="cust-avatar" />
+                          <div class="cust-info">
+                            <div class="cust-name">Miss Nadine Lesch</div>
+                            <div class="cust-phone">708-308-7184</div>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>2</td>
+                      <td class="order-id">ORD-2025-000123</td>
+                      <td>
+                        <div class="customer-cell">
+                          <img src="https://i.pravatar.cc/40?img=2" alt="Avatar" class="cust-avatar" />
+                          <div class="cust-info">
+                            <div class="cust-name">Nicole Mraz DDS</div>
+                            <div class="cust-phone">317-722-2735</div>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>3</td>
+                      <td class="order-id">ORD-2025-000123</td>
+                      <td>
+                        <div class="customer-cell">
+                          <img src="https://i.pravatar.cc/40?img=3" alt="Avatar" class="cust-avatar" />
+                          <div class="cust-info">
+                            <div class="cust-name">Heidi Bergnaum</div>
+                            <div class="cust-phone">708-758-2588</div>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
           </div>
         </section>
 
