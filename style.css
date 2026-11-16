@@ -903,6 +903,59 @@ input {
   }
 }
 
+/* Sidebar collapsed */
+.sidebar.collapsed {
+  width: 0;
+  overflow: hidden;
+  border-right: none;
+  padding: 0;
+}
+
+.sidebar.collapsed ~ .container {
+  flex: 1;
+}
+
+/* Menu group collapsed */
+.menu-group.collapsed .menu-item {
+  display: none;
+}
+
+.menu-group.collapsed .menu-title svg {
+  transform: rotate(-90deg);
+}
+
+.menu-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.2s ease;
+}
+
+.menu-title svg {
+  transition: transform 0.2s ease;
+}
+
+/* Filter dropdown active */
+.filter-box:hover {
+  border-color: #d4d4d8;
+  background: #fafafa;
+}
+
+.filter-box:active {
+  background: #f3f4f6;
+}
+
+/* Disabled page button */
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-btn:disabled:hover {
+  background: transparent;
+  color: #9ca3af;
+}
+
 @media (max-height: 900px) {
   .app-sidebar-menu {
     gap: 6px;
