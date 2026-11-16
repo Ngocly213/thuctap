@@ -17,7 +17,7 @@ const STATUS_CLASSES = {
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-/* ───── Global state ───── */
+
 let allRecords = [];
 let filteredRecords = [];
 let currentPage = 1;
@@ -26,14 +26,14 @@ let activeChannelFilter = "All";
 let activeStatusFilter = "All";
 let searchQuery = "";
 
-/* ───── DOM refs ───── */
+
 const tableBody = document.getElementById("table-body");
 const paginationText = document.querySelector(".pagination-text");
 const paginationPages = document.querySelector(".pagination-pages");
 const dropdownBtn = document.querySelector(".pagination-dropdown");
 const searchInput = document.getElementById("search-input");
 
-/* ───── Helpers ───── */
+
 function isEmpty(value) {
   return value === undefined || value === null || value === "";
 }
@@ -68,7 +68,7 @@ function formatTime(value) {
   return match ? `${match[1]}:${match[2]}` : "-";
 }
 
-/* ───── Render a single table row ───── */
+
 function renderRow(record, globalIndex) {
   const customer = record.customerInfo || {};
   const fullName = [customer.firstName, customer.lastName].filter((p) => !isEmpty(p)).join(" ");
@@ -127,14 +127,14 @@ function renderRow(record, globalIndex) {
     </tr>`;
 }
 
-/* ───── Apply filters ───── */
+
 function applyFilters() {
   filteredRecords = allRecords.filter((record) => {
-    // Channel filter
+
     if (activeChannelFilter !== "All" && record.channel !== activeChannelFilter) return false;
-    // Status filter
+
     if (activeStatusFilter !== "All" && record.status !== activeStatusFilter) return false;
-    // Search filter
+
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       const customer = record.customerInfo || {};
@@ -158,7 +158,7 @@ function applyFilters() {
   renderCurrentPage();
 }
 
-/* ───── Render current page from filteredRecords ───── */
+
 function renderCurrentPage() {
   if (!tableBody) return;
   const totalRecords = filteredRecords.length;
@@ -179,7 +179,7 @@ function renderCurrentPage() {
       .join("");
   }
 
-  // Update pagination text
+
   if (paginationText) {
     if (totalRecords === 0) {
       paginationText.textContent = "Showing 0 of 0 records";
@@ -188,20 +188,20 @@ function renderCurrentPage() {
     }
   }
 
-  // Update dropdown display
+
   if (dropdownBtn) {
     const spanNum = dropdownBtn.querySelector("span");
     if (spanNum) spanNum.textContent = rowsPerPage;
   }
 
-  // Render pagination buttons
+
   renderPaginationButtons(totalPages);
 
-  // Update metrics
+
   updateMetrics();
 }
 
-/* ───── Pagination buttons ───── */
+
 function renderPaginationButtons(totalPages) {
   if (!paginationPages) return;
 
@@ -239,7 +239,7 @@ function renderPaginationButtons(totalPages) {
   paginationPages.innerHTML = html;
 }
 
-/* ───── Update metric cards ───── */
+
 function updateMetrics() {
   const metricValues = document.querySelectorAll(".metric-value");
   if (metricValues.length < 4) return;
@@ -254,7 +254,7 @@ function updateMetrics() {
   metricValues[3].textContent = totalTokens.toLocaleString("en-US");
 }
 
-/* ───── Dropdown (rows per page) ───── */
+
 function initDropdown() {
   if (!dropdownBtn) return;
 
@@ -325,17 +325,17 @@ function initDropdown() {
   });
 }
 
-/* ───── Filter dropdowns (Channel, Status) ───── */
+
 function initFilterDropdowns() {
   const filterActions = document.querySelector(".filter-actions");
   if (!filterActions) return;
   const filterBoxes = filterActions.querySelectorAll(".filter-box");
   if (filterBoxes.length < 3) return;
 
-  const channelBox = filterBoxes[1]; // Channel: All
-  const statusBox = filterBoxes[2]; // Status: All
+  const channelBox = filterBoxes[1];
+  const statusBox = filterBoxes[2];
 
-  // Get unique channels and statuses
+
   function getUniqueValues(key) {
     const values = new Set();
     allRecords.forEach((r) => {
@@ -345,7 +345,7 @@ function initFilterDropdowns() {
   }
 
   function createFilterDropdown(triggerEl, key, currentValue, onSelect) {
-    // Remove existing dropdown if any
+
     const existing = triggerEl._filterDropdown;
     if (existing && existing.parentNode) {
       existing.parentNode.removeChild(existing);
@@ -402,7 +402,7 @@ function initFilterDropdowns() {
     document.body.appendChild(menu);
     triggerEl._filterDropdown = menu;
 
-    // Close on outside click
+
     function closeHandler(e) {
       if (!menu.contains(e.target) && !triggerEl.contains(e.target)) {
         if (menu.parentNode) menu.parentNode.removeChild(menu);
@@ -438,7 +438,7 @@ function initFilterDropdowns() {
   }
 }
 
-/* ───── Search ───── */
+
 function initSearch() {
   if (!searchInput) return;
   let debounceTimer;
@@ -451,7 +451,7 @@ function initSearch() {
   });
 }
 
-/* ───── Pagination click handler ───── */
+
 function initPaginationClicks() {
   if (!paginationPages) return;
   paginationPages.addEventListener("click", (e) => {
@@ -477,9 +477,9 @@ function initPaginationClicks() {
   });
 }
 
-/* ───── Sidebar toggle & active state ───── */
+
 function initSidebar() {
-  // Toggle sidebar collapse
+
   const toggleBtn = document.querySelector(".toggle");
   const sidebar = document.querySelector(".sidebar");
   if (toggleBtn && sidebar) {
@@ -488,7 +488,7 @@ function initSidebar() {
     });
   }
 
-  // Menu group collapse/expand
+
   const menuTitles = document.querySelectorAll(".menu-title");
   menuTitles.forEach((title) => {
     title.style.cursor = "pointer";
@@ -501,18 +501,18 @@ function initSidebar() {
   });
 }
 
-/* ───── Today button ───── */
+
 function initTodayButton() {
   const todayBtn = document.querySelector(".today-btn");
   if (!todayBtn) return;
   todayBtn.addEventListener("click", () => {
-    // Reset all filters
+
     activeChannelFilter = "All";
     activeStatusFilter = "All";
     searchQuery = "";
     if (searchInput) searchInput.value = "";
 
-    // Update filter labels
+
     const filterActions = document.querySelector(".filter-actions");
     if (filterActions) {
       const filterBoxes = filterActions.querySelectorAll(".filter-box");
@@ -528,7 +528,7 @@ function initTodayButton() {
   });
 }
 
-/* ───── Load data & init ───── */
+
 async function loadData() {
   if (!tableBody) return;
   try {
