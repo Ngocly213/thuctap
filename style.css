@@ -1359,3 +1359,360 @@ input {
     height: 600px;
   }
 }
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.filter-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.dropdown-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #ffffff;
+  color: #3f3f46;
+  border: 1px solid #e4e4e7;
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.filter-btn:hover {
+  background-color: #f8fafc;
+  border-color: #d4d4d8;
+}
+
+.filter-btn svg {
+  color: #71717a;
+  flex-shrink: 0;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  min-width: 150px;
+  background-color: #ffffff;
+  border: 1px solid #e4e4e7;
+  border-radius: 8px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+  padding: 4px;
+  z-index: 100;
+  display: none;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+.dropdown-item {
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  background: transparent;
+  border: none;
+  font-size: 13px;
+  font-family: inherit;
+  color: #27272a;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.dropdown-item:hover {
+  background-color: #f4f4f5;
+}
+
+.dropdown-item.active {
+  font-weight: 600;
+  color: #10b981;
+  background-color: #ecfdf5;
+}
+
+.today-btn,
+.resync-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background-color: #18181b;
+  color: #ffffff;
+  border: none;
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.today-btn:hover,
+.resync-btn:hover {
+  background-color: #27272a;
+}
+
+@keyframes spin-sync-anim {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.resync-btn.is-syncing {
+  opacity: 0.8;
+  pointer-events: none;
+}
+
+.resync-btn.is-syncing .sync-icon {
+  animation: spin-sync-anim 0.7s linear infinite;
+}
+
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 13px;
+}
+
+.data-table th {
+  padding: 14px 16px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #71717a;
+  border-bottom: 1px solid #f4f4f5;
+  white-space: nowrap;
+}
+
+.data-table td {
+  padding: 14px 16px;
+  border-bottom: 1px solid #f4f4f5;
+  vertical-align: middle;
+  color: #18181b;
+}
+
+.data-table tbody tr:hover {
+  background-color: #fafafa;
+}
+
+.col-no { width: 50px; text-align: left; color: #71717a; }
+.col-invoice { width: 140px; font-weight: 500; }
+.col-customer { min-width: 240px; width: 260px; }
+.col-amount { width: 130px; font-weight: 500; }
+.col-created { width: 130px; color: #71717a; }
+.col-due { width: 130px; color: #71717a; }
+.col-payment-status { width: 130px; }
+.col-action { width: 50px; text-align: center; }
+
+.customer-info-cell {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;
+}
+
+.customer-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid #f4f4f5;
+  background-color: #f4f4f5;
+}
+
+.customer-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+  line-height: 1.25;
+}
+
+.customer-name {
+  font-weight: 600;
+  color: #18181b;
+  font-size: 13px;
+}
+
+.customer-sub-line {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.customer-phone {
+  font-size: 11px;
+  color: #71717a;
+}
+
+.customer-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 1px 6px;
+  border-radius: 4px;
+  line-height: 1.2;
+}
+
+.customer-tag-existing {
+  background-color: #ecfdf5;
+  color: #10b981;
+}
+
+.customer-tag-new {
+  background-color: #eff6ff;
+  color: #3b82f6;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px 12px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.badge-paid {
+  background-color: #ecfdf5;
+  color: #059669;
+  border: 1px solid #d1fae5;
+}
+
+.badge-pending {
+  background-color: #fffbeb;
+  color: #d97706;
+  border: 1px solid #fef3c7;
+}
+
+.badge-cancelled {
+  background-color: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fee2e2;
+}
+
+.action-btn {
+  background: transparent;
+  border: none;
+  color: #a1a1aa;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.action-btn:hover {
+  color: #18181b;
+  background-color: #f4f4f5;
+}
+
+.pagination-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-top: 1px solid #f4f4f5;
+  font-size: 12px;
+}
+
+.pagination-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.pagination-dropdown {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 8px;
+  border: 1px solid #e4e4e7;
+  border-radius: 6px;
+  background-color: #ffffff;
+  color: #52525b;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.pagination-text {
+  color: #71717a;
+  font-size: 12px;
+}
+
+.pagination-pages {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.page-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: #71717a;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+
+.page-btn:hover:not(.active) {
+  background-color: #f4f4f5;
+  color: #18181b;
+}
+
+.page-btn.active {
+  background-color: #18181b;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.page-arrow {
+  color: #a1a1aa;
+}
+
+.page-size-menu {
+  bottom: calc(100% + 4px) !important;
+  top: auto !important;
+  min-width: 65px !important;
+}
+.page-btn[disabled] {
+  cursor: not-allowed !important;
+}

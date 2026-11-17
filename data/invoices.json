@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "invoiceNo": "INV24-000201",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
+      "type": "Existing"
+    },
+    "totalAmount": "$1,082.01",
+    "createdAt": "01 Jan, 2026",
+    "dueDate": "15 Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 2,
+    "invoiceNo": "INV24-000202",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=100&h=100&fit=crop&crop=face",
+      "type": "New"
+    },
+    "totalAmount": "$2,450.00",
+    "createdAt": "02 Jan, 2026",
+    "dueDate": "16 Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 3,
+    "invoiceNo": "INV24-000203",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=face",
+      "type": "Existing"
+    },
+    "totalAmount": "$890.50",
+    "createdAt": "03 Jan, 2026",
+    "dueDate": "17 Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 4,
+    "invoiceNo": "INV24-000204",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+      "type": "New"
+    },
+    "totalAmount": "$3,200.00",
+    "createdAt": "04 Jan, 2026",
+    "dueDate": "18 Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 5,
+    "invoiceNo": "INV24-000205",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face",
+      "type": "Existing"
+    },
+    "totalAmount": "$450.00",
+    "createdAt": "05 Jan, 2026",
+    "dueDate": "19 Jan, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 6,
+    "invoiceNo": "INV24-000206",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=face",
+      "type": "New"
+    },
+    "totalAmount": "$1,780.20",
+    "createdAt": "06 Jan, 2026",
+    "dueDate": "20 Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 7,
+    "invoiceNo": "INV24-000207",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
+      "type": "Existing"
+    },
+    "totalAmount": "$1,082.01",
+    "createdAt": "07 Jan, 2026",
+    "dueDate": "21 Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 8,
+    "invoiceNo": "INV24-000208",
+    "customer": {
+      "name": "Minh Tran",
+      "phone": "+84912345678",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+      "type": "New"
+    },
+    "totalAmount": "$620.00",
+    "createdAt": "08 Jan, 2026",
+    "dueDate": "22 Jan, 2026",
+    "paymentStatus": "Paid"
+  }
+]
