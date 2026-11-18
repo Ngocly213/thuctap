@@ -1,114 +1,1562 @@
 [
   {
     "id": 1,
-    "invoiceNo": "INV24-000201",
+    "invoiceNo": "INV26-000201",
     "customer": {
-      "name": "Anh Hoang",
-      "phone": "+84379854501",
-      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
-      "type": "Existing"
+      "name": "Miss Nadine Lesch",
+      "phone": "708-308-7184",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$1,082.01",
-    "createdAt": "01 Jan, 2026",
-    "dueDate": "15 Jan, 2026",
+    "totalAmount": "$1,099.01",
+    "createdAt": "04, Feb, 2026",
+    "dueDate": "19, Feb, 2026",
     "paymentStatus": "Paid"
   },
   {
     "id": 2,
-    "invoiceNo": "INV24-000202",
+    "invoiceNo": "INV26-000202",
     "customer": {
-      "name": "Tuan Truong",
-      "phone": "+84376987237",
-      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=100&h=100&fit=crop&crop=face",
-      "type": "New"
+      "name": "Nicole Mraz DDS",
+      "phone": "317-722-2735",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$2,450.00",
-    "createdAt": "02 Jan, 2026",
-    "dueDate": "16 Jan, 2026",
-    "paymentStatus": "Pending"
+    "totalAmount": "$2,484.00",
+    "createdAt": "07, Mar, 2026",
+    "dueDate": "22, Mar, 2026",
+    "paymentStatus": "Paid"
   },
   {
     "id": 3,
-    "invoiceNo": "INV24-000203",
+    "invoiceNo": "INV26-000203",
     "customer": {
-      "name": "Anh Dang",
-      "phone": "+84966273503",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=face",
-      "type": "Existing"
+      "name": "Heidi Bergnaum",
+      "phone": "708-758-2588",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$890.50",
-    "createdAt": "03 Jan, 2026",
-    "dueDate": "17 Jan, 2026",
+    "totalAmount": "$891.50",
+    "createdAt": "10, Apr, 2026",
+    "dueDate": "25, Apr, 2026",
     "paymentStatus": "Pending"
   },
   {
     "id": 4,
-    "invoiceNo": "INV24-000204",
+    "invoiceNo": "INV26-000204",
     "customer": {
-      "name": "Huy Ly",
-      "phone": "+84938765787",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
-      "type": "New"
+      "name": "Craig Crist DDS",
+      "phone": "317-758-2588",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$3,200.00",
-    "createdAt": "04 Jan, 2026",
-    "dueDate": "18 Jan, 2026",
+    "totalAmount": "$3,218.00",
+    "createdAt": "13, May, 2026",
+    "dueDate": "28, May, 2026",
     "paymentStatus": "Paid"
   },
   {
     "id": 5,
-    "invoiceNo": "INV24-000205",
+    "invoiceNo": "INV26-000205",
     "customer": {
-      "name": "Hoa Do",
-      "phone": "+84965489675",
-      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face",
-      "type": "Existing"
+      "name": "Michael Aufderhar",
+      "phone": "205-704-2088",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$450.00",
-    "createdAt": "05 Jan, 2026",
-    "dueDate": "19 Jan, 2026",
+    "totalAmount": "$485.00",
+    "createdAt": "16, Jun, 2026",
+    "dueDate": "03, Jun, 2026",
     "paymentStatus": "Cancelled"
   },
   {
     "id": 6,
-    "invoiceNo": "INV24-000206",
+    "invoiceNo": "INV26-000206",
     "customer": {
-      "name": "Khanh Ly",
-      "phone": "+84706765515",
-      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=face",
-      "type": "New"
+      "name": "Cristina Jerde DDS",
+      "phone": "224-451-5417",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$1,780.20",
-    "createdAt": "06 Jan, 2026",
-    "dueDate": "20 Jan, 2026",
+    "totalAmount": "$1,782.20",
+    "createdAt": "19, Jul, 2026",
+    "dueDate": "06, Jul, 2026",
     "paymentStatus": "Paid"
   },
   {
     "id": 7,
-    "invoiceNo": "INV24-000207",
+    "invoiceNo": "INV26-000207",
     "customer": {
-      "name": "Bao Ly",
-      "phone": "+84888250599",
-      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
-      "type": "Existing"
+      "name": "Ms. Sidney Morar",
+      "phone": "504-208-4438",
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$1,082.01",
-    "createdAt": "07 Jan, 2026",
-    "dueDate": "21 Jan, 2026",
+    "totalAmount": "$639.00",
+    "createdAt": "22, Aug, 2026",
+    "dueDate": "09, Aug, 2026",
     "paymentStatus": "Pending"
   },
   {
     "id": 8,
-    "invoiceNo": "INV24-000208",
+    "invoiceNo": "INV26-000208",
+    "customer": {
+      "name": "Dr. Lee Ferry",
+      "phone": "215-474-5054",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,286.75",
+    "createdAt": "25, Sep, 2026",
+    "dueDate": "12, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 9,
+    "invoiceNo": "INV26-000209",
+    "customer": {
+      "name": "Amos Johnston",
+      "phone": "415-208-0023",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$943.25",
+    "createdAt": "28, Oct, 2026",
+    "dueDate": "15, Oct, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 10,
+    "invoiceNo": "INV26-000210",
+    "customer": {
+      "name": "Deffre Doyle",
+      "phone": "208-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,120.00",
+    "createdAt": "03, Nov, 2026",
+    "dueDate": "18, Nov, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 11,
+    "invoiceNo": "INV26-000211",
+    "customer": {
+      "name": "Mrs. Vicki Ritchie",
+      "phone": "817-245-8144",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$382.50",
+    "createdAt": "06, Dec, 2026",
+    "dueDate": "21, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 12,
+    "invoiceNo": "INV26-000212",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,894.00",
+    "createdAt": "09, Jan, 2026",
+    "dueDate": "24, Jan, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 13,
+    "invoiceNo": "INV26-000213",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,103.01",
+    "createdAt": "12, Feb, 2026",
+    "dueDate": "27, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 14,
+    "invoiceNo": "INV26-000214",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,488.00",
+    "createdAt": "15, Mar, 2026",
+    "dueDate": "02, Mar, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 15,
+    "invoiceNo": "INV26-000215",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$895.50",
+    "createdAt": "18, Apr, 2026",
+    "dueDate": "05, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 16,
+    "invoiceNo": "INV26-000216",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,222.00",
+    "createdAt": "21, May, 2026",
+    "dueDate": "08, May, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 17,
+    "invoiceNo": "INV26-000217",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$489.00",
+    "createdAt": "24, Jun, 2026",
+    "dueDate": "11, Jun, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 18,
+    "invoiceNo": "INV26-000218",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,786.20",
+    "createdAt": "27, Jul, 2026",
+    "dueDate": "14, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 19,
+    "invoiceNo": "INV26-000219",
     "customer": {
       "name": "Minh Tran",
       "phone": "+84912345678",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
-      "type": "New"
+      "avatar": "images/avatar.svg"
     },
-    "totalAmount": "$620.00",
-    "createdAt": "08 Jan, 2026",
-    "dueDate": "22 Jan, 2026",
+    "totalAmount": "$643.00",
+    "createdAt": "02, Aug, 2026",
+    "dueDate": "17, Aug, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 20,
+    "invoiceNo": "INV26-000220",
+    "customer": {
+      "name": "Lan Nguyen",
+      "phone": "+84903123456",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,290.75",
+    "createdAt": "05, Sep, 2026",
+    "dueDate": "20, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 21,
+    "invoiceNo": "INV26-000221",
+    "customer": {
+      "name": "Quang Le",
+      "phone": "+84988776655",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$947.25",
+    "createdAt": "08, Oct, 2026",
+    "dueDate": "23, Oct, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 22,
+    "invoiceNo": "INV26-000222",
+    "customer": {
+      "name": "Phuong Vu",
+      "phone": "+84977665544",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,124.00",
+    "createdAt": "11, Nov, 2026",
+    "dueDate": "26, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 23,
+    "invoiceNo": "INV26-000223",
+    "customer": {
+      "name": "Thanh Pham",
+      "phone": "+84911223344",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$386.50",
+    "createdAt": "14, Dec, 2026",
+    "dueDate": "01, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 24,
+    "invoiceNo": "INV26-000224",
+    "customer": {
+      "name": "Dung Bui",
+      "phone": "+84933445566",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,898.00",
+    "createdAt": "17, Jan, 2026",
+    "dueDate": "04, Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 25,
+    "invoiceNo": "INV26-000225",
+    "customer": {
+      "name": "Miss Nadine Lesch",
+      "phone": "708-308-7184",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,107.01",
+    "createdAt": "20, Feb, 2026",
+    "dueDate": "07, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 26,
+    "invoiceNo": "INV26-000226",
+    "customer": {
+      "name": "Nicole Mraz DDS",
+      "phone": "317-722-2735",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,492.00",
+    "createdAt": "23, Mar, 2026",
+    "dueDate": "10, Mar, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 27,
+    "invoiceNo": "INV26-000227",
+    "customer": {
+      "name": "Heidi Bergnaum",
+      "phone": "708-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$899.50",
+    "createdAt": "26, Apr, 2026",
+    "dueDate": "13, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 28,
+    "invoiceNo": "INV26-000228",
+    "customer": {
+      "name": "Craig Crist DDS",
+      "phone": "317-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,226.00",
+    "createdAt": "01, May, 2026",
+    "dueDate": "16, May, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 29,
+    "invoiceNo": "INV26-000229",
+    "customer": {
+      "name": "Michael Aufderhar",
+      "phone": "205-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$493.00",
+    "createdAt": "04, Jun, 2026",
+    "dueDate": "19, Jun, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 30,
+    "invoiceNo": "INV26-000230",
+    "customer": {
+      "name": "Cristina Jerde DDS",
+      "phone": "224-451-5417",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,790.20",
+    "createdAt": "07, Jul, 2026",
+    "dueDate": "22, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 31,
+    "invoiceNo": "INV26-000231",
+    "customer": {
+      "name": "Ms. Sidney Morar",
+      "phone": "504-208-4438",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$647.00",
+    "createdAt": "10, Aug, 2026",
+    "dueDate": "25, Aug, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 32,
+    "invoiceNo": "INV26-000232",
+    "customer": {
+      "name": "Dr. Lee Ferry",
+      "phone": "215-474-5054",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,294.75",
+    "createdAt": "13, Sep, 2026",
+    "dueDate": "28, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 33,
+    "invoiceNo": "INV26-000233",
+    "customer": {
+      "name": "Amos Johnston",
+      "phone": "415-208-0023",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$951.25",
+    "createdAt": "16, Oct, 2026",
+    "dueDate": "03, Oct, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 34,
+    "invoiceNo": "INV26-000234",
+    "customer": {
+      "name": "Deffre Doyle",
+      "phone": "208-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,128.00",
+    "createdAt": "19, Nov, 2026",
+    "dueDate": "06, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 35,
+    "invoiceNo": "INV26-000235",
+    "customer": {
+      "name": "Mrs. Vicki Ritchie",
+      "phone": "817-245-8144",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$390.50",
+    "createdAt": "22, Dec, 2026",
+    "dueDate": "09, Dec, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 36,
+    "invoiceNo": "INV26-000236",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,902.00",
+    "createdAt": "25, Jan, 2026",
+    "dueDate": "12, Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 37,
+    "invoiceNo": "INV26-000237",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,111.01",
+    "createdAt": "28, Feb, 2026",
+    "dueDate": "15, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 38,
+    "invoiceNo": "INV26-000238",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,496.00",
+    "createdAt": "03, Mar, 2026",
+    "dueDate": "18, Mar, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 39,
+    "invoiceNo": "INV26-000239",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$903.50",
+    "createdAt": "06, Apr, 2026",
+    "dueDate": "21, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 40,
+    "invoiceNo": "INV26-000240",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,230.00",
+    "createdAt": "09, May, 2026",
+    "dueDate": "24, May, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 41,
+    "invoiceNo": "INV26-000241",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$497.00",
+    "createdAt": "12, Jun, 2026",
+    "dueDate": "27, Jun, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 42,
+    "invoiceNo": "INV26-000242",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,794.20",
+    "createdAt": "15, Jul, 2026",
+    "dueDate": "02, Jul, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 43,
+    "invoiceNo": "INV26-000243",
+    "customer": {
+      "name": "Minh Tran",
+      "phone": "+84912345678",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$651.00",
+    "createdAt": "18, Aug, 2026",
+    "dueDate": "05, Aug, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 44,
+    "invoiceNo": "INV26-000244",
+    "customer": {
+      "name": "Lan Nguyen",
+      "phone": "+84903123456",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,298.75",
+    "createdAt": "21, Sep, 2026",
+    "dueDate": "08, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 45,
+    "invoiceNo": "INV26-000245",
+    "customer": {
+      "name": "Quang Le",
+      "phone": "+84988776655",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$955.25",
+    "createdAt": "24, Oct, 2026",
+    "dueDate": "11, Oct, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 46,
+    "invoiceNo": "INV26-000246",
+    "customer": {
+      "name": "Phuong Vu",
+      "phone": "+84977665544",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,132.00",
+    "createdAt": "27, Nov, 2026",
+    "dueDate": "14, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 47,
+    "invoiceNo": "INV26-000247",
+    "customer": {
+      "name": "Thanh Pham",
+      "phone": "+84911223344",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$394.50",
+    "createdAt": "02, Dec, 2026",
+    "dueDate": "17, Dec, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 48,
+    "invoiceNo": "INV26-000248",
+    "customer": {
+      "name": "Dung Bui",
+      "phone": "+84933445566",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,906.00",
+    "createdAt": "05, Jan, 2026",
+    "dueDate": "20, Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 49,
+    "invoiceNo": "INV26-000249",
+    "customer": {
+      "name": "Miss Nadine Lesch",
+      "phone": "708-308-7184",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,115.01",
+    "createdAt": "08, Feb, 2026",
+    "dueDate": "23, Feb, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 50,
+    "invoiceNo": "INV26-000250",
+    "customer": {
+      "name": "Nicole Mraz DDS",
+      "phone": "317-722-2735",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,450.00",
+    "createdAt": "11, Mar, 2026",
+    "dueDate": "26, Mar, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 51,
+    "invoiceNo": "INV26-000251",
+    "customer": {
+      "name": "Heidi Bergnaum",
+      "phone": "708-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$907.50",
+    "createdAt": "14, Apr, 2026",
+    "dueDate": "01, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 52,
+    "invoiceNo": "INV26-000252",
+    "customer": {
+      "name": "Craig Crist DDS",
+      "phone": "317-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,234.00",
+    "createdAt": "17, May, 2026",
+    "dueDate": "04, May, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 53,
+    "invoiceNo": "INV26-000253",
+    "customer": {
+      "name": "Michael Aufderhar",
+      "phone": "205-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$451.00",
+    "createdAt": "20, Jun, 2026",
+    "dueDate": "07, Jun, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 54,
+    "invoiceNo": "INV26-000254",
+    "customer": {
+      "name": "Cristina Jerde DDS",
+      "phone": "224-451-5417",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,798.20",
+    "createdAt": "23, Jul, 2026",
+    "dueDate": "10, Jul, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 55,
+    "invoiceNo": "INV26-000255",
+    "customer": {
+      "name": "Ms. Sidney Morar",
+      "phone": "504-208-4438",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$655.00",
+    "createdAt": "26, Aug, 2026",
+    "dueDate": "13, Aug, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 56,
+    "invoiceNo": "INV26-000256",
+    "customer": {
+      "name": "Dr. Lee Ferry",
+      "phone": "215-474-5054",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,252.75",
+    "createdAt": "01, Sep, 2026",
+    "dueDate": "16, Sep, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 57,
+    "invoiceNo": "INV26-000257",
+    "customer": {
+      "name": "Amos Johnston",
+      "phone": "415-208-0023",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$959.25",
+    "createdAt": "04, Oct, 2026",
+    "dueDate": "19, Oct, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 58,
+    "invoiceNo": "INV26-000258",
+    "customer": {
+      "name": "Deffre Doyle",
+      "phone": "208-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,136.00",
+    "createdAt": "07, Nov, 2026",
+    "dueDate": "22, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 59,
+    "invoiceNo": "INV26-000259",
+    "customer": {
+      "name": "Mrs. Vicki Ritchie",
+      "phone": "817-245-8144",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$348.50",
+    "createdAt": "10, Dec, 2026",
+    "dueDate": "25, Dec, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 60,
+    "invoiceNo": "INV26-000260",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,910.00",
+    "createdAt": "13, Jan, 2026",
+    "dueDate": "28, Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 61,
+    "invoiceNo": "INV26-000261",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,119.01",
+    "createdAt": "16, Feb, 2026",
+    "dueDate": "03, Feb, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 62,
+    "invoiceNo": "INV26-000262",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,454.00",
+    "createdAt": "19, Mar, 2026",
+    "dueDate": "06, Mar, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 63,
+    "invoiceNo": "INV26-000263",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$911.50",
+    "createdAt": "22, Apr, 2026",
+    "dueDate": "09, Apr, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 64,
+    "invoiceNo": "INV26-000264",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,238.00",
+    "createdAt": "25, May, 2026",
+    "dueDate": "12, May, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 65,
+    "invoiceNo": "INV26-000265",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$455.00",
+    "createdAt": "28, Jun, 2026",
+    "dueDate": "15, Jun, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 66,
+    "invoiceNo": "INV26-000266",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,802.20",
+    "createdAt": "03, Jul, 2026",
+    "dueDate": "18, Jul, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 67,
+    "invoiceNo": "INV26-000267",
+    "customer": {
+      "name": "Minh Tran",
+      "phone": "+84912345678",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$659.00",
+    "createdAt": "06, Aug, 2026",
+    "dueDate": "21, Aug, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 68,
+    "invoiceNo": "INV26-000268",
+    "customer": {
+      "name": "Lan Nguyen",
+      "phone": "+84903123456",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,256.75",
+    "createdAt": "09, Sep, 2026",
+    "dueDate": "24, Sep, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 69,
+    "invoiceNo": "INV26-000269",
+    "customer": {
+      "name": "Quang Le",
+      "phone": "+84988776655",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$963.25",
+    "createdAt": "12, Oct, 2026",
+    "dueDate": "27, Oct, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 70,
+    "invoiceNo": "INV26-000270",
+    "customer": {
+      "name": "Phuong Vu",
+      "phone": "+84977665544",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,140.00",
+    "createdAt": "15, Nov, 2026",
+    "dueDate": "02, Nov, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 71,
+    "invoiceNo": "INV26-000271",
+    "customer": {
+      "name": "Thanh Pham",
+      "phone": "+84911223344",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$352.50",
+    "createdAt": "18, Dec, 2026",
+    "dueDate": "05, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 72,
+    "invoiceNo": "INV26-000272",
+    "customer": {
+      "name": "Dung Bui",
+      "phone": "+84933445566",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,914.00",
+    "createdAt": "21, Jan, 2026",
+    "dueDate": "08, Jan, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 73,
+    "invoiceNo": "INV26-000273",
+    "customer": {
+      "name": "Miss Nadine Lesch",
+      "phone": "708-308-7184",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,123.01",
+    "createdAt": "24, Feb, 2026",
+    "dueDate": "11, Feb, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 74,
+    "invoiceNo": "INV26-000274",
+    "customer": {
+      "name": "Nicole Mraz DDS",
+      "phone": "317-722-2735",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,458.00",
+    "createdAt": "27, Mar, 2026",
+    "dueDate": "14, Mar, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 75,
+    "invoiceNo": "INV26-000275",
+    "customer": {
+      "name": "Heidi Bergnaum",
+      "phone": "708-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$915.50",
+    "createdAt": "02, Apr, 2026",
+    "dueDate": "17, Apr, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 76,
+    "invoiceNo": "INV26-000276",
+    "customer": {
+      "name": "Craig Crist DDS",
+      "phone": "317-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,242.00",
+    "createdAt": "05, May, 2026",
+    "dueDate": "20, May, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 77,
+    "invoiceNo": "INV26-000277",
+    "customer": {
+      "name": "Michael Aufderhar",
+      "phone": "205-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$459.00",
+    "createdAt": "08, Jun, 2026",
+    "dueDate": "23, Jun, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 78,
+    "invoiceNo": "INV26-000278",
+    "customer": {
+      "name": "Cristina Jerde DDS",
+      "phone": "224-451-5417",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,806.20",
+    "createdAt": "11, Jul, 2026",
+    "dueDate": "26, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 79,
+    "invoiceNo": "INV26-000279",
+    "customer": {
+      "name": "Ms. Sidney Morar",
+      "phone": "504-208-4438",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$663.00",
+    "createdAt": "14, Aug, 2026",
+    "dueDate": "01, Aug, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 80,
+    "invoiceNo": "INV26-000280",
+    "customer": {
+      "name": "Dr. Lee Ferry",
+      "phone": "215-474-5054",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,260.75",
+    "createdAt": "17, Sep, 2026",
+    "dueDate": "04, Sep, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 81,
+    "invoiceNo": "INV26-000281",
+    "customer": {
+      "name": "Amos Johnston",
+      "phone": "415-208-0023",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$967.25",
+    "createdAt": "20, Oct, 2026",
+    "dueDate": "07, Oct, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 82,
+    "invoiceNo": "INV26-000282",
+    "customer": {
+      "name": "Deffre Doyle",
+      "phone": "208-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,144.00",
+    "createdAt": "23, Nov, 2026",
+    "dueDate": "10, Nov, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 83,
+    "invoiceNo": "INV26-000283",
+    "customer": {
+      "name": "Mrs. Vicki Ritchie",
+      "phone": "817-245-8144",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$356.50",
+    "createdAt": "26, Dec, 2026",
+    "dueDate": "13, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 84,
+    "invoiceNo": "INV26-000284",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,918.00",
+    "createdAt": "01, Jan, 2026",
+    "dueDate": "16, Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 85,
+    "invoiceNo": "INV26-000285",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,127.01",
+    "createdAt": "04, Feb, 2026",
+    "dueDate": "19, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 86,
+    "invoiceNo": "INV26-000286",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,462.00",
+    "createdAt": "07, Mar, 2026",
+    "dueDate": "22, Mar, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 87,
+    "invoiceNo": "INV26-000287",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$919.50",
+    "createdAt": "10, Apr, 2026",
+    "dueDate": "25, Apr, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 88,
+    "invoiceNo": "INV26-000288",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,246.00",
+    "createdAt": "13, May, 2026",
+    "dueDate": "28, May, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 89,
+    "invoiceNo": "INV26-000289",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$463.00",
+    "createdAt": "16, Jun, 2026",
+    "dueDate": "03, Jun, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 90,
+    "invoiceNo": "INV26-000290",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,810.20",
+    "createdAt": "19, Jul, 2026",
+    "dueDate": "06, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 91,
+    "invoiceNo": "INV26-000291",
+    "customer": {
+      "name": "Minh Tran",
+      "phone": "+84912345678",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$667.00",
+    "createdAt": "22, Aug, 2026",
+    "dueDate": "09, Aug, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 92,
+    "invoiceNo": "INV26-000292",
+    "customer": {
+      "name": "Lan Nguyen",
+      "phone": "+84903123456",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,264.75",
+    "createdAt": "25, Sep, 2026",
+    "dueDate": "12, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 93,
+    "invoiceNo": "INV26-000293",
+    "customer": {
+      "name": "Quang Le",
+      "phone": "+84988776655",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$971.25",
+    "createdAt": "28, Oct, 2026",
+    "dueDate": "15, Oct, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 94,
+    "invoiceNo": "INV26-000294",
+    "customer": {
+      "name": "Phuong Vu",
+      "phone": "+84977665544",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,148.00",
+    "createdAt": "03, Nov, 2026",
+    "dueDate": "18, Nov, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 95,
+    "invoiceNo": "INV26-000295",
+    "customer": {
+      "name": "Thanh Pham",
+      "phone": "+84911223344",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$360.50",
+    "createdAt": "06, Dec, 2026",
+    "dueDate": "21, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 96,
+    "invoiceNo": "INV26-000296",
+    "customer": {
+      "name": "Dung Bui",
+      "phone": "+84933445566",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,922.00",
+    "createdAt": "09, Jan, 2026",
+    "dueDate": "24, Jan, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 97,
+    "invoiceNo": "INV26-000297",
+    "customer": {
+      "name": "Miss Nadine Lesch",
+      "phone": "708-308-7184",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,131.01",
+    "createdAt": "12, Feb, 2026",
+    "dueDate": "27, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 98,
+    "invoiceNo": "INV26-000298",
+    "customer": {
+      "name": "Nicole Mraz DDS",
+      "phone": "317-722-2735",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,466.00",
+    "createdAt": "15, Mar, 2026",
+    "dueDate": "02, Mar, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 99,
+    "invoiceNo": "INV26-000299",
+    "customer": {
+      "name": "Heidi Bergnaum",
+      "phone": "708-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$923.50",
+    "createdAt": "18, Apr, 2026",
+    "dueDate": "05, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 100,
+    "invoiceNo": "INV26-000300",
+    "customer": {
+      "name": "Craig Crist DDS",
+      "phone": "317-758-2588",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,200.00",
+    "createdAt": "21, May, 2026",
+    "dueDate": "08, May, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 101,
+    "invoiceNo": "INV26-000301",
+    "customer": {
+      "name": "Michael Aufderhar",
+      "phone": "205-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$467.00",
+    "createdAt": "24, Jun, 2026",
+    "dueDate": "11, Jun, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 102,
+    "invoiceNo": "INV26-000302",
+    "customer": {
+      "name": "Cristina Jerde DDS",
+      "phone": "224-451-5417",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,814.20",
+    "createdAt": "27, Jul, 2026",
+    "dueDate": "14, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 103,
+    "invoiceNo": "INV26-000303",
+    "customer": {
+      "name": "Ms. Sidney Morar",
+      "phone": "504-208-4438",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$621.00",
+    "createdAt": "02, Aug, 2026",
+    "dueDate": "17, Aug, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 104,
+    "invoiceNo": "INV26-000304",
+    "customer": {
+      "name": "Dr. Lee Ferry",
+      "phone": "215-474-5054",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,268.75",
+    "createdAt": "05, Sep, 2026",
+    "dueDate": "20, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 105,
+    "invoiceNo": "INV26-000305",
+    "customer": {
+      "name": "Amos Johnston",
+      "phone": "415-208-0023",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$975.25",
+    "createdAt": "08, Oct, 2026",
+    "dueDate": "23, Oct, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 106,
+    "invoiceNo": "INV26-000306",
+    "customer": {
+      "name": "Deffre Doyle",
+      "phone": "208-704-2088",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,102.00",
+    "createdAt": "11, Nov, 2026",
+    "dueDate": "26, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 107,
+    "invoiceNo": "INV26-000307",
+    "customer": {
+      "name": "Mrs. Vicki Ritchie",
+      "phone": "817-245-8144",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$364.50",
+    "createdAt": "14, Dec, 2026",
+    "dueDate": "01, Dec, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 108,
+    "invoiceNo": "INV26-000308",
+    "customer": {
+      "name": "Anh Hoang",
+      "phone": "+84379854501",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,926.00",
+    "createdAt": "17, Jan, 2026",
+    "dueDate": "04, Jan, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 109,
+    "invoiceNo": "INV26-000309",
+    "customer": {
+      "name": "Tuan Truong",
+      "phone": "+84376987237",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,085.01",
+    "createdAt": "20, Feb, 2026",
+    "dueDate": "07, Feb, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 110,
+    "invoiceNo": "INV26-000310",
+    "customer": {
+      "name": "Anh Dang",
+      "phone": "+84966273503",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,470.00",
+    "createdAt": "23, Mar, 2026",
+    "dueDate": "10, Mar, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 111,
+    "invoiceNo": "INV26-000311",
+    "customer": {
+      "name": "Huy Ly",
+      "phone": "+84938765787",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$927.50",
+    "createdAt": "26, Apr, 2026",
+    "dueDate": "13, Apr, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 112,
+    "invoiceNo": "INV26-000312",
+    "customer": {
+      "name": "Hoa Do",
+      "phone": "+84965489675",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$3,204.00",
+    "createdAt": "01, May, 2026",
+    "dueDate": "16, May, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 113,
+    "invoiceNo": "INV26-000313",
+    "customer": {
+      "name": "Khanh Ly",
+      "phone": "+84706765515",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$471.00",
+    "createdAt": "04, Jun, 2026",
+    "dueDate": "19, Jun, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 114,
+    "invoiceNo": "INV26-000314",
+    "customer": {
+      "name": "Bao Ly",
+      "phone": "+84888250599",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,818.20",
+    "createdAt": "07, Jul, 2026",
+    "dueDate": "22, Jul, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 115,
+    "invoiceNo": "INV26-000315",
+    "customer": {
+      "name": "Minh Tran",
+      "phone": "+84912345678",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$625.00",
+    "createdAt": "10, Aug, 2026",
+    "dueDate": "25, Aug, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 116,
+    "invoiceNo": "INV26-000316",
+    "customer": {
+      "name": "Lan Nguyen",
+      "phone": "+84903123456",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,272.75",
+    "createdAt": "13, Sep, 2026",
+    "dueDate": "28, Sep, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 117,
+    "invoiceNo": "INV26-000317",
+    "customer": {
+      "name": "Quang Le",
+      "phone": "+84988776655",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$979.25",
+    "createdAt": "16, Oct, 2026",
+    "dueDate": "03, Oct, 2026",
+    "paymentStatus": "Cancelled"
+  },
+  {
+    "id": 118,
+    "invoiceNo": "INV26-000318",
+    "customer": {
+      "name": "Phuong Vu",
+      "phone": "+84977665544",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$2,106.00",
+    "createdAt": "19, Nov, 2026",
+    "dueDate": "06, Nov, 2026",
+    "paymentStatus": "Paid"
+  },
+  {
+    "id": 119,
+    "invoiceNo": "INV26-000319",
+    "customer": {
+      "name": "Thanh Pham",
+      "phone": "+84911223344",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$368.50",
+    "createdAt": "22, Dec, 2026",
+    "dueDate": "09, Dec, 2026",
+    "paymentStatus": "Pending"
+  },
+  {
+    "id": 120,
+    "invoiceNo": "INV26-000320",
+    "customer": {
+      "name": "Dung Bui",
+      "phone": "+84933445566",
+      "avatar": "images/avatar.svg"
+    },
+    "totalAmount": "$1,930.00",
+    "createdAt": "25, Jan, 2026",
+    "dueDate": "12, Jan, 2026",
     "paymentStatus": "Paid"
   }
 ]

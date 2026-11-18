@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <link rel="icon" type="image/png" href="images/logo.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dasoon - Invoice Details</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <aside class="sidebar">
+        <div class="logo">
+          <img src="images/logo.png" alt="Dasoon" width="206" height="72" />
+        </div>
+
+        <nav class="app-sidebar-menu">
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Document Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/file-up.svg" alt="" class="menu-icon" />Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/questionnaire-tablet.svg" alt="" class="menu-icon" />Batch Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/tablet-delete.svg" alt="" class="menu-icon" />Error Logs
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/Frame.svg" alt="" class="menu-icon" />Items
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/wallet.svg" alt="" class="menu-icon" />Accounts
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Conversation Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="index.html" class="menu-item">
+              <img src="images/whatsapp.svg" alt="" class="menu-icon" />Conversations
+            </a>
+            <a href="orders.html" class="menu-item">
+              <img src="images/handcart.svg" alt="" class="menu-icon" />Orders
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/message-question.svg" alt="" class="menu-icon" />Exceptions
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>ERP Data</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/users.svg" alt="" class="menu-icon" />Customers
+            </a>
+            <a href="invoices.html" class="menu-item active">
+              <img src="images/cheque.svg" alt="" class="menu-icon" />Invoices
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/lots-shopping.svg" alt="" class="menu-icon" />Items
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>System Settings</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/user.svg" alt="" class="menu-icon" />Users
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/setting-2.svg" alt="" class="menu-icon" />Settings
+            </a>
+          </div>
+        </nav>
+
+        <div class="footer-sidebar">
+          <div class="admin">
+            <span class="avatar">AD</span>
+            <div class="admin-info">
+              <span class="admin-name">Admin</span>
+              <span class="admin-role">Administrator</span>
+            </div>
+          </div>
+          <a href="#" class="menu-item logout"><span class="icon"></span>Log Out</a>
+        </div>
+      </aside>
+
+      <main class="container">
+        <header class="topbar">
+          <button class="toggle" type="button" aria-label="Toggle sidebar">
+            <img src="images/icon-toggle.svg" alt="Toggle Menu" class="toggle-icon" />
+          </button>
+          <h1>Invoices</h1>
+        </header>
+
+        <section class="content content-invoice-details">
+          <div class="invoice-details-layout">
+            <div class="invoice-details-side">
+              <div class="invoice-detail-card">
+                <div class="invoice-detail-header">
+                  <a href="invoices.html" class="invoice-back-btn" aria-label="Back to Invoices">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#231f20" stroke-width="2">
+                      <polyline points="15 18 9 12 15 6"></polyline>
+                    </svg>
+                  </a>
+                  <div class="invoice-detail-title-group">
+                    <div class="invoice-detail-id-row">
+                      <span class="invoice-detail-id" id="detail-invoice-no">INV26-000201</span>
+                      <span class="badge-status badge-status-paid" id="detail-status-badge">Paid</span>
+                    </div>
+                    <span class="invoice-detail-subtitle">Invoice Details</span>
+                  </div>
+                </div>
+
+                <div class="invoice-meta-list">
+                  <div class="invoice-meta-item">
+                    <div class="invoice-meta-label">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#918f8f" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="12" cy="7" r="4"></circle>
+                      </svg>
+                      <span>Created By</span>
+                    </div>
+                    <span class="invoice-meta-val" id="detail-created-by">AI Assistant</span>
+                  </div>
+
+                  <div class="invoice-meta-item">
+                    <div class="invoice-meta-label">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#918f8f" stroke-width="2">
+                        <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+                        <line x1="7" y1="7" x2="7.01" y2="7"></line>
+                      </svg>
+                      <span>channel</span>
+                    </div>
+                    <span class="invoice-meta-val" id="detail-channel">WhatsApp</span>
+                  </div>
+
+                  <div class="invoice-meta-item">
+                    <div class="invoice-meta-label">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#918f8f" stroke-width="2">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                      </svg>
+                      <span>Invoice Date</span>
+                    </div>
+                    <span class="invoice-meta-val" id="detail-invoice-date">12 Sep, 2026</span>
+                  </div>
+
+                  <div class="invoice-meta-item">
+                    <div class="invoice-meta-label">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#918f8f" stroke-width="2">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                      </svg>
+                      <span>Due Date</span>
+                    </div>
+                    <span class="invoice-meta-val" id="detail-due-date">16 Sep, 2026</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="invoice-detail-card">
+                <div class="invoice-customer-card-header">
+                  <span>CUSTOMER INFO</span>
+                </div>
+                <div class="invoice-customer-body">
+                  <div class="invoice-customer-profile">
+                    <img src="images/avatar.svg" alt="" class="invoice-detail-avatar" id="detail-cust-avatar" />
+                    <div class="invoice-detail-cust-info">
+                      <span class="invoice-detail-cust-name" id="detail-cust-name">Alexander Boehm</span>
+                      <span class="invoice-detail-cust-phone" id="detail-cust-phone">829-561-2446</span>
+                    </div>
+                  </div>
+
+                  <div class="invoice-meta-list">
+                    <div class="invoice-meta-item">
+                      <span class="invoice-meta-gray">Customer ID</span>
+                      <span class="invoice-meta-val" id="detail-cust-id">CUS-001293</span>
+                    </div>
+                    <div class="invoice-meta-item">
+                      <span class="invoice-meta-gray">WhatsApp</span>
+                      <span class="invoice-meta-val" id="detail-cust-whatsapp">+65 XXXX XXXX</span>
+                    </div>
+                    <div class="invoice-meta-item">
+                      <span class="invoice-meta-gray">type</span>
+                      <span class="badge-status badge-status-paid" id="detail-cust-type">Existing</span>
+                    </div>
+                  </div>
+
+                  <a href="#" class="invoice-view-cust-btn">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                      <polyline points="15 3 21 3 21 9"></polyline>
+                      <line x1="10" y1="14" x2="21" y2="3"></line>
+                    </svg>
+                    <span>View Customer</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="invoice-details-main">
+              <div class="invoice-items-card">
+                <div class="invoice-items-card-header">
+                  <h2>invoice items</h2>
+                </div>
+                <div class="invoice-items-table-wrapper">
+                  <table class="invoice-items-table">
+                    <thead>
+                      <tr>
+                        <th class="col-item-no">No.</th>
+                        <th class="col-item-name">Item</th>
+                        <th class="col-item-desc">Description</th>
+                        <th class="col-item-qty">QTY</th>
+                        <th class="col-item-uom">UOM</th>
+                        <th class="col-item-price">Unit Price</th>
+                        <th class="col-item-total">Total</th>
+                      </tr>
+                    </thead>
+                    <tbody id="invoice-items-tbody"></tbody>
+                  </table>
+
+                  <div class="invoice-summary-section">
+                    <div class="invoice-summary-row">
+                      <span class="invoice-summary-label">Subtotal</span>
+                      <span class="invoice-summary-val" id="summary-subtotal">$10,503.67</span>
+                    </div>
+                    <div class="invoice-summary-row">
+                      <span class="invoice-summary-label">Tax</span>
+                      <span class="invoice-summary-val" id="summary-tax">$1,050.36</span>
+                    </div>
+                    <div class="invoice-summary-row invoice-grand-total-row">
+                      <span class="invoice-grand-total-label">Grand Total</span>
+                      <span class="invoice-grand-total-val" id="summary-grand-total">$11,553.99</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <footer class="page-footer">2024 &copy; Dasoon</footer>
+      </main>
+    </div>
+    <script src="js/invoice-details.js"></script>
+  </body>
+</html>
