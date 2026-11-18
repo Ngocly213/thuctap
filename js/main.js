@@ -93,7 +93,7 @@ function renderRow(record, globalIndex) {
       </td>
       <td class="col-conversation">
         <div class="session-info">
-          <span class="session-name">${text(record.conversationName)}</span>
+          <a href="conversation-details.html?id=${encodeURIComponent(record.conversationName)}" class="session-name" style="text-decoration:none;color:inherit;cursor:pointer;">${text(record.conversationName)}</a>
           <span class="session-id">Session ID: ${SAMPLE_SESSION_ID}</span>
         </div>
       </td>
@@ -120,9 +120,9 @@ function renderRow(record, globalIndex) {
       <td class="col-time">${formatTime(record.time)}</td>
       <td class="col-status">${statusHtml}</td>
       <td class="col-action">
-        <button class="page-btn" aria-label="More options">
+        <a href="conversation-details.html?id=${encodeURIComponent(record.conversationName)}" class="page-btn" aria-label="View conversation details" style="text-decoration:none;display:inline-flex;align-items:center;justify-content:center;">
           <img src="images/union.svg" alt="Menu" class="page-dots" />
-        </button>
+        </a>
       </td>
     </tr>`;
 }

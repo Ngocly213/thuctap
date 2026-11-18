@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <link rel="icon" type="image/png" href="images/logo.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dasoon - Conversation Details</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <aside class="sidebar">
+        <div class="logo">
+          <img src="images/logo.png" alt="Dasoon" width="206" height="72" />
+        </div>
+
+        <nav class="app-sidebar-menu">
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Document Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/file-up.svg" alt="" class="menu-icon" />Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/questionnaire-tablet.svg" alt="" class="menu-icon" />Batch Uploads
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/tablet-delete.svg" alt="" class="menu-icon" />Error Logs
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/Frame.svg" alt="" class="menu-icon" />Items
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/wallet.svg" alt="" class="menu-icon" />Accounts
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>Conversation Intelligence</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="index.html" class="menu-item active">
+              <img src="images/whatsapp.svg" alt="" class="menu-icon" />Conversations
+            </a>
+            <a href="orders.html" class="menu-item">
+              <img src="images/handcart.svg" alt="" class="menu-icon" />Orders
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/message-question.svg" alt="" class="menu-icon" />Exceptions
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>ERP Data</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/users.svg" alt="" class="menu-icon" />Customers
+            </a>
+            <a href="invoices.html" class="menu-item">
+              <img src="images/cheque.svg" alt="" class="menu-icon" />Invoices
+            </a>
+            <a href="items.html" class="menu-item">
+              <img src="images/lots-shopping.svg" alt="" class="menu-icon" />Items
+            </a>
+          </div>
+
+          <div class="menu-group">
+            <div class="menu-title">
+              <span>System Settings</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+            <a href="#" class="menu-item">
+              <img src="images/user.svg" alt="" class="menu-icon" />Users
+            </a>
+            <a href="#" class="menu-item">
+              <img src="images/setting-2.svg" alt="" class="menu-icon" />Settings
+            </a>
+          </div>
+        </nav>
+
+        <div class="footer-sidebar">
+          <div class="admin">
+            <span class="avatar">AD</span>
+            <div class="admin-info">
+              <span class="admin-name">Admin</span>
+              <span class="admin-role">Administrator</span>
+            </div>
+          </div>
+          <a href="#" class="menu-item logout"><span class="icon"></span>Log Out</a>
+        </div>
+      </aside>
+
+      <main class="container">
+        <header class="topbar">
+          <button class="toggle" type="button" aria-label="Toggle sidebar">
+            <img src="images/icon-toggle.svg" alt="Toggle Menu" class="toggle-icon" />
+          </button>
+          <h1>Conversation Details</h1>
+        </header>
+
+        <section class="content content-conversation-details">
+          <div class="conversation-details-card">
+            <div class="conversation-header-row">
+              <div class="conversation-header-left">
+                <a href="index.html" class="conversation-back-btn" aria-label="Back to conversations">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                  </svg>
+                </a>
+                <div class="conversation-channel-icon">
+                  <img src="images/icon-whatsapp.svg" alt="WhatsApp" width="28" height="28" />
+                </div>
+                <div class="conversation-header-meta">
+                  <span class="conversation-header-title" id="conv-name">Alexander Boehm</span>
+                  <span class="conversation-header-id" id="conv-id">ID: GR26-00392</span>
+                </div>
+                <div class="badge-status badge-status-pending" id="conv-status-badge">Needs Review</div>
+              </div>
+
+              <div class="conversation-header-right">
+                <label class="search-box" style="width: 265px; height: 44px;">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+                  <input type="text" id="conv-search-input" placeholder="Search within this conversation" />
+                </label>
+
+                <div class="filter-box" id="conv-role-filter">
+                  <span>Role: <strong>All</strong></span>
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <polyline points="6 9 12 15 18 9"></polyline>
+                  </svg>
+                </div>
+              </div>
+            </div>
+
+            <div class="conversation-body-layout">
+              <div class="conversation-chat-pane">
+                <div class="conversation-chat-scroll" id="conversation-chat-scroll"></div>
+              </div>
+
+              <aside class="conversation-sidebar-pane">
+                <div class="conv-side-section">
+                  <div class="conv-section-header">
+                    <span class="conv-section-title">Customer Info</span>
+                    <div class="conv-sync-action">
+                      <span>Synced now</span>
+                      <img src="images/element-4.svg" alt="" width="18" height="18" />
+                    </div>
+                  </div>
+
+                  <div class="conv-user-info-card">
+                    <div class="conv-user-avatar">
+                      <img src="images/avatar.svg" alt="" id="conv-customer-avatar" />
+                    </div>
+                    <div>
+                      <div class="conv-user-name" id="conv-customer-name">Alexander Boehm</div>
+                      <div class="conv-user-phone" id="conv-customer-phone">829-561-2446</div>
+                    </div>
+                  </div>
+
+                  <div class="conv-details-list">
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">Customer ID</span>
+                      <span class="conv-detail-value" id="conv-customer-id">CUS-001293</span>
+                    </div>
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">WhatsApp</span>
+                      <span class="conv-detail-value" id="conv-customer-whatsapp">+65 0284 1673</span>
+                    </div>
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">Type</span>
+                      <span class="badge-status badge-status-paid" style="font-size: 11px; padding: 2px 8px;">Existing</span>
+                    </div>
+                  </div>
+
+                  <a href="#" class="conv-action-btn-link">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                      <polyline points="15 3 21 3 21 9"></polyline>
+                      <line x1="10" y1="14" x2="21" y2="3"></line>
+                    </svg>
+                    <span>View Customer</span>
+                  </a>
+                </div>
+
+                <div class="conv-side-section">
+                  <div class="conv-section-header">
+                    <span class="conv-section-title">ORDER</span>
+                  </div>
+
+                  <div class="conv-user-name" id="conv-order-id" style="font-size: 15px;">ORD26-00102</div>
+
+                  <div class="conv-details-list">
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">Total Product</span>
+                      <span class="conv-detail-value" id="conv-order-product">12 trays</span>
+                    </div>
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">Amount</span>
+                      <span class="conv-detail-value" id="conv-order-amount">$1,674.01</span>
+                    </div>
+                    <div class="conv-detail-item">
+                      <span class="conv-detail-label">Delivery Status</span>
+                      <span class="badge-status badge-status-paid" style="font-size: 11px; padding: 2px 8px;">Processing</span>
+                    </div>
+                  </div>
+
+                  <div class="conv-actions-group">
+                    <a href="orders.html" class="conv-action-btn-link">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                        <polyline points="15 3 21 3 21 9"></polyline>
+                        <line x1="10" y1="14" x2="21" y2="3"></line>
+                      </svg>
+                      <span>View Order</span>
+                    </a>
+                    <a href="invoices.html" class="conv-action-btn-link">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                        <polyline points="15 3 21 3 21 9"></polyline>
+                        <line x1="10" y1="14" x2="21" y2="3"></line>
+                      </svg>
+                      <span>View Invoice</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="conv-side-section" style="padding: 12px 18px;">
+                  <div class="conv-section-header">
+                    <span class="conv-section-title">RECENT ORDERS (12)</span>
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#918f8f" stroke-width="2">
+                      <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                  </div>
+                </div>
+
+                <div class="conv-side-section">
+                  <div class="conv-section-header">
+                    <span class="conv-section-title">STATISTIC TOKEN</span>
+                  </div>
+
+                  <div class="conv-token-grid">
+                    <div class="conv-token-box">
+                      <div class="conv-token-col-left">
+                        <div class="conv-token-main-val" id="conv-tokens-time">0.92s</div>
+                        <div class="conv-token-main-label">Total Tokens</div>
+                      </div>
+                      <div class="conv-token-col-right">
+                        <div class="conv-token-row">
+                          <div class="conv-token-indicator">
+                            <span class="conv-dot green"></span>
+                            <span>Input</span>
+                          </div>
+                          <span class="badge-status badge-status-paid" style="font-size: 11px; padding: 2px 8px;" id="conv-input-tokens">892</span>
+                        </div>
+                        <div class="conv-token-row">
+                          <div class="conv-token-indicator">
+                            <span class="conv-dot grey"></span>
+                            <span>Output</span>
+                          </div>
+                          <span class="badge-status badge-status-refunded" style="font-size: 11px; padding: 2px 8px;" id="conv-output-tokens">80</span>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="conv-token-grid-row2">
+                      <div class="conv-metric-mini">
+                        <div class="conv-metric-mini-val">204</div>
+                        <div class="conv-metric-mini-desc">
+                          <img src="images/whatsapp.svg" alt="" width="14" height="14" />
+                          <span>Message</span>
+                        </div>
+                      </div>
+                      <div class="conv-metric-mini">
+                        <div class="conv-metric-mini-val">0.02ms</div>
+                        <div class="conv-metric-mini-desc">
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <polyline points="12 6 12 12 16 14"></polyline>
+                          </svg>
+                          <span>Latency</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </aside>
+            </div>
+          </div>
+        </section>
+
+        <footer class="page-footer">2024 &copy; Dasoon</footer>
+      </main>
+    </div>
+    <script src="js/conversation-details.js"></script>
+  </body>
+</html>
